@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK 11 w m.  Rzetnia",
+    "description": "Województwo: wielkopolskie<br>Powiat: kępiński<br>Gmina: Kępno<br>Ilość: 1<br>Współrzędne: 51.34319248073467, 17.951873568579234",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "wielkopolskie",
+    "Powiat": "kępiński",
+    "Gmina": "Kępno",
+    "Ilość": "1.0",
+    "Współrzędne": "51.34319248073467, 17.951873568579234"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK 11 w m. Trzebień",
+    "description": "Województwo: wielkopolskie<br>Powiat: kępiński<br>Gmina: Łęka Opatowska<br>Ilość: 1<br>Współrzędne: 51.22327402356981, 18.116359069064462",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "wielkopolskie",
+    "Powiat": "kępiński",
+    "Gmina": "Łęka Opatowska",
+    "Ilość": "1.0",
+    "Współrzędne": "51.22327402356981, 18.116359069064462"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK 11 w m. Opatów",
+    "description": "Województwo: wielkopolskie<br>Powiat: kępiński<br>Gmina: Łęka Opatowska<br>Ilość: 1<br>Współrzędne: 51.21311088518213, 18.142790947158364",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "wielkopolskie",
+    "Powiat": "kępiński",
+    "Gmina": "Łęka Opatowska",
+    "Ilość": "1.0",
+    "Współrzędne": "51.21311088518213, 18.142790947158364"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK 11 w m. Klasak",
+    "description": "Województwo: wielkopolskie<br>Powiat: kępiński<br>Gmina: Łęka Opatowska<br>Ilość: 1<br>Współrzędne: 51.18984939893383, 18.147547977892057",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "wielkopolskie",
+    "Powiat": "kępiński",
+    "Gmina": "Łęka Opatowska",
+    "Ilość": "1.0",
+    "Współrzędne": "51.18984939893383, 18.147547977892057"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK39 w m. Rychtal",
+    "description": "Województwo: wielkopolskie<br>Powiat: kępiński<br>Gmina: Rychtal<br>Ilość: <br>Współrzędne: 51.14658088477269, 17.856537210497805",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "wielkopolskie",
+    "Powiat": "kępiński",
+    "Gmina": "Rychtal",
+    "Ilość": null,
+    "Współrzędne": "51.14658088477269, 17.856537210497805"
+  }
+]

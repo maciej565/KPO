@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Klub Malucha w Długomiłowicach",
+    "address": "Opolskie Kędzierzyńsko-Kozielski Długomiłowice 47-208 Parkowa 8",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Długomiłowice<br>Kod pocztowy: 47-208<br>Ulica: Parkowa<br>Numer: 8<br>adres: Opolskie Kędzierzyńsko-Kozielski Długomiłowice 47-208 Parkowa 8<br>Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Długomiłowice<br>Kod pocztowy: 47-208<br>Ulica: Parkowa<br>Numer: 8",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Kędzierzyńsko-Kozielski\nMiejscowość: Długomiłowice\nKod pocztowy: 47-208\nUlica: Parkowa\nNumer: 8",
+    "adres": "Opolskie Kędzierzyńsko-Kozielski Długomiłowice 47-208 Parkowa 8",
+    "Województwo": "Opolskie",
+    "Powiat": "Kędzierzyńsko-Kozielski",
+    "Miejscowość": "Długomiłowice",
+    "Kod pocztowy": "47-208",
+    "Ulica": "Parkowa",
+    "Numer": "8"
+  },
+  {
+    "name": "Klub Malucha w Większycach",
+    "address": "Opolskie Kędzierzyńsko-Kozielski Większyce 47-208 Kozielska 5",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Większyce<br>Kod pocztowy: 47-208<br>Ulica: Kozielska<br>Numer: 5<br>adres: Opolskie Kędzierzyńsko-Kozielski Większyce 47-208 Kozielska 5<br>Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Większyce<br>Kod pocztowy: 47-208<br>Ulica: Kozielska<br>Numer: 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Kędzierzyńsko-Kozielski\nMiejscowość: Większyce\nKod pocztowy: 47-208\nUlica: Kozielska\nNumer: 5",
+    "adres": "Opolskie Kędzierzyńsko-Kozielski Większyce 47-208 Kozielska 5",
+    "Województwo": "Opolskie",
+    "Powiat": "Kędzierzyńsko-Kozielski",
+    "Miejscowość": "Większyce",
+    "Kod pocztowy": "47-208",
+    "Ulica": "Kozielska",
+    "Numer": "5"
+  },
+  {
+    "name": "Żłobek nr 10",
+    "address": "Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Kędzierzyn-Koźle<br>Kod pocztowy: 47-232<br>Ulica: Kazimierza Wielkiego<br>Numer: 6<br>adres: Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6<br>Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Kędzierzyn-Koźle<br>Kod pocztowy: 47-232<br>Ulica: Kazimierza Wielkiego<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Kędzierzyńsko-Kozielski\nMiejscowość: Kędzierzyn-Koźle\nKod pocztowy: 47-232\nUlica: Kazimierza Wielkiego\nNumer: 6",
+    "adres": "Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6",
+    "Województwo": "Opolskie",
+    "Powiat": "Kędzierzyńsko-Kozielski",
+    "Miejscowość": "Kędzierzyn-Koźle",
+    "Kod pocztowy": "47-232",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "6"
+  }
+]

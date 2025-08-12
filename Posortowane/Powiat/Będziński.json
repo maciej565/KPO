@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Żłobek Gminny w Boguchwałowicach",
+    "address": "Śląskie Będziński Boguchwałowice 42-460 Buczka 1",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Boguchwałowice<br>Kod pocztowy: 42-460<br>Ulica: Buczka<br>Numer: 1<br>adres: Śląskie Będziński Boguchwałowice 42-460 Buczka 1<br>Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Boguchwałowice<br>Kod pocztowy: 42-460<br>Ulica: Buczka<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Będziński\nMiejscowość: Boguchwałowice\nKod pocztowy: 42-460\nUlica: Buczka\nNumer: 1",
+    "adres": "Śląskie Będziński Boguchwałowice 42-460 Buczka 1",
+    "Województwo": "Śląskie",
+    "Powiat": "Będziński",
+    "Miejscowość": "Boguchwałowice",
+    "Kod pocztowy": "42-460",
+    "Ulica": "Buczka",
+    "Numer": "1"
+  },
+  {
+    "name": "Żłobek Niepubliczny \" Domek Jezioraczka3\"",
+    "address": "Śląskie Będziński Siewierz 42-470 Nowomiejska 13",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Siewierz<br>Kod pocztowy: 42-470<br>Ulica: Nowomiejska<br>Numer: 13<br>adres: Śląskie Będziński Siewierz 42-470 Nowomiejska 13<br>Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Siewierz<br>Kod pocztowy: 42-470<br>Ulica: Nowomiejska<br>Numer: 13",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Będziński\nMiejscowość: Siewierz\nKod pocztowy: 42-470\nUlica: Nowomiejska\nNumer: 13",
+    "adres": "Śląskie Będziński Siewierz 42-470 Nowomiejska 13",
+    "Województwo": "Śląskie",
+    "Powiat": "Będziński",
+    "Miejscowość": "Siewierz",
+    "Kod pocztowy": "42-470",
+    "Ulica": "Nowomiejska",
+    "Numer": "13"
+  },
+  {
+    "name": "Żłobek Miejski nr 4 w Będzinie",
+    "address": "Śląskie Będziński Będzin 42-500 Siemońska",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Będzin<br>Kod pocztowy: 42-500<br>Ulica: Siemońska<br>Numer:<br>adres: Śląskie Będziński Będzin 42-500 Siemońska<br>Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Będzin<br>Kod pocztowy: 42-500<br>Ulica: Siemońska<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Będziński\nMiejscowość: Będzin\nKod pocztowy: 42-500\nUlica: Siemońska\nNumer:",
+    "adres": "Śląskie Będziński Będzin 42-500 Siemońska",
+    "Województwo": "Śląskie",
+    "Powiat": "Będziński",
+    "Miejscowość": "Będzin",
+    "Kod pocztowy": "42-500",
+    "Ulica": "Siemońska",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek Gminny w Wojkowicach Kościelnych",
+    "address": "Śląskie Będziński Wojkowice Kościelne 42-510 Zachodnia 4",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Wojkowice Kościelne<br>Kod pocztowy: 42-510<br>Ulica: Zachodnia<br>Numer: 4<br>adres: Śląskie Będziński Wojkowice Kościelne 42-510 Zachodnia 4<br>Województwo: Śląskie<br>Powiat: Będziński<br>Miejscowość: Wojkowice Kościelne<br>Kod pocztowy: 42-510<br>Ulica: Zachodnia<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Będziński\nMiejscowość: Wojkowice Kościelne\nKod pocztowy: 42-510\nUlica: Zachodnia\nNumer: 4",
+    "adres": "Śląskie Będziński Wojkowice Kościelne 42-510 Zachodnia 4",
+    "Województwo": "Śląskie",
+    "Powiat": "Będziński",
+    "Miejscowość": "Wojkowice Kościelne",
+    "Kod pocztowy": "42-510",
+    "Ulica": "Zachodnia",
+    "Numer": "4"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Klub dziecięcy KRASNAL",
+    "address": "Mazowieckie Siedlecki Korczew 08-108 Siedlecka 8",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Korczew<br>Kod pocztowy: 08-108<br>Ulica: Siedlecka<br>Numer: 8<br>adres: Mazowieckie Siedlecki Korczew 08-108 Siedlecka 8<br>Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Korczew<br>Kod pocztowy: 08-108<br>Ulica: Siedlecka<br>Numer: 8",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Siedlecki\nMiejscowość: Korczew\nKod pocztowy: 08-108\nUlica: Siedlecka\nNumer: 8",
+    "adres": "Mazowieckie Siedlecki Korczew 08-108 Siedlecka 8",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Siedlecki",
+    "Miejscowość": "Korczew",
+    "Kod pocztowy": "08-108",
+    "Ulica": "Siedlecka",
+    "Numer": "8"
+  },
+  {
+    "name": "Żłobek gminny nr 2 w Żelkowie-Kolonii",
+    "address": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202<br>adres: Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202<br>Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Siedlecki\nMiejscowość: Żelków-Kolonia\nKod pocztowy: 08-110\nUlica: Siedlecka\nNumer: 202",
+    "adres": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Siedlecki",
+    "Miejscowość": "Żelków-Kolonia",
+    "Kod pocztowy": "08-110",
+    "Ulica": "Siedlecka",
+    "Numer": "202"
+  }
+]

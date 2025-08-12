@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Świat Malucha",
+    "address": "Kujawsko-Pomorskie Radziejowski Dobre 88-210 Szkolna 9",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Radziejowski<br>Miejscowość: Dobre<br>Kod pocztowy: 88-210<br>Ulica: Szkolna<br>Numer: 9<br>adres: Kujawsko-Pomorskie Radziejowski Dobre 88-210 Szkolna 9<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Radziejowski<br>Miejscowość: Dobre<br>Kod pocztowy: 88-210<br>Ulica: Szkolna<br>Numer: 9",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Radziejowski\nMiejscowość: Dobre\nKod pocztowy: 88-210\nUlica: Szkolna\nNumer: 9",
+    "adres": "Kujawsko-Pomorskie Radziejowski Dobre 88-210 Szkolna 9",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Radziejowski",
+    "Miejscowość": "Dobre",
+    "Kod pocztowy": "88-210",
+    "Ulica": "Szkolna",
+    "Numer": "9"
+  },
+  {
+    "name": "Termomodernizacja szkół na terenie Gminy Dobre",
+    "address": "Tadeusza Kościuszki 05-307 Dobre MAZOWIECKIE 1,742,396.26 zł",
+    "description": "Nazwa podmiotu: Gmina Dobre<br>Ulica: Tadeusza Kościuszki<br>Nr budynku: 1<br>Kod pocztowy: 05-307<br>Miejscowość: Dobre<br>Województwo: MAZOWIECKIE<br>Dofinansowanie: 1,742,396.26 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Dobre",
+    "Ulica": "Tadeusza Kościuszki",
+    "Nr budynku": "1",
+    "Kod pocztowy": "05-307",
+    "Miejscowość": "Dobre",
+    "Województwo": "MAZOWIECKIE",
+    "Dofinansowanie": "1,742,396.26 zł"
+  }
+]

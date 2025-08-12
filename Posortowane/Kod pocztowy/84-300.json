@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek nr 1",
+    "address": "Pomorskie Lęborski Lębork 84-300 Emilii Plater 12",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Lęborski<br>Miejscowość: Lębork<br>Kod pocztowy: 84-300<br>Ulica: Emilii Plater<br>Numer: 12<br>adres: Pomorskie Lęborski Lębork 84-300 Emilii Plater 12<br>Województwo: Pomorskie<br>Powiat: Lęborski<br>Miejscowość: Lębork<br>Kod pocztowy: 84-300<br>Ulica: Emilii Plater<br>Numer: 12",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Lęborski\nMiejscowość: Lębork\nKod pocztowy: 84-300\nUlica: Emilii Plater\nNumer: 12",
+    "adres": "Pomorskie Lęborski Lębork 84-300 Emilii Plater 12",
+    "Województwo": "Pomorskie",
+    "Powiat": "Lęborski",
+    "Miejscowość": "Lębork",
+    "Kod pocztowy": "84-300",
+    "Ulica": "Emilii Plater",
+    "Numer": "12"
+  },
+  {
+    "name": "Elektromobilność w Gminie Miasto Lębork – zakup autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania",
+    "address": "Armii Krajowej 5 84-300 Lębork",
+    "description": "Ulica: Armii Krajowej<br>Numer: 5<br>Kod pocztowy: 84-300<br>Miejscowość: Lębork",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Armii Krajowej",
+    "Numer": "5",
+    "Kod pocztowy": "84-300",
+    "Miejscowość": "Lębork"
+  }
+]

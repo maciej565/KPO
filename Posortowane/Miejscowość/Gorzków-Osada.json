@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Termomodernizacja budynku fili biblioteki gminnej w miejscowości Borów",
+    "address": "LUBELSKIE Gorzków-Osada 22-315 Główna",
+    "description": "Podmiot: Gmina Gorzków<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Gorzków-Osada<br>Kod pocztowy: 22-315<br>Ulica: Główna<br>Numer budynku: 9",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Gorzków",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Gorzków-Osada",
+    "Kod pocztowy": "22-315",
+    "Ulica": "Główna",
+    "Numer budynku": "9"
+  },
+  {
+    "name": "Termomodernizacja budynku Szkoły Podstawowej w Gorzkowie Osadzie",
+    "address": "Główna 22-315 Gorzków-Osada LUBELSKIE 3,377,013.71 zł",
+    "description": "Nazwa podmiotu: Gmina Gorzków<br>Ulica: Główna<br>Nr budynku: 9<br>Kod pocztowy: 22-315<br>Miejscowość: Gorzków-Osada<br>Województwo: LUBELSKIE<br>Dofinansowanie: 3,377,013.71 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Gorzków",
+    "Ulica": "Główna",
+    "Nr budynku": "9",
+    "Kod pocztowy": "22-315",
+    "Miejscowość": "Gorzków-Osada",
+    "Województwo": "LUBELSKIE",
+    "Dofinansowanie": "3,377,013.71 zł"
+  }
+]

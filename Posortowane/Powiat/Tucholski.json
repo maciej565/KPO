@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Publiczny żłobek w Cekcynie",
+    "address": "Kujawsko-Pomorskie Tucholski Cekcyn 89-511 Cekcyn",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Cekcyn<br>Kod pocztowy: 89-511<br>Ulica: Cekcyn<br>Numer:<br>adres: Kujawsko-Pomorskie Tucholski Cekcyn 89-511 Cekcyn<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Cekcyn<br>Kod pocztowy: 89-511<br>Ulica: Cekcyn<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Tucholski\nMiejscowość: Cekcyn\nKod pocztowy: 89-511\nUlica: Cekcyn\nNumer:",
+    "adres": "Kujawsko-Pomorskie Tucholski Cekcyn 89-511 Cekcyn",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Tucholski",
+    "Miejscowość": "Cekcyn",
+    "Kod pocztowy": "89-511",
+    "Ulica": "Cekcyn",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek Motylek",
+    "address": "Kujawsko-Pomorskie Tucholski Gostycyn 89-520 Sępoleńska 12C",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Gostycyn<br>Kod pocztowy: 89-520<br>Ulica: Sępoleńska<br>Numer: 12C<br>adres: Kujawsko-Pomorskie Tucholski Gostycyn 89-520 Sępoleńska 12C<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Gostycyn<br>Kod pocztowy: 89-520<br>Ulica: Sępoleńska<br>Numer: 12C",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Tucholski\nMiejscowość: Gostycyn\nKod pocztowy: 89-520\nUlica: Sępoleńska\nNumer: 12C",
+    "adres": "Kujawsko-Pomorskie Tucholski Gostycyn 89-520 Sępoleńska 12C",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Tucholski",
+    "Miejscowość": "Gostycyn",
+    "Kod pocztowy": "89-520",
+    "Ulica": "Sępoleńska",
+    "Numer": "12C"
+  },
+  {
+    "name": "Mały Borowiaczek",
+    "address": "Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Śliwice<br>Kod pocztowy: 89-530<br>Ulica: Pocztowa<br>Numer: 2<br>adres: Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Śliwice<br>Kod pocztowy: 89-530<br>Ulica: Pocztowa<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Tucholski\nMiejscowość: Śliwice\nKod pocztowy: 89-530\nUlica: Pocztowa\nNumer: 2",
+    "adres": "Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Tucholski",
+    "Miejscowość": "Śliwice",
+    "Kod pocztowy": "89-530",
+    "Ulica": "Pocztowa",
+    "Numer": "2"
+  }
+]

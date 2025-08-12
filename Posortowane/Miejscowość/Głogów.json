@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Miejski Żłobek Integracyjny \" Dom nad strumykiem \" w Głogowie",
+    "address": "Dolnośląskie Głogowski Głogów 67-200 Strumykowa 3",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Głogowski<br>Miejscowość: Głogów<br>Kod pocztowy: 67-200<br>Ulica: Strumykowa<br>Numer: 3<br>adres: Dolnośląskie Głogowski Głogów 67-200 Strumykowa 3<br>Województwo: Dolnośląskie<br>Powiat: Głogowski<br>Miejscowość: Głogów<br>Kod pocztowy: 67-200<br>Ulica: Strumykowa<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Głogowski\nMiejscowość: Głogów\nKod pocztowy: 67-200\nUlica: Strumykowa\nNumer: 3",
+    "adres": "Dolnośląskie Głogowski Głogów 67-200 Strumykowa 3",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Głogowski",
+    "Miejscowość": "Głogów",
+    "Kod pocztowy": "67-200",
+    "Ulica": "Strumykowa",
+    "Numer": "3"
+  },
+  {
+    "name": "Żłobek Niepubliczny \"Słoneczko\"",
+    "address": "Dolnośląskie Głogowski Głogów 67-200 Gwiaździsta 3a",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Głogowski<br>Miejscowość: Głogów<br>Kod pocztowy: 67-200<br>Ulica: Gwiaździsta<br>Numer: 3a<br>adres: Dolnośląskie Głogowski Głogów 67-200 Gwiaździsta 3a<br>Województwo: Dolnośląskie<br>Powiat: Głogowski<br>Miejscowość: Głogów<br>Kod pocztowy: 67-200<br>Ulica: Gwiaździsta<br>Numer: 3a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Głogowski\nMiejscowość: Głogów\nKod pocztowy: 67-200\nUlica: Gwiaździsta\nNumer: 3a",
+    "adres": "Dolnośląskie Głogowski Głogów 67-200 Gwiaździsta 3a",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Głogowski",
+    "Miejscowość": "Głogów",
+    "Kod pocztowy": "67-200",
+    "Ulica": "Gwiaździsta",
+    "Numer": "3a"
+  },
+  {
+    "name": "Zielony Transport Publiczny w Gminie Miejskiej Głogów – I etap",
+    "address": "Rynek 1 67-200 Głogów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 67-200<br>Miejscowość: Głogów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "67-200",
+    "Miejscowość": "Głogów"
+  },
+  {
+    "name": "Zielony Transport Publiczny w Gminie Miejskiej Głogów – II etap",
+    "address": "Rynek 1 67-200 Głogów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 67-200<br>Miejscowość: Głogów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "67-200",
+    "Miejscowość": "Głogów"
+  }
+]

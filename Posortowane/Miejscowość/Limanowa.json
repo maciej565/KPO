@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Miejski Żłobek nr 2 w Limanowej",
+    "address": "Małopolskie Limanowski Limanowa 34-600 Władysława Stanisława Reymonta 3",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Limanowski<br>Miejscowość: Limanowa<br>Kod pocztowy: 34-600<br>Ulica: Władysława Stanisława Reymonta<br>Numer: 3<br>adres: Małopolskie Limanowski Limanowa 34-600 Władysława Stanisława Reymonta 3<br>Województwo: Małopolskie<br>Powiat: Limanowski<br>Miejscowość: Limanowa<br>Kod pocztowy: 34-600<br>Ulica: Władysława Stanisława Reymonta<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Limanowski\nMiejscowość: Limanowa\nKod pocztowy: 34-600\nUlica: Władysława Stanisława Reymonta\nNumer: 3",
+    "adres": "Małopolskie Limanowski Limanowa 34-600 Władysława Stanisława Reymonta 3",
+    "Województwo": "Małopolskie",
+    "Powiat": "Limanowski",
+    "Miejscowość": "Limanowa",
+    "Kod pocztowy": "34-600",
+    "Ulica": "Władysława Stanisława Reymonta",
+    "Numer": "3"
+  },
+  {
+    "name": "Poprawa efektywności energetycznej Limanowskiego Domu Kultury w Limanowej - etap II",
+    "address": "MAŁOPOLSKIE Limanowa 43-600",
+    "description": "Podmiot: Miasto Limanowa<br>Miejsce realizacji – województwo: MAŁOPOLSKIE<br>Miejscowość: Limanowa<br>Kod pocztowy: 43-600<br>Ulica: <br>Numer budynku: 9",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Miasto Limanowa",
+    "Miejsce realizacji – województwo": "MAŁOPOLSKIE",
+    "Miejscowość": "Limanowa",
+    "Kod pocztowy": "43-600",
+    "Ulica": null,
+    "Numer budynku": "9"
+  }
+]

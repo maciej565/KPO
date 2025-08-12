@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Gminny Żłobek w Zaskalu",
+    "address": "Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Zaskale<br>Kod pocztowy: 34-424<br>Ulica: Kardynała Karola Wojtyły<br>Numer: 51<br>adres: Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Zaskale<br>Kod pocztowy: 34-424<br>Ulica: Kardynała Karola Wojtyły<br>Numer: 51",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Zaskale\nKod pocztowy: 34-424\nUlica: Kardynała Karola Wojtyły\nNumer: 51",
+    "adres": "Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Zaskale",
+    "Kod pocztowy": "34-424",
+    "Ulica": "Kardynała Karola Wojtyły",
+    "Numer": "51"
+  },
+  {
+    "name": "Gminny Żłobek w Krościeńku nad Dunajcem",
+    "address": "Małopolskie Nowotarski Krościenko nad Dunajcem 34-450 Pienińska 2",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Krościenko nad Dunajcem<br>Kod pocztowy: 34-450<br>Ulica: Pienińska<br>Numer: 2<br>adres: Małopolskie Nowotarski Krościenko nad Dunajcem 34-450 Pienińska 2<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Krościenko nad Dunajcem<br>Kod pocztowy: 34-450<br>Ulica: Pienińska<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Krościenko nad Dunajcem\nKod pocztowy: 34-450\nUlica: Pienińska\nNumer: 2",
+    "adres": "Małopolskie Nowotarski Krościenko nad Dunajcem 34-450 Pienińska 2",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Krościenko nad Dunajcem",
+    "Kod pocztowy": "34-450",
+    "Ulica": "Pienińska",
+    "Numer": "2"
+  },
+  {
+    "name": "Miejski Żłobek w Czarnym Dunajcu",
+    "address": "Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Czarny Dunajec<br>Kod pocztowy: 34-470<br>Ulica: Targowa<br>Numer: 1C<br>adres: Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Czarny Dunajec<br>Kod pocztowy: 34-470<br>Ulica: Targowa<br>Numer: 1C",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Czarny Dunajec\nKod pocztowy: 34-470\nUlica: Targowa\nNumer: 1C",
+    "adres": "Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Czarny Dunajec",
+    "Kod pocztowy": "34-470",
+    "Ulica": "Targowa",
+    "Numer": "1C"
+  },
+  {
+    "name": "Gminny Żłobek",
+    "address": "Małopolskie Nowotarski Lipnica Wielka 34-483 Lipnica Wielka 522",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Lipnica Wielka<br>Kod pocztowy: 34-483<br>Ulica: Lipnica Wielka<br>Numer: 522<br>adres: Małopolskie Nowotarski Lipnica Wielka 34-483 Lipnica Wielka 522<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Lipnica Wielka<br>Kod pocztowy: 34-483<br>Ulica: Lipnica Wielka<br>Numer: 522",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Lipnica Wielka\nKod pocztowy: 34-483\nUlica: Lipnica Wielka\nNumer: 522",
+    "adres": "Małopolskie Nowotarski Lipnica Wielka 34-483 Lipnica Wielka 522",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Lipnica Wielka",
+    "Kod pocztowy": "34-483",
+    "Ulica": "Lipnica Wielka",
+    "Numer": "522"
+  }
+]

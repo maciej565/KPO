@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Klub Malucha w Wiązowie",
+    "address": "Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Wiązów<br>Kod pocztowy: 57-120<br>Ulica: Pocztowa<br>Numer: 4<br>adres: Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4<br>Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Wiązów<br>Kod pocztowy: 57-120<br>Ulica: Pocztowa<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Strzeliński\nMiejscowość: Wiązów\nKod pocztowy: 57-120\nUlica: Pocztowa\nNumer: 4",
+    "adres": "Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Strzeliński",
+    "Miejscowość": "Wiązów",
+    "Kod pocztowy": "57-120",
+    "Ulica": "Pocztowa",
+    "Numer": "4"
+  },
+  {
+    "name": "Mały Borowiaczek",
+    "address": "Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Śliwice<br>Kod pocztowy: 89-530<br>Ulica: Pocztowa<br>Numer: 2<br>adres: Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Tucholski<br>Miejscowość: Śliwice<br>Kod pocztowy: 89-530<br>Ulica: Pocztowa<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Tucholski\nMiejscowość: Śliwice\nKod pocztowy: 89-530\nUlica: Pocztowa\nNumer: 2",
+    "adres": "Kujawsko-Pomorskie Tucholski Śliwice 89-530 Pocztowa 2",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Tucholski",
+    "Miejscowość": "Śliwice",
+    "Kod pocztowy": "89-530",
+    "Ulica": "Pocztowa",
+    "Numer": "2"
+  },
+  {
+    "name": "Gminny Żłobek",
+    "address": "Lubuskie Gorzowski Bogdaniec 66-450 Pocztowa 136",
+    "description": "opis: Województwo: Lubuskie<br>Powiat: Gorzowski<br>Miejscowość: Bogdaniec<br>Kod pocztowy: 66-450<br>Ulica: Pocztowa<br>Numer: 136<br>adres: Lubuskie Gorzowski Bogdaniec 66-450 Pocztowa 136<br>Województwo: Lubuskie<br>Powiat: Gorzowski<br>Miejscowość: Bogdaniec<br>Kod pocztowy: 66-450<br>Ulica: Pocztowa<br>Numer: 136",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubuskie\nPowiat: Gorzowski\nMiejscowość: Bogdaniec\nKod pocztowy: 66-450\nUlica: Pocztowa\nNumer: 136",
+    "adres": "Lubuskie Gorzowski Bogdaniec 66-450 Pocztowa 136",
+    "Województwo": "Lubuskie",
+    "Powiat": "Gorzowski",
+    "Miejscowość": "Bogdaniec",
+    "Kod pocztowy": "66-450",
+    "Ulica": "Pocztowa",
+    "Numer": "136"
+  }
+]

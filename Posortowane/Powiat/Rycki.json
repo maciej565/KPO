@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Miejski w Rykach",
+    "address": "Lubelskie Rycki Ryki 08-500 Jana Kochanowskiego 21",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Ryki<br>Kod pocztowy: 08-500<br>Ulica: Jana Kochanowskiego<br>Numer: 21<br>adres: Lubelskie Rycki Ryki 08-500 Jana Kochanowskiego 21<br>Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Ryki<br>Kod pocztowy: 08-500<br>Ulica: Jana Kochanowskiego<br>Numer: 21",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Rycki\nMiejscowość: Ryki\nKod pocztowy: 08-500\nUlica: Jana Kochanowskiego\nNumer: 21",
+    "adres": "Lubelskie Rycki Ryki 08-500 Jana Kochanowskiego 21",
+    "Województwo": "Lubelskie",
+    "Powiat": "Rycki",
+    "Miejscowość": "Ryki",
+    "Kod pocztowy": "08-500",
+    "Ulica": "Jana Kochanowskiego",
+    "Numer": "21"
+  },
+  {
+    "name": "Żłobek \"Smerfuś\"",
+    "address": "Lubelskie Rycki Nowodwór 08-503 Nowodwór 71",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Nowodwór<br>Kod pocztowy: 08-503<br>Ulica: Nowodwór<br>Numer: 71<br>adres: Lubelskie Rycki Nowodwór 08-503 Nowodwór 71<br>Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Nowodwór<br>Kod pocztowy: 08-503<br>Ulica: Nowodwór<br>Numer: 71",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Rycki\nMiejscowość: Nowodwór\nKod pocztowy: 08-503\nUlica: Nowodwór\nNumer: 71",
+    "adres": "Lubelskie Rycki Nowodwór 08-503 Nowodwór 71",
+    "Województwo": "Lubelskie",
+    "Powiat": "Rycki",
+    "Miejscowość": "Nowodwór",
+    "Kod pocztowy": "08-503",
+    "Ulica": "Nowodwór",
+    "Numer": "71"
+  },
+  {
+    "name": "Żłobek Samorządowy w Kawęczynie",
+    "address": "Lubelskie Rycki Kawęczyn 08-550 Kawęczyn 4",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Kawęczyn<br>Kod pocztowy: 08-550<br>Ulica: Kawęczyn<br>Numer: 4<br>adres: Lubelskie Rycki Kawęczyn 08-550 Kawęczyn 4<br>Województwo: Lubelskie<br>Powiat: Rycki<br>Miejscowość: Kawęczyn<br>Kod pocztowy: 08-550<br>Ulica: Kawęczyn<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Rycki\nMiejscowość: Kawęczyn\nKod pocztowy: 08-550\nUlica: Kawęczyn\nNumer: 4",
+    "adres": "Lubelskie Rycki Kawęczyn 08-550 Kawęczyn 4",
+    "Województwo": "Lubelskie",
+    "Powiat": "Rycki",
+    "Miejscowość": "Kawęczyn",
+    "Kod pocztowy": "08-550",
+    "Ulica": "Kawęczyn",
+    "Numer": "4"
+  }
+]

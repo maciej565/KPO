@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Becikowo",
+    "address": "Kujawsko-Pomorskie Wąbrzeski Wąbrzeźno 87-200 Wąbrzeźno 23",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Wąbrzeski<br>Miejscowość: Wąbrzeźno<br>Kod pocztowy: 87-200<br>Ulica: Wąbrzeźno<br>Numer: 23<br>adres: Kujawsko-Pomorskie Wąbrzeski Wąbrzeźno 87-200 Wąbrzeźno 23<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Wąbrzeski<br>Miejscowość: Wąbrzeźno<br>Kod pocztowy: 87-200<br>Ulica: Wąbrzeźno<br>Numer: 23",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Wąbrzeski\nMiejscowość: Wąbrzeźno\nKod pocztowy: 87-200\nUlica: Wąbrzeźno\nNumer: 23",
+    "adres": "Kujawsko-Pomorskie Wąbrzeski Wąbrzeźno 87-200 Wąbrzeźno 23",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Wąbrzeski",
+    "Miejscowość": "Wąbrzeźno",
+    "Kod pocztowy": "87-200",
+    "Ulica": "Wąbrzeźno",
+    "Numer": "23"
+  },
+  {
+    "name": "Klub Dziecięcy w Myśliwcu",
+    "address": "Kujawsko-Pomorskie Wąbrzeski Myśliwiec 87-200 Myśliwiec 13",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Wąbrzeski<br>Miejscowość: Myśliwiec<br>Kod pocztowy: 87-200<br>Ulica: Myśliwiec<br>Numer: 13<br>adres: Kujawsko-Pomorskie Wąbrzeski Myśliwiec 87-200 Myśliwiec 13<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Wąbrzeski<br>Miejscowość: Myśliwiec<br>Kod pocztowy: 87-200<br>Ulica: Myśliwiec<br>Numer: 13",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Wąbrzeski\nMiejscowość: Myśliwiec\nKod pocztowy: 87-200\nUlica: Myśliwiec\nNumer: 13",
+    "adres": "Kujawsko-Pomorskie Wąbrzeski Myśliwiec 87-200 Myśliwiec 13",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Wąbrzeski",
+    "Miejscowość": "Myśliwiec",
+    "Kod pocztowy": "87-200",
+    "Ulica": "Myśliwiec",
+    "Numer": "13"
+  },
+  {
+    "name": "Kompleksowa modernizacja energetyczna obiektów użyteczności publicznej Powiatu Wąbrzeskiego",
+    "address": "Wolności 87-200 Wąbrzeźno KUJAWSKO-POMORSKIE 1,270,689.55 zł",
+    "description": "Nazwa podmiotu: Powiat Wąbrzeski<br>Ulica: Wolności<br>Nr budynku: 44<br>Kod pocztowy: 87-200<br>Miejscowość: Wąbrzeźno<br>Województwo: KUJAWSKO-POMORSKIE<br>Dofinansowanie: 1,270,689.55 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Powiat Wąbrzeski",
+    "Ulica": "Wolności",
+    "Nr budynku": "44",
+    "Kod pocztowy": "87-200",
+    "Miejscowość": "Wąbrzeźno",
+    "Województwo": "KUJAWSKO-POMORSKIE",
+    "Dofinansowanie": "1,270,689.55 zł"
+  }
+]

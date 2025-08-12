@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Żłobek Miejski nr 2",
+    "address": "Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Ostrołęka<br>Miejscowość: Ostrołęka<br>Kod pocztowy: 07-410<br>Ulica: Mazowiecka<br>Numer: 7<br>adres: Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7<br>Województwo: Mazowieckie<br>Powiat: Ostrołęka<br>Miejscowość: Ostrołęka<br>Kod pocztowy: 07-410<br>Ulica: Mazowiecka<br>Numer: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Ostrołęka\nMiejscowość: Ostrołęka\nKod pocztowy: 07-410\nUlica: Mazowiecka\nNumer: 7",
+    "adres": "Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Ostrołęka",
+    "Miejscowość": "Ostrołęka",
+    "Kod pocztowy": "07-410",
+    "Ulica": "Mazowiecka",
+    "Numer": "7"
+  },
+  {
+    "name": "KLUB DZIECIĘCY W JABŁONI KOŚCIELNEJ",
+    "address": "Podlaskie Wysokomazowiecki Jabłoń Kościelna 18-212 Mazowiecka 1",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Wysokomazowiecki<br>Miejscowość: Jabłoń Kościelna<br>Kod pocztowy: 18-212<br>Ulica: Mazowiecka<br>Numer: 1<br>adres: Podlaskie Wysokomazowiecki Jabłoń Kościelna 18-212 Mazowiecka 1<br>Województwo: Podlaskie<br>Powiat: Wysokomazowiecki<br>Miejscowość: Jabłoń Kościelna<br>Kod pocztowy: 18-212<br>Ulica: Mazowiecka<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Wysokomazowiecki\nMiejscowość: Jabłoń Kościelna\nKod pocztowy: 18-212\nUlica: Mazowiecka\nNumer: 1",
+    "adres": "Podlaskie Wysokomazowiecki Jabłoń Kościelna 18-212 Mazowiecka 1",
+    "Województwo": "Podlaskie",
+    "Powiat": "Wysokomazowiecki",
+    "Miejscowość": "Jabłoń Kościelna",
+    "Kod pocztowy": "18-212",
+    "Ulica": "Mazowiecka",
+    "Numer": "1"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do realizacji zadań z zakresu publicznego transportu zbiorowego",
+    "address": "Mazowiecka 26 08-400 Garwolin",
+    "description": "Ulica: Mazowiecka<br>Numer: 26<br>Kod pocztowy: 08-400<br>Miejscowość: Garwolin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Mazowiecka",
+    "Numer": "26",
+    "Kod pocztowy": "08-400",
+    "Miejscowość": "Garwolin"
+  }
+]

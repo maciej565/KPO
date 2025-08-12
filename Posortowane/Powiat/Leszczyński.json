@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Gminny Żłobek w Mórkowie",
+    "address": "Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Mórkowo<br>Kod pocztowy: 64-111<br>Ulica: Mórkowo<br>Numer: 41<br>adres: Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41<br>Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Mórkowo<br>Kod pocztowy: 64-111<br>Ulica: Mórkowo<br>Numer: 41",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Leszczyński\nMiejscowość: Mórkowo\nKod pocztowy: 64-111\nUlica: Mórkowo\nNumer: 41",
+    "adres": "Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Leszczyński",
+    "Miejscowość": "Mórkowo",
+    "Kod pocztowy": "64-111",
+    "Ulica": "Mórkowo",
+    "Numer": "41"
+  },
+  {
+    "name": "Gminny Żłobek w Garzynie",
+    "address": "Wielkopolskie Leszczyński Garzyn 64-120 Leszczyńska 50a",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Garzyn<br>Kod pocztowy: 64-120<br>Ulica: Leszczyńska<br>Numer: 50a<br>adres: Wielkopolskie Leszczyński Garzyn 64-120 Leszczyńska 50a<br>Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Garzyn<br>Kod pocztowy: 64-120<br>Ulica: Leszczyńska<br>Numer: 50a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Leszczyński\nMiejscowość: Garzyn\nKod pocztowy: 64-120\nUlica: Leszczyńska\nNumer: 50a",
+    "adres": "Wielkopolskie Leszczyński Garzyn 64-120 Leszczyńska 50a",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Leszczyński",
+    "Miejscowość": "Garzyn",
+    "Kod pocztowy": "64-120",
+    "Ulica": "Leszczyńska",
+    "Numer": "50a"
+  }
+]

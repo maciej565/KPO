@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Gminny Żłobek w Jelnicy",
+    "address": "Lubelskie Bialski Jelnica 21-560 Jelnica 84",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Jelnica<br>Kod pocztowy: 21-560<br>Ulica: Jelnica<br>Numer: 84<br>adres: Lubelskie Bialski Jelnica 21-560 Jelnica 84<br>Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Jelnica<br>Kod pocztowy: 21-560<br>Ulica: Jelnica<br>Numer: 84",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Bialski\nMiejscowość: Jelnica\nKod pocztowy: 21-560\nUlica: Jelnica\nNumer: 84",
+    "adres": "Lubelskie Bialski Jelnica 21-560 Jelnica 84",
+    "Województwo": "Lubelskie",
+    "Powiat": "Bialski",
+    "Miejscowość": "Jelnica",
+    "Kod pocztowy": "21-560",
+    "Ulica": "Jelnica",
+    "Numer": "84"
+  },
+  {
+    "name": "Żłobek miejski nr 2 w Międzyrzecu Podlaskim",
+    "address": "Lubelskie Bialski Międzyrzec Podlaski 21-560 Prymasa Stefana Wyszyńskiego 22B",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Międzyrzec Podlaski<br>Kod pocztowy: 21-560<br>Ulica: Prymasa Stefana Wyszyńskiego<br>Numer: 22B<br>adres: Lubelskie Bialski Międzyrzec Podlaski 21-560 Prymasa Stefana Wyszyńskiego 22B<br>Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Międzyrzec Podlaski<br>Kod pocztowy: 21-560<br>Ulica: Prymasa Stefana Wyszyńskiego<br>Numer: 22B",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Bialski\nMiejscowość: Międzyrzec Podlaski\nKod pocztowy: 21-560\nUlica: Prymasa Stefana Wyszyńskiego\nNumer: 22B",
+    "adres": "Lubelskie Bialski Międzyrzec Podlaski 21-560 Prymasa Stefana Wyszyńskiego 22B",
+    "Województwo": "Lubelskie",
+    "Powiat": "Bialski",
+    "Miejscowość": "Międzyrzec Podlaski",
+    "Kod pocztowy": "21-560",
+    "Ulica": "Prymasa Stefana Wyszyńskiego",
+    "Numer": "22B"
+  },
+  {
+    "name": "Termomodernizacja świetlicy wiejskiej w miejscowości Żabce",
+    "address": "LUBELSKIE Międzyrzec Podlaski 21-560 Warszawska",
+    "description": "Podmiot: Gmina Międzyrzec Podlaski<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Międzyrzec Podlaski<br>Kod pocztowy: 21-560<br>Ulica: Warszawska<br>Numer budynku: 20",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Międzyrzec Podlaski",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Międzyrzec Podlaski",
+    "Kod pocztowy": "21-560",
+    "Ulica": "Warszawska",
+    "Numer budynku": "20"
+  },
+  {
+    "name": "Termomodernizacja świetlicy wiejskiej w miejscowości Pościsze",
+    "address": "LUBELSKIE Wysokie 21-560 Rudnicka",
+    "description": "Podmiot: Gminny Ośrodek Kultury w Międzyrzecu Podlaskim z siedzibą w Wysokim<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Wysokie<br>Kod pocztowy: 21-560<br>Ulica: Rudnicka<br>Numer budynku: 36",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gminny Ośrodek Kultury w Międzyrzecu Podlaskim z siedzibą w Wysokim",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Wysokie",
+    "Kod pocztowy": "21-560",
+    "Ulica": "Rudnicka",
+    "Numer budynku": "36"
+  }
+]

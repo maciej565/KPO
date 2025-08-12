@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek (nazwa w ustaleniu)",
+    "address": "Wielkopolskie Grodziski Wielichowo 64-050 Strzelecka",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Grodziski<br>Miejscowość: Wielichowo<br>Kod pocztowy: 64-050<br>Ulica: Strzelecka<br>Numer:<br>adres: Wielkopolskie Grodziski Wielichowo 64-050 Strzelecka<br>Województwo: Wielkopolskie<br>Powiat: Grodziski<br>Miejscowość: Wielichowo<br>Kod pocztowy: 64-050<br>Ulica: Strzelecka<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Grodziski\nMiejscowość: Wielichowo\nKod pocztowy: 64-050\nUlica: Strzelecka\nNumer:",
+    "adres": "Wielkopolskie Grodziski Wielichowo 64-050 Strzelecka",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Grodziski",
+    "Miejscowość": "Wielichowo",
+    "Kod pocztowy": "64-050",
+    "Ulica": "Strzelecka",
+    "Numer": null
+  },
+  {
+    "name": "TUPTUSIE",
+    "address": "Wielkopolskie Grodziski Zielęcin 64-050 Szkolna 1A",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Grodziski<br>Miejscowość: Zielęcin<br>Kod pocztowy: 64-050<br>Ulica: Szkolna<br>Numer: 1A<br>adres: Wielkopolskie Grodziski Zielęcin 64-050 Szkolna 1A<br>Województwo: Wielkopolskie<br>Powiat: Grodziski<br>Miejscowość: Zielęcin<br>Kod pocztowy: 64-050<br>Ulica: Szkolna<br>Numer: 1A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Grodziski\nMiejscowość: Zielęcin\nKod pocztowy: 64-050\nUlica: Szkolna\nNumer: 1A",
+    "adres": "Wielkopolskie Grodziski Zielęcin 64-050 Szkolna 1A",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Grodziski",
+    "Miejscowość": "Zielęcin",
+    "Kod pocztowy": "64-050",
+    "Ulica": "Szkolna",
+    "Numer": "1A"
+  }
+]

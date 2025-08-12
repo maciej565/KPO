@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Żłobek Publiczny w Zawadzkiem",
+    "address": "Opolskie Strzelecki Zawadzkie 47-120 Powstańców Śląskich 1",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Strzelecki<br>Miejscowość: Zawadzkie<br>Kod pocztowy: 47-120<br>Ulica: Powstańców Śląskich<br>Numer: 1<br>adres: Opolskie Strzelecki Zawadzkie 47-120 Powstańców Śląskich 1<br>Województwo: Opolskie<br>Powiat: Strzelecki<br>Miejscowość: Zawadzkie<br>Kod pocztowy: 47-120<br>Ulica: Powstańców Śląskich<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Strzelecki\nMiejscowość: Zawadzkie\nKod pocztowy: 47-120\nUlica: Powstańców Śląskich\nNumer: 1",
+    "adres": "Opolskie Strzelecki Zawadzkie 47-120 Powstańców Śląskich 1",
+    "Województwo": "Opolskie",
+    "Powiat": "Strzelecki",
+    "Miejscowość": "Zawadzkie",
+    "Kod pocztowy": "47-120",
+    "Ulica": "Powstańców Śląskich",
+    "Numer": "1"
+  },
+  {
+    "name": "Publiczny żłobek w Herbach",
+    "address": "Śląskie Lubliniecki Herby 42-284 Powstańców Śląskich 4",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Lubliniecki<br>Miejscowość: Herby<br>Kod pocztowy: 42-284<br>Ulica: Powstańców Śląskich<br>Numer: 4<br>adres: Śląskie Lubliniecki Herby 42-284 Powstańców Śląskich 4<br>Województwo: Śląskie<br>Powiat: Lubliniecki<br>Miejscowość: Herby<br>Kod pocztowy: 42-284<br>Ulica: Powstańców Śląskich<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Lubliniecki\nMiejscowość: Herby\nKod pocztowy: 42-284\nUlica: Powstańców Śląskich\nNumer: 4",
+    "adres": "Śląskie Lubliniecki Herby 42-284 Powstańców Śląskich 4",
+    "Województwo": "Śląskie",
+    "Powiat": "Lubliniecki",
+    "Miejscowość": "Herby",
+    "Kod pocztowy": "42-284",
+    "Ulica": "Powstańców Śląskich",
+    "Numer": "4"
+  },
+  {
+    "name": "Żłobek Nr 5",
+    "address": "Wielkopolskie Kalisz Kalisz 62-800 Powstańców Śląskich 46",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Kalisz<br>Miejscowość: Kalisz<br>Kod pocztowy: 62-800<br>Ulica: Powstańców Śląskich<br>Numer: 46<br>adres: Wielkopolskie Kalisz Kalisz 62-800 Powstańców Śląskich 46<br>Województwo: Wielkopolskie<br>Powiat: Kalisz<br>Miejscowość: Kalisz<br>Kod pocztowy: 62-800<br>Ulica: Powstańców Śląskich<br>Numer: 46",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Kalisz\nMiejscowość: Kalisz\nKod pocztowy: 62-800\nUlica: Powstańców Śląskich\nNumer: 46",
+    "adres": "Wielkopolskie Kalisz Kalisz 62-800 Powstańców Śląskich 46",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Kalisz",
+    "Miejscowość": "Kalisz",
+    "Kod pocztowy": "62-800",
+    "Ulica": "Powstańców Śląskich",
+    "Numer": "46"
+  },
+  {
+    "name": "Wymiana źródeł ciepła i poprawa efektywności energetycznej szkół i przedszkoli w Gminie Koszęcin",
+    "address": "Powstańców Śląskich 42-286 Koszęcin ŚLĄSKIE 3,773,630.00 zł",
+    "description": "Nazwa podmiotu: GMINA KOSZĘCIN<br>Ulica: Powstańców Śląskich<br>Nr budynku: 10<br>Kod pocztowy: 42-286<br>Miejscowość: Koszęcin<br>Województwo: ŚLĄSKIE<br>Dofinansowanie: 3,773,630.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "GMINA KOSZĘCIN",
+    "Ulica": "Powstańców Śląskich",
+    "Nr budynku": "10",
+    "Kod pocztowy": "42-286",
+    "Miejscowość": "Koszęcin",
+    "Województwo": "ŚLĄSKIE",
+    "Dofinansowanie": "3,773,630.00 zł"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Samorządowy Żłobek \"Maluszek\" w Przysusze",
+    "address": "Mazowieckie Przysuski Przysucha 26-400 Skowyry 41",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Przysucha<br>Kod pocztowy: 26-400<br>Ulica: Skowyry<br>Numer: 41<br>adres: Mazowieckie Przysuski Przysucha 26-400 Skowyry 41<br>Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Przysucha<br>Kod pocztowy: 26-400<br>Ulica: Skowyry<br>Numer: 41",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Przysuski\nMiejscowość: Przysucha\nKod pocztowy: 26-400\nUlica: Skowyry\nNumer: 41",
+    "adres": "Mazowieckie Przysuski Przysucha 26-400 Skowyry 41",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Przysuski",
+    "Miejscowość": "Przysucha",
+    "Kod pocztowy": "26-400",
+    "Ulica": "Skowyry",
+    "Numer": "41"
+  },
+  {
+    "name": "Publiczny Żłobek w Klwowie",
+    "address": "Mazowieckie Przysuski Klwów 26-415 Opoczyńska 38",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Klwów<br>Kod pocztowy: 26-415<br>Ulica: Opoczyńska<br>Numer: 38<br>adres: Mazowieckie Przysuski Klwów 26-415 Opoczyńska 38<br>Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Klwów<br>Kod pocztowy: 26-415<br>Ulica: Opoczyńska<br>Numer: 38",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Przysuski\nMiejscowość: Klwów\nKod pocztowy: 26-415\nUlica: Opoczyńska\nNumer: 38",
+    "adres": "Mazowieckie Przysuski Klwów 26-415 Opoczyńska 38",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Przysuski",
+    "Miejscowość": "Klwów",
+    "Kod pocztowy": "26-415",
+    "Ulica": "Opoczyńska",
+    "Numer": "38"
+  },
+  {
+    "name": "Klub dziecięcy \"Pluszowy świat\" w Skrzynnie",
+    "address": "Mazowieckie Przysuski Wieniawa 26-432 Wieniawa 26",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Wieniawa<br>Kod pocztowy: 26-432<br>Ulica: Wieniawa<br>Numer: 26<br>adres: Mazowieckie Przysuski Wieniawa 26-432 Wieniawa 26<br>Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Wieniawa<br>Kod pocztowy: 26-432<br>Ulica: Wieniawa<br>Numer: 26",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Przysuski\nMiejscowość: Wieniawa\nKod pocztowy: 26-432\nUlica: Wieniawa\nNumer: 26",
+    "adres": "Mazowieckie Przysuski Wieniawa 26-432 Wieniawa 26",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Przysuski",
+    "Miejscowość": "Wieniawa",
+    "Kod pocztowy": "26-432",
+    "Ulica": "Wieniawa",
+    "Numer": "26"
+  }
+]

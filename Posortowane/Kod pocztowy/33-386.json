@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GMINNY ŻŁOBEK W PODEGRODZIU",
+    "address": "Małopolskie Nowosądecki Podegrodzie 33-386 Podegrodzie 525",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowosądecki<br>Miejscowość: Podegrodzie<br>Kod pocztowy: 33-386<br>Ulica: Podegrodzie<br>Numer: 525<br>adres: Małopolskie Nowosądecki Podegrodzie 33-386 Podegrodzie 525<br>Województwo: Małopolskie<br>Powiat: Nowosądecki<br>Miejscowość: Podegrodzie<br>Kod pocztowy: 33-386<br>Ulica: Podegrodzie<br>Numer: 525",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowosądecki\nMiejscowość: Podegrodzie\nKod pocztowy: 33-386\nUlica: Podegrodzie\nNumer: 525",
+    "adres": "Małopolskie Nowosądecki Podegrodzie 33-386 Podegrodzie 525",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowosądecki",
+    "Miejscowość": "Podegrodzie",
+    "Kod pocztowy": "33-386",
+    "Ulica": "Podegrodzie",
+    "Numer": "525"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów pozamiejskich dla Gminy Podegrodzie",
+    "address": "248 33-386 Podegrodzie",
+    "description": "Ulica: <br>Numer: 248<br>Kod pocztowy: 33-386<br>Miejscowość: Podegrodzie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "248",
+    "Kod pocztowy": "33-386",
+    "Miejscowość": "Podegrodzie"
+  }
+]

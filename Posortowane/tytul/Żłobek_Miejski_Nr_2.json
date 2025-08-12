@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Miejski nr 2",
+    "address": "Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Ostrołęka<br>Miejscowość: Ostrołęka<br>Kod pocztowy: 07-410<br>Ulica: Mazowiecka<br>Numer: 7<br>adres: Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7<br>Województwo: Mazowieckie<br>Powiat: Ostrołęka<br>Miejscowość: Ostrołęka<br>Kod pocztowy: 07-410<br>Ulica: Mazowiecka<br>Numer: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Ostrołęka\nMiejscowość: Ostrołęka\nKod pocztowy: 07-410\nUlica: Mazowiecka\nNumer: 7",
+    "adres": "Mazowieckie Ostrołęka Ostrołęka 07-410 Mazowiecka 7",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Ostrołęka",
+    "Miejscowość": "Ostrołęka",
+    "Kod pocztowy": "07-410",
+    "Ulica": "Mazowiecka",
+    "Numer": "7"
+  },
+  {
+    "name": "Żłobek Miejski nr 2",
+    "address": "Mazowieckie Płock Płock 09-410 gen. Franciszka Kleeberga 3",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Płock<br>Miejscowość: Płock<br>Kod pocztowy: 09-410<br>Ulica: gen. Franciszka Kleeberga<br>Numer: 3<br>adres: Mazowieckie Płock Płock 09-410 gen. Franciszka Kleeberga 3<br>Województwo: Mazowieckie<br>Powiat: Płock<br>Miejscowość: Płock<br>Kod pocztowy: 09-410<br>Ulica: gen. Franciszka Kleeberga<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Płock\nMiejscowość: Płock\nKod pocztowy: 09-410\nUlica: gen. Franciszka Kleeberga\nNumer: 3",
+    "adres": "Mazowieckie Płock Płock 09-410 gen. Franciszka Kleeberga 3",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Płock",
+    "Miejscowość": "Płock",
+    "Kod pocztowy": "09-410",
+    "Ulica": "gen. Franciszka Kleeberga",
+    "Numer": "3"
+  },
+  {
+    "name": "Żłobek Miejski nr 2",
+    "address": "Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Wodzisławski<br>Miejscowość: Wodzisław Śląski<br>Kod pocztowy: 44-304<br>Ulica: świętego Wawrzyńca<br>Numer: 33<br>adres: Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33<br>Województwo: Śląskie<br>Powiat: Wodzisławski<br>Miejscowość: Wodzisław Śląski<br>Kod pocztowy: 44-304<br>Ulica: świętego Wawrzyńca<br>Numer: 33",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Wodzisławski\nMiejscowość: Wodzisław Śląski\nKod pocztowy: 44-304\nUlica: świętego Wawrzyńca\nNumer: 33",
+    "adres": "Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33",
+    "Województwo": "Śląskie",
+    "Powiat": "Wodzisławski",
+    "Miejscowość": "Wodzisław Śląski",
+    "Kod pocztowy": "44-304",
+    "Ulica": "świętego Wawrzyńca",
+    "Numer": "33"
+  }
+]

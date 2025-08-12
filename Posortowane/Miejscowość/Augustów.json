@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek nr 1 w Augustowie",
+    "address": "Podlaskie Augustowski Augustów 16-300 Kilińskiego 6",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Augustowski<br>Miejscowość: Augustów<br>Kod pocztowy: 16-300<br>Ulica: Kilińskiego<br>Numer: 6<br>adres: Podlaskie Augustowski Augustów 16-300 Kilińskiego 6<br>Województwo: Podlaskie<br>Powiat: Augustowski<br>Miejscowość: Augustów<br>Kod pocztowy: 16-300<br>Ulica: Kilińskiego<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Augustowski\nMiejscowość: Augustów\nKod pocztowy: 16-300\nUlica: Kilińskiego\nNumer: 6",
+    "adres": "Podlaskie Augustowski Augustów 16-300 Kilińskiego 6",
+    "Województwo": "Podlaskie",
+    "Powiat": "Augustowski",
+    "Miejscowość": "Augustów",
+    "Kod pocztowy": "16-300",
+    "Ulica": "Kilińskiego",
+    "Numer": "6"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz ze stacjami ładowania na potrzeby transportu publicznego w Augustowie",
+    "address": "Młyńska 35 16-300 Augustów",
+    "description": "Ulica: Młyńska<br>Numer: 35<br>Kod pocztowy: 16-300<br>Miejscowość: Augustów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Młyńska",
+    "Numer": "35",
+    "Kod pocztowy": "16-300",
+    "Miejscowość": "Augustów"
+  }
+]

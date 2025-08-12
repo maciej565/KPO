@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Miejski Żłobek nr 2",
+    "address": "Mazowieckie Ciechanowski Ciechanów 06-400 Prymasa Tysiąclecia 4094-21",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Ciechanowski<br>Miejscowość: Ciechanów<br>Kod pocztowy: 06-400<br>Ulica: Prymasa Tysiąclecia<br>Numer: 4094-21<br>adres: Mazowieckie Ciechanowski Ciechanów 06-400 Prymasa Tysiąclecia 4094-21<br>Województwo: Mazowieckie<br>Powiat: Ciechanowski<br>Miejscowość: Ciechanów<br>Kod pocztowy: 06-400<br>Ulica: Prymasa Tysiąclecia<br>Numer: 4094-21",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Ciechanowski\nMiejscowość: Ciechanów\nKod pocztowy: 06-400\nUlica: Prymasa Tysiąclecia\nNumer: 4094-21",
+    "adres": "Mazowieckie Ciechanowski Ciechanów 06-400 Prymasa Tysiąclecia 4094-21",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Ciechanowski",
+    "Miejscowość": "Ciechanów",
+    "Kod pocztowy": "06-400",
+    "Ulica": "Prymasa Tysiąclecia",
+    "Numer": "4094-21"
+  },
+  {
+    "name": "Zwiększenie efektywności energetycznej budynków miejskich szkół podstawowych w Ciechanowie",
+    "address": "pl. Plac Jana Pawła II 06-400 Ciechanów MAZOWIECKIE 31,057,061.02 zł",
+    "description": "Nazwa podmiotu: Gmina Miejska Ciechanów<br>Ulica: pl. Plac Jana Pawła II<br>Nr budynku: 6<br>Kod pocztowy: 06-400<br>Miejscowość: Ciechanów<br>Województwo: MAZOWIECKIE<br>Dofinansowanie: 31,057,061.02 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Miejska Ciechanów",
+    "Ulica": "pl. Plac Jana Pawła II",
+    "Nr budynku": "6",
+    "Kod pocztowy": "06-400",
+    "Miejscowość": "Ciechanów",
+    "Województwo": "MAZOWIECKIE",
+    "Dofinansowanie": "31,057,061.02 zł"
+  },
+  {
+    "name": "Zakup taboru niskoemisyjnego w Ciechanowie",
+    "address": "pl. Plac Jana Pawła II 6 06-400 Ciechanów",
+    "description": "Ulica: pl. Plac Jana Pawła II<br>Numer: 6<br>Kod pocztowy: 06-400<br>Miejscowość: Ciechanów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Jana Pawła II",
+    "Numer": "6",
+    "Kod pocztowy": "06-400",
+    "Miejscowość": "Ciechanów"
+  },
+  {
+    "name": "Zakup taboru niskoemisyjnego przez Zakład Komunikacji Miejskiej w Ciechanowie Sp. z o.o.",
+    "address": "Gostkowska 83 06-400 Ciechanów",
+    "description": "Ulica: Gostkowska<br>Numer: 83<br>Kod pocztowy: 06-400<br>Miejscowość: Ciechanów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Gostkowska",
+    "Numer": "83",
+    "Kod pocztowy": "06-400",
+    "Miejscowość": "Ciechanów"
+  }
+]

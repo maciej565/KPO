@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Klub Dziecięcy w Mniowie",
+    "address": "Świętokrzyskie Kielecki Mniów 26-080 Centralna 9",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Mniów<br>Kod pocztowy: 26-080<br>Ulica: Centralna<br>Numer: 9<br>adres: Świętokrzyskie Kielecki Mniów 26-080 Centralna 9<br>Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Mniów<br>Kod pocztowy: 26-080<br>Ulica: Centralna<br>Numer: 9",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Kielecki\nMiejscowość: Mniów\nKod pocztowy: 26-080\nUlica: Centralna\nNumer: 9",
+    "adres": "Świętokrzyskie Kielecki Mniów 26-080 Centralna 9",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Kielecki",
+    "Miejscowość": "Mniów",
+    "Kod pocztowy": "26-080",
+    "Ulica": "Centralna",
+    "Numer": "9"
+  },
+  {
+    "name": "Żłobek Dominionki",
+    "address": "Wielkopolskie Średzki Dominowo 63-012 Centralna 3A",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Średzki<br>Miejscowość: Dominowo<br>Kod pocztowy: 63-012<br>Ulica: Centralna<br>Numer: 3A<br>adres: Wielkopolskie Średzki Dominowo 63-012 Centralna 3A<br>Województwo: Wielkopolskie<br>Powiat: Średzki<br>Miejscowość: Dominowo<br>Kod pocztowy: 63-012<br>Ulica: Centralna<br>Numer: 3A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Średzki\nMiejscowość: Dominowo\nKod pocztowy: 63-012\nUlica: Centralna\nNumer: 3A",
+    "adres": "Wielkopolskie Średzki Dominowo 63-012 Centralna 3A",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Średzki",
+    "Miejscowość": "Dominowo",
+    "Kod pocztowy": "63-012",
+    "Ulica": "Centralna",
+    "Numer": "3A"
+  },
+  {
+    "name": "Kompleksowa termomodernizacja budynków wiejskich domów kultury w Gierałtowicach oraz w Gierałtowiczkach",
+    "address": "Cały Kraj Wieprz 34-122 Centralna",
+    "description": "Podmiot: Gmina Wieprz<br>Miejsce realizacji – województwo: Cały Kraj<br>Miejscowość: Wieprz<br>Kod pocztowy: 34-122<br>Ulica: Centralna<br>Numer budynku: 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Wieprz",
+    "Miejsce realizacji – województwo": "Cały Kraj",
+    "Miejscowość": "Wieprz",
+    "Kod pocztowy": "34-122",
+    "Ulica": "Centralna",
+    "Numer budynku": "5"
+  }
+]

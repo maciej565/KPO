@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gminny Żłobek w Bukownie",
+    "address": "Małopolskie Olkuski Bukowno 32-332 Niepodległości 11",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Bukowno<br>Kod pocztowy: 32-332<br>Ulica: Niepodległości<br>Numer: 11<br>adres: Małopolskie Olkuski Bukowno 32-332 Niepodległości 11<br>Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Bukowno<br>Kod pocztowy: 32-332<br>Ulica: Niepodległości<br>Numer: 11",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Olkuski\nMiejscowość: Bukowno\nKod pocztowy: 32-332\nUlica: Niepodległości\nNumer: 11",
+    "adres": "Małopolskie Olkuski Bukowno 32-332 Niepodległości 11",
+    "Województwo": "Małopolskie",
+    "Powiat": "Olkuski",
+    "Miejscowość": "Bukowno",
+    "Kod pocztowy": "32-332",
+    "Ulica": "Niepodległości",
+    "Numer": "11"
+  },
+  {
+    "name": "Prywatny Żłobek \"Ciuchcia\"",
+    "address": "Małopolskie Olkuski Bukowno 32-332 Wyzwolenia 5",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Bukowno<br>Kod pocztowy: 32-332<br>Ulica: Wyzwolenia<br>Numer: 5<br>adres: Małopolskie Olkuski Bukowno 32-332 Wyzwolenia 5<br>Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Bukowno<br>Kod pocztowy: 32-332<br>Ulica: Wyzwolenia<br>Numer: 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Olkuski\nMiejscowość: Bukowno\nKod pocztowy: 32-332\nUlica: Wyzwolenia\nNumer: 5",
+    "adres": "Małopolskie Olkuski Bukowno 32-332 Wyzwolenia 5",
+    "Województwo": "Małopolskie",
+    "Powiat": "Olkuski",
+    "Miejscowość": "Bukowno",
+    "Kod pocztowy": "32-332",
+    "Ulica": "Wyzwolenia",
+    "Numer": "5"
+  },
+  {
+    "name": "Gminny Żłobek",
+    "address": "Małopolskie Olkuski Wolbrom 32-340",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Wolbrom<br>Kod pocztowy: 32-340<br>Ulica: <br>Numer:<br>adres: Małopolskie Olkuski Wolbrom 32-340<br>Województwo: Małopolskie<br>Powiat: Olkuski<br>Miejscowość: Wolbrom<br>Kod pocztowy: 32-340<br>Ulica: <br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Olkuski\nMiejscowość: Wolbrom\nKod pocztowy: 32-340\nUlica: \nNumer:",
+    "adres": "Małopolskie Olkuski Wolbrom 32-340",
+    "Województwo": "Małopolskie",
+    "Powiat": "Olkuski",
+    "Miejscowość": "Wolbrom",
+    "Kod pocztowy": "32-340",
+    "Ulica": null,
+    "Numer": null
+  }
+]

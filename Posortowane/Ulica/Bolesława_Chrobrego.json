@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Żłobek Miejski \"Poranek\" w Oławie",
+    "address": "Dolnośląskie Oławski Oława 55-200 Bolesława Chrobrego 106A",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Oławski<br>Miejscowość: Oława<br>Kod pocztowy: 55-200<br>Ulica: Bolesława Chrobrego<br>Numer: 106A<br>adres: Dolnośląskie Oławski Oława 55-200 Bolesława Chrobrego 106A<br>Województwo: Dolnośląskie<br>Powiat: Oławski<br>Miejscowość: Oława<br>Kod pocztowy: 55-200<br>Ulica: Bolesława Chrobrego<br>Numer: 106A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Oławski\nMiejscowość: Oława\nKod pocztowy: 55-200\nUlica: Bolesława Chrobrego\nNumer: 106A",
+    "adres": "Dolnośląskie Oławski Oława 55-200 Bolesława Chrobrego 106A",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Oławski",
+    "Miejscowość": "Oława",
+    "Kod pocztowy": "55-200",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": "106A"
+  },
+  {
+    "name": "Zespół Opieki nad Dziećmi w wieku do lat 3 miasta Świętochłowice",
+    "address": "Śląskie Świętochłowice Świętochłowice 41-605 Bolesława Chrobrego",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Świętochłowice<br>Miejscowość: Świętochłowice<br>Kod pocztowy: 41-605<br>Ulica: Bolesława Chrobrego<br>Numer:<br>adres: Śląskie Świętochłowice Świętochłowice 41-605 Bolesława Chrobrego<br>Województwo: Śląskie<br>Powiat: Świętochłowice<br>Miejscowość: Świętochłowice<br>Kod pocztowy: 41-605<br>Ulica: Bolesława Chrobrego<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Świętochłowice\nMiejscowość: Świętochłowice\nKod pocztowy: 41-605\nUlica: Bolesława Chrobrego\nNumer:",
+    "adres": "Śląskie Świętochłowice Świętochłowice 41-605 Bolesława Chrobrego",
+    "Województwo": "Śląskie",
+    "Powiat": "Świętochłowice",
+    "Miejscowość": "Świętochłowice",
+    "Kod pocztowy": "41-605",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek Miejski nr 4",
+    "address": "Śląskie Rybnik Rybnik 44-200 Bolesława Chrobrego",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Rybnik<br>Miejscowość: Rybnik<br>Kod pocztowy: 44-200<br>Ulica: Bolesława Chrobrego<br>Numer:<br>adres: Śląskie Rybnik Rybnik 44-200 Bolesława Chrobrego<br>Województwo: Śląskie<br>Powiat: Rybnik<br>Miejscowość: Rybnik<br>Kod pocztowy: 44-200<br>Ulica: Bolesława Chrobrego<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Rybnik\nMiejscowość: Rybnik\nKod pocztowy: 44-200\nUlica: Bolesława Chrobrego\nNumer:",
+    "adres": "Śląskie Rybnik Rybnik 44-200 Bolesława Chrobrego",
+    "Województwo": "Śląskie",
+    "Powiat": "Rybnik",
+    "Miejscowość": "Rybnik",
+    "Kod pocztowy": "44-200",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": null
+  },
+  {
+    "name": "Zakup taboru zeroemisyjnego wraz z niezbędną infrastrukturą w Rybniku",
+    "address": "Bolesława Chrobrego 2 44-200 Rybnik",
+    "description": "Ulica: Bolesława Chrobrego<br>Numer: 2<br>Kod pocztowy: 44-200<br>Miejscowość: Rybnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": "2",
+    "Kod pocztowy": "44-200",
+    "Miejscowość": "Rybnik"
+  },
+  {
+    "name": "Zakup taboru zeroemisyjnego w Rybniku",
+    "address": "Bolesława Chrobrego 2 44-200 Rybnik",
+    "description": "Ulica: Bolesława Chrobrego<br>Numer: 2<br>Kod pocztowy: 44-200<br>Miejscowość: Rybnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": "2",
+    "Kod pocztowy": "44-200",
+    "Miejscowość": "Rybnik"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ogrodnictwo",
+    "address": "lubelskie  Opole Lubelskie, Kluczkowice-Osiedle 2",
+    "description": "Województwo: lubelskie <br>Adres: Opole Lubelskie, Kluczkowice-Osiedle 2<br>OOW: Powiat Opolski<br>Dofinansowanie:   9,589,870.67 zł <br>Strona www: <br>Uruchomienie: do 30.06.2025",
+    "styleUrl": "#icon-1582-673AB7",
+    "Województwo": "lubelskie ",
+    "Adres": "Opole Lubelskie, Kluczkowice-Osiedle 2",
+    "OOW": "Powiat Opolski",
+    "Dofinansowanie": "  9,589,870.67 zł ",
+    "Strona www": null,
+    "Uruchomienie": "do 30.06.2025"
+  },
+  {
+    "name": "Florystyka",
+    "address": "śląskie  Turza Śląska, ul. Ligonia 4",
+    "description": "Województwo: śląskie <br>Adres: Turza Śląska, ul. Ligonia 4<br>OOW: Śląskie Centrum Florystyczne Rekpol sp. z o.o.<br>Dofinansowanie:   10,000,000.00 zł <br>Strona www: https://www.bcu-florystyka.pl/ <br>Uruchomienie: Uruchomione",
+    "styleUrl": "#icon-1582-673AB7",
+    "Województwo": "śląskie ",
+    "Adres": "Turza Śląska, ul. Ligonia 4",
+    "OOW": "Śląskie Centrum Florystyczne Rekpol sp. z o.o.",
+    "Dofinansowanie": "  10,000,000.00 zł ",
+    "Strona www": "https://www.bcu-florystyka.pl/ ",
+    "Uruchomienie": "Uruchomione"
+  },
+  {
+    "name": "Ogrodnictwo",
+    "address": "śląskie  Bielsko-Biała, ul. Akademii Umiejętności 1  ",
+    "description": "Województwo: śląskie <br>Adres: Bielsko-Biała, ul. Akademii Umiejętności 1  <br>OOW: Ministerstwo Rolnictwa i Rozwoju Wsi<br>Dofinansowanie: 10,536,272.44 zł <br>Strona www: https://bcu-ogrodnictwo.pl/<br>Uruchomienie: Uruchomione",
+    "styleUrl": "#icon-1582-673AB7",
+    "Województwo": "śląskie ",
+    "Adres": "Bielsko-Biała, ul. Akademii Umiejętności 1  ",
+    "OOW": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+    "Dofinansowanie": "10,536,272.44 zł ",
+    "Strona www": "https://bcu-ogrodnictwo.pl/",
+    "Uruchomienie": "Uruchomione"
+  },
+  {
+    "name": "Ogrodnictwo",
+    "address": "świętokrzyskie  Sandomierz, ul. Mokoszyńska 6",
+    "description": "Województwo: świętokrzyskie <br>Adres: Sandomierz, ul. Mokoszyńska 6<br>OOW: Ministerstwo Rolnictwa i Rozwoju Wsi<br>Dofinansowanie:   10,995,270.08 zł <br>Strona www: <br>Uruchomienie: do 31.03.2025",
+    "styleUrl": "#icon-1582-673AB7",
+    "Województwo": "świętokrzyskie ",
+    "Adres": "Sandomierz, ul. Mokoszyńska 6",
+    "OOW": "Ministerstwo Rolnictwa i Rozwoju Wsi",
+    "Dofinansowanie": "  10,995,270.08 zł ",
+    "Strona www": null,
+    "Uruchomienie": "do 31.03.2025"
+  }
+]

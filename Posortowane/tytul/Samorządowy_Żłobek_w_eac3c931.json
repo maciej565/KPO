@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Samorządowy Żłobek w Zakliczynie",
+    "address": "Małopolskie Tarnowski Zakliczyn 32-840 Spytka Jordana 2",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Tarnowski<br>Miejscowość: Zakliczyn<br>Kod pocztowy: 32-840<br>Ulica: Spytka Jordana<br>Numer: 2<br>adres: Małopolskie Tarnowski Zakliczyn 32-840 Spytka Jordana 2<br>Województwo: Małopolskie<br>Powiat: Tarnowski<br>Miejscowość: Zakliczyn<br>Kod pocztowy: 32-840<br>Ulica: Spytka Jordana<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Tarnowski\nMiejscowość: Zakliczyn\nKod pocztowy: 32-840\nUlica: Spytka Jordana\nNumer: 2",
+    "adres": "Małopolskie Tarnowski Zakliczyn 32-840 Spytka Jordana 2",
+    "Województwo": "Małopolskie",
+    "Powiat": "Tarnowski",
+    "Miejscowość": "Zakliczyn",
+    "Kod pocztowy": "32-840",
+    "Ulica": "Spytka Jordana",
+    "Numer": "2"
+  },
+  {
+    "name": "Samorządowy Żłobek w Zakliczynie",
+    "address": "MAŁOPOLSKIE\tZakliczyn\t32-840\tSpytka Jordana\t2",
+    "description": "opis: <br>adres: MAŁOPOLSKIE\tZakliczyn\t32-840\tSpytka Jordana\t2<br>Województwo: <br>Powiat: <br>Miejscowość: <br>Kod pocztowy: <br>Ulica: <br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": null,
+    "adres": "MAŁOPOLSKIE\tZakliczyn\t32-840\tSpytka Jordana\t2",
+    "Województwo": null,
+    "Powiat": null,
+    "Miejscowość": null,
+    "Kod pocztowy": null,
+    "Ulica": null,
+    "Numer": null
+  }
+]

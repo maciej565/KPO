@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Bajka",
+    "address": "Dolnośląskie Strzeliński Strzelin 57-100 Księdza Jerzego Popiełuszki 3",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Strzelin<br>Kod pocztowy: 57-100<br>Ulica: Księdza Jerzego Popiełuszki<br>Numer: 3<br>adres: Dolnośląskie Strzeliński Strzelin 57-100 Księdza Jerzego Popiełuszki 3<br>Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Strzelin<br>Kod pocztowy: 57-100<br>Ulica: Księdza Jerzego Popiełuszki<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Strzeliński\nMiejscowość: Strzelin\nKod pocztowy: 57-100\nUlica: Księdza Jerzego Popiełuszki\nNumer: 3",
+    "adres": "Dolnośląskie Strzeliński Strzelin 57-100 Księdza Jerzego Popiełuszki 3",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Strzeliński",
+    "Miejscowość": "Strzelin",
+    "Kod pocztowy": "57-100",
+    "Ulica": "Księdza Jerzego Popiełuszki",
+    "Numer": "3"
+  },
+  {
+    "name": "Klub Malucha w Wiązowie",
+    "address": "Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Wiązów<br>Kod pocztowy: 57-120<br>Ulica: Pocztowa<br>Numer: 4<br>adres: Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4<br>Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Wiązów<br>Kod pocztowy: 57-120<br>Ulica: Pocztowa<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Strzeliński\nMiejscowość: Wiązów\nKod pocztowy: 57-120\nUlica: Pocztowa\nNumer: 4",
+    "adres": "Dolnośląskie Strzeliński Wiązów 57-120 Pocztowa 4",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Strzeliński",
+    "Miejscowość": "Wiązów",
+    "Kod pocztowy": "57-120",
+    "Ulica": "Pocztowa",
+    "Numer": "4"
+  },
+  {
+    "name": "Żłobek w Jegłowej",
+    "address": "Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Jegłowa<br>Kod pocztowy: 57-130<br>Ulica: Janusza Korczaka<br>Numer: 6A<br>adres: Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A<br>Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Jegłowa<br>Kod pocztowy: 57-130<br>Ulica: Janusza Korczaka<br>Numer: 6A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Strzeliński\nMiejscowość: Jegłowa\nKod pocztowy: 57-130\nUlica: Janusza Korczaka\nNumer: 6A",
+    "adres": "Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Strzeliński",
+    "Miejscowość": "Jegłowa",
+    "Kod pocztowy": "57-130",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "6A"
+  }
+]

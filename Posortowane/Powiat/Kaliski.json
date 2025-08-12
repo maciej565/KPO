@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Publiczny Żłobek w Jarantowie, Jarantów 47, 62-814",
+    "address": "Wielkopolskie Kaliski Jarantów 62-814 Jarantów",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Jarantów<br>Kod pocztowy: 62-814<br>Ulica: Jarantów<br>Numer:<br>adres: Wielkopolskie Kaliski Jarantów 62-814 Jarantów<br>Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Jarantów<br>Kod pocztowy: 62-814<br>Ulica: Jarantów<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Kaliski\nMiejscowość: Jarantów\nKod pocztowy: 62-814\nUlica: Jarantów\nNumer:",
+    "adres": "Wielkopolskie Kaliski Jarantów 62-814 Jarantów",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Kaliski",
+    "Miejscowość": "Jarantów",
+    "Kod pocztowy": "62-814",
+    "Ulica": "Jarantów",
+    "Numer": null
+  },
+  {
+    "name": "Publiczny Żłobek w Żelazkowie",
+    "address": "Wielkopolskie Kaliski Żelazków 62-817 Żelazków 110",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Żelazków<br>Kod pocztowy: 62-817<br>Ulica: Żelazków<br>Numer: 110<br>adres: Wielkopolskie Kaliski Żelazków 62-817 Żelazków 110<br>Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Żelazków<br>Kod pocztowy: 62-817<br>Ulica: Żelazków<br>Numer: 110",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Kaliski\nMiejscowość: Żelazków\nKod pocztowy: 62-817\nUlica: Żelazków\nNumer: 110",
+    "adres": "Wielkopolskie Kaliski Żelazków 62-817 Żelazków 110",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Kaliski",
+    "Miejscowość": "Żelazków",
+    "Kod pocztowy": "62-817",
+    "Ulica": "Żelazków",
+    "Numer": "110"
+  },
+  {
+    "name": "Żłobek gminny",
+    "address": "Wielkopolskie Kaliski Opatówek 62-860 Szkolna 9A",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Opatówek<br>Kod pocztowy: 62-860<br>Ulica: Szkolna<br>Numer: 9A<br>adres: Wielkopolskie Kaliski Opatówek 62-860 Szkolna 9A<br>Województwo: Wielkopolskie<br>Powiat: Kaliski<br>Miejscowość: Opatówek<br>Kod pocztowy: 62-860<br>Ulica: Szkolna<br>Numer: 9A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Kaliski\nMiejscowość: Opatówek\nKod pocztowy: 62-860\nUlica: Szkolna\nNumer: 9A",
+    "adres": "Wielkopolskie Kaliski Opatówek 62-860 Szkolna 9A",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Kaliski",
+    "Miejscowość": "Opatówek",
+    "Kod pocztowy": "62-860",
+    "Ulica": "Szkolna",
+    "Numer": "9A"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Żłobek Miejski nr 3",
+    "address": "Śląskie Bytom Bytom 41-902 Strzelców Bytomskich 248",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Bytom<br>Miejscowość: Bytom<br>Kod pocztowy: 41-902<br>Ulica: Strzelców Bytomskich<br>Numer: 248<br>adres: Śląskie Bytom Bytom 41-902 Strzelców Bytomskich 248<br>Województwo: Śląskie<br>Powiat: Bytom<br>Miejscowość: Bytom<br>Kod pocztowy: 41-902<br>Ulica: Strzelców Bytomskich<br>Numer: 248",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Bytom\nMiejscowość: Bytom\nKod pocztowy: 41-902\nUlica: Strzelców Bytomskich\nNumer: 248",
+    "adres": "Śląskie Bytom Bytom 41-902 Strzelców Bytomskich 248",
+    "Województwo": "Śląskie",
+    "Powiat": "Bytom",
+    "Miejscowość": "Bytom",
+    "Kod pocztowy": "41-902",
+    "Ulica": "Strzelców Bytomskich",
+    "Numer": "248"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą towarzyszącą i instalacją OZE w Gminie Łomianki",
+    "address": "Rolnicza 248 05-092 Łomianki",
+    "description": "Ulica: Rolnicza<br>Numer: 248<br>Kod pocztowy: 05-092<br>Miejscowość: Łomianki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rolnicza",
+    "Numer": "248",
+    "Kod pocztowy": "05-092",
+    "Miejscowość": "Łomianki"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów pozamiejskich dla Gminy Podegrodzie",
+    "address": "248 33-386 Podegrodzie",
+    "description": "Ulica: <br>Numer: 248<br>Kod pocztowy: 33-386<br>Miejscowość: Podegrodzie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "248",
+    "Kod pocztowy": "33-386",
+    "Miejscowość": "Podegrodzie"
+  }
+]

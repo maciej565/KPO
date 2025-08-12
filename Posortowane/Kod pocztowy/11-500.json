@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Klub dziecięcy w Wilkasach",
+    "address": "Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Wilkasy<br>Kod pocztowy: 11-500<br>Ulica: Olsztyńska<br>Numer: 29<br>adres: Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Wilkasy<br>Kod pocztowy: 11-500<br>Ulica: Olsztyńska<br>Numer: 29",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Giżycki\nMiejscowość: Wilkasy\nKod pocztowy: 11-500\nUlica: Olsztyńska\nNumer: 29",
+    "adres": "Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Giżycki",
+    "Miejscowość": "Wilkasy",
+    "Kod pocztowy": "11-500",
+    "Ulica": "Olsztyńska",
+    "Numer": "29"
+  },
+  {
+    "name": "Żłobek Miejski w Giżycku",
+    "address": "Warmińsko-Mazurskie Giżycki Giżycko 11-500 Obwodowa 17 (dz.40)",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Giżycko<br>Kod pocztowy: 11-500<br>Ulica: Obwodowa<br>Numer: 17 (dz.40)<br>adres: Warmińsko-Mazurskie Giżycki Giżycko 11-500 Obwodowa 17 (dz.40)<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Giżycko<br>Kod pocztowy: 11-500<br>Ulica: Obwodowa<br>Numer: 17 (dz.40)",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Giżycki\nMiejscowość: Giżycko\nKod pocztowy: 11-500\nUlica: Obwodowa\nNumer: 17 (dz.40)",
+    "adres": "Warmińsko-Mazurskie Giżycki Giżycko 11-500 Obwodowa 17 (dz.40)",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Giżycki",
+    "Miejscowość": "Giżycko",
+    "Kod pocztowy": "11-500",
+    "Ulica": "Obwodowa",
+    "Numer": "17 (dz.40)"
+  },
+  {
+    "name": "Klub dziecięcy \"Koralik\"",
+    "address": "Warmińsko-Mazurskie Giżycki Giżycko 11-500 Daszyńskiego 14",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Giżycko<br>Kod pocztowy: 11-500<br>Ulica: Daszyńskiego<br>Numer: 14<br>adres: Warmińsko-Mazurskie Giżycki Giżycko 11-500 Daszyńskiego 14<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Giżycko<br>Kod pocztowy: 11-500<br>Ulica: Daszyńskiego<br>Numer: 14",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Giżycki\nMiejscowość: Giżycko\nKod pocztowy: 11-500\nUlica: Daszyńskiego\nNumer: 14",
+    "adres": "Warmińsko-Mazurskie Giżycki Giżycko 11-500 Daszyńskiego 14",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Giżycki",
+    "Miejscowość": "Giżycko",
+    "Kod pocztowy": "11-500",
+    "Ulica": "Daszyńskiego",
+    "Numer": "14"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek w Chwaszczynie",
+    "address": "Pomorskie Kartuski Chwaszczyno 80-209 Węglowa",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Chwaszczyno<br>Kod pocztowy: 80-209<br>Ulica: Węglowa<br>Numer:<br>adres: Pomorskie Kartuski Chwaszczyno 80-209 Węglowa<br>Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Chwaszczyno<br>Kod pocztowy: 80-209<br>Ulica: Węglowa<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Kartuski\nMiejscowość: Chwaszczyno\nKod pocztowy: 80-209\nUlica: Węglowa\nNumer:",
+    "adres": "Pomorskie Kartuski Chwaszczyno 80-209 Węglowa",
+    "Województwo": "Pomorskie",
+    "Powiat": "Kartuski",
+    "Miejscowość": "Chwaszczyno",
+    "Kod pocztowy": "80-209",
+    "Ulica": "Węglowa",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek w Dąbrowie",
+    "address": "Pomorskie Kartuski Banino 80-297 Lotnicza",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Banino<br>Kod pocztowy: 80-297<br>Ulica: Lotnicza<br>Numer:<br>adres: Pomorskie Kartuski Banino 80-297 Lotnicza<br>Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Banino<br>Kod pocztowy: 80-297<br>Ulica: Lotnicza<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Kartuski\nMiejscowość: Banino\nKod pocztowy: 80-297\nUlica: Lotnicza\nNumer:",
+    "adres": "Pomorskie Kartuski Banino 80-297 Lotnicza",
+    "Województwo": "Pomorskie",
+    "Powiat": "Kartuski",
+    "Miejscowość": "Banino",
+    "Kod pocztowy": "80-297",
+    "Ulica": "Lotnicza",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek w Żukowie",
+    "address": "Pomorskie Kartuski Żukowo 83-330 Armii Krajowej",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Żukowo<br>Kod pocztowy: 83-330<br>Ulica: Armii Krajowej<br>Numer:<br>adres: Pomorskie Kartuski Żukowo 83-330 Armii Krajowej<br>Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Żukowo<br>Kod pocztowy: 83-330<br>Ulica: Armii Krajowej<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Kartuski\nMiejscowość: Żukowo\nKod pocztowy: 83-330\nUlica: Armii Krajowej\nNumer:",
+    "adres": "Pomorskie Kartuski Żukowo 83-330 Armii Krajowej",
+    "Województwo": "Pomorskie",
+    "Powiat": "Kartuski",
+    "Miejscowość": "Żukowo",
+    "Kod pocztowy": "83-330",
+    "Ulica": "Armii Krajowej",
+    "Numer": null
+  }
+]

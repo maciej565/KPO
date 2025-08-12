@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Samorządowy w Urzędowie",
+    "address": "Lubelskie Kraśnicki Urzędów 23-250 Wodna 34",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Kraśnicki<br>Miejscowość: Urzędów<br>Kod pocztowy: 23-250<br>Ulica: Wodna<br>Numer: 34<br>adres: Lubelskie Kraśnicki Urzędów 23-250 Wodna 34<br>Województwo: Lubelskie<br>Powiat: Kraśnicki<br>Miejscowość: Urzędów<br>Kod pocztowy: 23-250<br>Ulica: Wodna<br>Numer: 34",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Kraśnicki\nMiejscowość: Urzędów\nKod pocztowy: 23-250\nUlica: Wodna\nNumer: 34",
+    "adres": "Lubelskie Kraśnicki Urzędów 23-250 Wodna 34",
+    "Województwo": "Lubelskie",
+    "Powiat": "Kraśnicki",
+    "Miejscowość": "Urzędów",
+    "Kod pocztowy": "23-250",
+    "Ulica": "Wodna",
+    "Numer": "34"
+  },
+  {
+    "name": "Gminny Żłobek w Zamieniu \"Miniek\"",
+    "address": "Mazowieckie Miński Zamienie 05-300 Kołbielska 34",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Miński<br>Miejscowość: Zamienie<br>Kod pocztowy: 05-300<br>Ulica: Kołbielska<br>Numer: 34<br>adres: Mazowieckie Miński Zamienie 05-300 Kołbielska 34<br>Województwo: Mazowieckie<br>Powiat: Miński<br>Miejscowość: Zamienie<br>Kod pocztowy: 05-300<br>Ulica: Kołbielska<br>Numer: 34",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Miński\nMiejscowość: Zamienie\nKod pocztowy: 05-300\nUlica: Kołbielska\nNumer: 34",
+    "adres": "Mazowieckie Miński Zamienie 05-300 Kołbielska 34",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Miński",
+    "Miejscowość": "Zamienie",
+    "Kod pocztowy": "05-300",
+    "Ulica": "Kołbielska",
+    "Numer": "34"
+  },
+  {
+    "name": "Klub dziecięcy \"Kraina Malucha\" w Grodzisku",
+    "address": "Podlaskie Siemiatycki Grodzisk 17-315 1 Maja 34",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Siemiatycki<br>Miejscowość: Grodzisk<br>Kod pocztowy: 17-315<br>Ulica: 1 Maja<br>Numer: 34<br>adres: Podlaskie Siemiatycki Grodzisk 17-315 1 Maja 34<br>Województwo: Podlaskie<br>Powiat: Siemiatycki<br>Miejscowość: Grodzisk<br>Kod pocztowy: 17-315<br>Ulica: 1 Maja<br>Numer: 34",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Siemiatycki\nMiejscowość: Grodzisk\nKod pocztowy: 17-315\nUlica: 1 Maja\nNumer: 34",
+    "adres": "Podlaskie Siemiatycki Grodzisk 17-315 1 Maja 34",
+    "Województwo": "Podlaskie",
+    "Powiat": "Siemiatycki",
+    "Miejscowość": "Grodzisk",
+    "Kod pocztowy": "17-315",
+    "Ulica": "1 Maja",
+    "Numer": "34"
+  }
+]

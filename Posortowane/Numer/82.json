@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Klub dziecięcy w Sztabinie",
+    "address": "Podlaskie Augustowski Sztabin 16-310 Augustowska 82",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Augustowski<br>Miejscowość: Sztabin<br>Kod pocztowy: 16-310<br>Ulica: Augustowska<br>Numer: 82<br>adres: Podlaskie Augustowski Sztabin 16-310 Augustowska 82<br>Województwo: Podlaskie<br>Powiat: Augustowski<br>Miejscowość: Sztabin<br>Kod pocztowy: 16-310<br>Ulica: Augustowska<br>Numer: 82",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Augustowski\nMiejscowość: Sztabin\nKod pocztowy: 16-310\nUlica: Augustowska\nNumer: 82",
+    "adres": "Podlaskie Augustowski Sztabin 16-310 Augustowska 82",
+    "Województwo": "Podlaskie",
+    "Powiat": "Augustowski",
+    "Miejscowość": "Sztabin",
+    "Kod pocztowy": "16-310",
+    "Ulica": "Augustowska",
+    "Numer": "82"
+  },
+  {
+    "name": "Poprawa jakości systemu transportu publicznego w mieście Suwałki – V etap",
+    "address": "Sejneńska 82 16-400 Suwałki",
+    "description": "Ulica: Sejneńska<br>Numer: 82<br>Kod pocztowy: 16-400<br>Miejscowość: Suwałki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Sejneńska",
+    "Numer": "82",
+    "Kod pocztowy": "16-400",
+    "Miejscowość": "Suwałki"
+  }
+]

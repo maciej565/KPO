@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Termomodernizacja budynku Szkoły Podstawowej Nr 8 im. Mikołaja Kopernika przy ul. Pawła Cymsa 14 w Gnieźnie",
+    "address": "Lecha 62-200 Gniezno WIELKOPOLSKIE 4,575,200.00 zł",
+    "description": "Nazwa podmiotu: Miasto Gniezno<br>Ulica: Lecha<br>Nr budynku: 6<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno<br>Województwo: WIELKOPOLSKIE<br>Dofinansowanie: 4,575,200.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Miasto Gniezno",
+    "Ulica": "Lecha",
+    "Nr budynku": "6",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno",
+    "Województwo": "WIELKOPOLSKIE",
+    "Dofinansowanie": "4,575,200.00 zł"
+  },
+  {
+    "name": "Termomodernizacja budynku przedszkola nr 9 Leśne Ludki przy ul. Radosnej 4 w Gnieźnie",
+    "address": "Lecha 62-200 Gniezno WIELKOPOLSKIE 1,401,400.00 zł",
+    "description": "Nazwa podmiotu: Miasto Gniezno<br>Ulica: Lecha<br>Nr budynku: 6<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno<br>Województwo: WIELKOPOLSKIE<br>Dofinansowanie: 1,401,400.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Miasto Gniezno",
+    "Ulica": "Lecha",
+    "Nr budynku": "6",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno",
+    "Województwo": "WIELKOPOLSKIE",
+    "Dofinansowanie": "1,401,400.00 zł"
+  },
+  {
+    "name": "Termomodernizacja budynków oświatowych Powiatu Gnieźnieńskiego etap I - Zespół Szkół Ekonomicznych im. Stefana Kardynała Wyszyńskiego w Gnieźnie i Hala sportowa z zapleczem i łącznikiem II Liceum Ogólnokształcącego im. Dąbrówki w Gnieźnie",
+    "address": "Papieża Jana Pawła II 62-200 Gniezno WIELKOPOLSKIE 5,674,677.22 zł",
+    "description": "Nazwa podmiotu: Powiat Gnieźnieński<br>Ulica: Papieża Jana Pawła II<br>Nr budynku: 9/10<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno<br>Województwo: WIELKOPOLSKIE<br>Dofinansowanie: 5,674,677.22 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Powiat Gnieźnieński",
+    "Ulica": "Papieża Jana Pawła II",
+    "Nr budynku": "9/10",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno",
+    "Województwo": "WIELKOPOLSKIE",
+    "Dofinansowanie": "5,674,677.22 zł"
+  },
+  {
+    "name": "Termomodernizacja budynków oświatowych Powiatu Gnieźnieńskiego etap II - Specjalny Ośrodek Szkolno?Wychowawczy nr 2 w Gnieźnie i Specjalny Ośrodek Szkolno-Wychowawczy im. Hm. Z. Imbierowicza w Kłecku",
+    "address": "Papieża Jana Pawła II 62-200 Gniezno WIELKOPOLSKIE 8,692,821.92 zł",
+    "description": "Nazwa podmiotu: Powiat Gnieźnieński<br>Ulica: Papieża Jana Pawła II<br>Nr budynku: 9/10<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno<br>Województwo: WIELKOPOLSKIE<br>Dofinansowanie: 8,692,821.92 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Powiat Gnieźnieński",
+    "Ulica": "Papieża Jana Pawła II",
+    "Nr budynku": "9/10",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno",
+    "Województwo": "WIELKOPOLSKIE",
+    "Dofinansowanie": "8,692,821.92 zł"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych dla Miasta Gniezna wraz z infrastrukturą",
+    "address": "Lecha 6 62-200 Gniezno",
+    "description": "Ulica: Lecha<br>Numer: 6<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lecha",
+    "Numer": "6",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno"
+  },
+  {
+    "name": "Zakup 3 autobusów elektrycznych do realizacji zadań z zakresu publicznego transportu zbiorowego w gminie Czerniejewo",
+    "address": "Kolejowa 2 62-200 Gniezno",
+    "description": "Ulica: Kolejowa<br>Numer: 2<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kolejowa",
+    "Numer": "2",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno"
+  }
+]

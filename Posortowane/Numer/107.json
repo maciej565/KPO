@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gminny Żłobek",
+    "address": "Lubelskie Krasnostawski Fajsławice 21-060 Fajsławice 107",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Krasnostawski<br>Miejscowość: Fajsławice<br>Kod pocztowy: 21-060<br>Ulica: Fajsławice<br>Numer: 107<br>adres: Lubelskie Krasnostawski Fajsławice 21-060 Fajsławice 107<br>Województwo: Lubelskie<br>Powiat: Krasnostawski<br>Miejscowość: Fajsławice<br>Kod pocztowy: 21-060<br>Ulica: Fajsławice<br>Numer: 107",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Krasnostawski\nMiejscowość: Fajsławice\nKod pocztowy: 21-060\nUlica: Fajsławice\nNumer: 107",
+    "adres": "Lubelskie Krasnostawski Fajsławice 21-060 Fajsławice 107",
+    "Województwo": "Lubelskie",
+    "Powiat": "Krasnostawski",
+    "Miejscowość": "Fajsławice",
+    "Kod pocztowy": "21-060",
+    "Ulica": "Fajsławice",
+    "Numer": "107"
+  },
+  {
+    "name": "Gminny Żłobek w Grębieniu",
+    "address": "Łódzkie Wieluński Grębień 98-335 Grębień 107",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Wieluński<br>Miejscowość: Grębień<br>Kod pocztowy: 98-335<br>Ulica: Grębień<br>Numer: 107<br>adres: Łódzkie Wieluński Grębień 98-335 Grębień 107<br>Województwo: Łódzkie<br>Powiat: Wieluński<br>Miejscowość: Grębień<br>Kod pocztowy: 98-335<br>Ulica: Grębień<br>Numer: 107",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Wieluński\nMiejscowość: Grębień\nKod pocztowy: 98-335\nUlica: Grębień\nNumer: 107",
+    "adres": "Łódzkie Wieluński Grębień 98-335 Grębień 107",
+    "Województwo": "Łódzkie",
+    "Powiat": "Wieluński",
+    "Miejscowość": "Grębień",
+    "Kod pocztowy": "98-335",
+    "Ulica": "Grębień",
+    "Numer": "107"
+  },
+  {
+    "name": "Gminny Żłobek Witanowice",
+    "address": "Małopolskie Wadowicki Witanowice 34-103 Jana Pawła II 107",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Wadowicki<br>Miejscowość: Witanowice<br>Kod pocztowy: 34-103<br>Ulica: Jana Pawła II<br>Numer: 107<br>adres: Małopolskie Wadowicki Witanowice 34-103 Jana Pawła II 107<br>Województwo: Małopolskie<br>Powiat: Wadowicki<br>Miejscowość: Witanowice<br>Kod pocztowy: 34-103<br>Ulica: Jana Pawła II<br>Numer: 107",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Wadowicki\nMiejscowość: Witanowice\nKod pocztowy: 34-103\nUlica: Jana Pawła II\nNumer: 107",
+    "adres": "Małopolskie Wadowicki Witanowice 34-103 Jana Pawła II 107",
+    "Województwo": "Małopolskie",
+    "Powiat": "Wadowicki",
+    "Miejscowość": "Witanowice",
+    "Kod pocztowy": "34-103",
+    "Ulica": "Jana Pawła II",
+    "Numer": "107"
+  }
+]

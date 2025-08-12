@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Ząbkowskie Promyki",
+    "address": "Mazowieckie Wołomiński Ząbki 05-091 Bolesława Prusa 3/5",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Wołomiński<br>Miejscowość: Ząbki<br>Kod pocztowy: 05-091<br>Ulica: Bolesława Prusa<br>Numer: 3/5<br>adres: Mazowieckie Wołomiński Ząbki 05-091 Bolesława Prusa 3/5<br>Województwo: Mazowieckie<br>Powiat: Wołomiński<br>Miejscowość: Ząbki<br>Kod pocztowy: 05-091<br>Ulica: Bolesława Prusa<br>Numer: 3/5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Wołomiński\nMiejscowość: Ząbki\nKod pocztowy: 05-091\nUlica: Bolesława Prusa\nNumer: 3/5",
+    "adres": "Mazowieckie Wołomiński Ząbki 05-091 Bolesława Prusa 3/5",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Wołomiński",
+    "Miejscowość": "Ząbki",
+    "Kod pocztowy": "05-091",
+    "Ulica": "Bolesława Prusa",
+    "Numer": "3/5"
+  },
+  {
+    "name": "Dostawa autobusów zeroemisyjnych wraz z wykonaniem niezbędnej infrastruktury technicznej dla MPK Sp. z o.o. we Wrocławiu",
+    "address": "Bolesława Prusa 75-79 50-316 Wrocław",
+    "description": "Ulica: Bolesława Prusa<br>Numer: 75-79<br>Kod pocztowy: 50-316<br>Miejscowość: Wrocław",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Prusa",
+    "Numer": "75-79",
+    "Kod pocztowy": "50-316",
+    "Miejscowość": "Wrocław"
+  },
+  {
+    "name": "Dostawa taboru tramwajowego dla MPK Sp. z  o.o. we Wrocławiu",
+    "address": "Bolesława Prusa 75-79 50-316 Wrocław",
+    "description": "Ulica: Bolesława Prusa<br>Numer: 75-79<br>Kod pocztowy: 50-316<br>Miejscowość: Wrocław",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Prusa",
+    "Numer": "75-79",
+    "Kod pocztowy": "50-316",
+    "Miejscowość": "Wrocław"
+  }
+]

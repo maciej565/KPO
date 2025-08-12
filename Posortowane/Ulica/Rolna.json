@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek Samorządowy w Goraju",
+    "address": "Lubelskie Biłgorajski Goraj 23-450 Rolna",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Biłgorajski<br>Miejscowość: Goraj<br>Kod pocztowy: 23-450<br>Ulica: Rolna<br>Numer:<br>adres: Lubelskie Biłgorajski Goraj 23-450 Rolna<br>Województwo: Lubelskie<br>Powiat: Biłgorajski<br>Miejscowość: Goraj<br>Kod pocztowy: 23-450<br>Ulica: Rolna<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Biłgorajski\nMiejscowość: Goraj\nKod pocztowy: 23-450\nUlica: Rolna\nNumer:",
+    "adres": "Lubelskie Biłgorajski Goraj 23-450 Rolna",
+    "Województwo": "Lubelskie",
+    "Powiat": "Biłgorajski",
+    "Miejscowość": "Goraj",
+    "Kod pocztowy": "23-450",
+    "Ulica": "Rolna",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek Gminny w Ustroniu Morskim",
+    "address": "Zachodniopomorskie Kołobrzeski Ustronie Morskie 78-111 Rolna 2",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Kołobrzeski<br>Miejscowość: Ustronie Morskie<br>Kod pocztowy: 78-111<br>Ulica: Rolna<br>Numer: 2<br>adres: Zachodniopomorskie Kołobrzeski Ustronie Morskie 78-111 Rolna 2<br>Województwo: Zachodniopomorskie<br>Powiat: Kołobrzeski<br>Miejscowość: Ustronie Morskie<br>Kod pocztowy: 78-111<br>Ulica: Rolna<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Kołobrzeski\nMiejscowość: Ustronie Morskie\nKod pocztowy: 78-111\nUlica: Rolna\nNumer: 2",
+    "adres": "Zachodniopomorskie Kołobrzeski Ustronie Morskie 78-111 Rolna 2",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Kołobrzeski",
+    "Miejscowość": "Ustronie Morskie",
+    "Kod pocztowy": "78-111",
+    "Ulica": "Rolna",
+    "Numer": "2"
+  }
+]

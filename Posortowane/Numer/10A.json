@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Miejski Żłobek w Dubiecku",
+    "address": "Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Dubiecko<br>Kod pocztowy: 37-750<br>Ulica: Przemyska<br>Numer: 10A<br>adres: Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A<br>Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Dubiecko<br>Kod pocztowy: 37-750<br>Ulica: Przemyska<br>Numer: 10A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Przemyski\nMiejscowość: Dubiecko\nKod pocztowy: 37-750\nUlica: Przemyska\nNumer: 10A",
+    "adres": "Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Przemyski",
+    "Miejscowość": "Dubiecko",
+    "Kod pocztowy": "37-750",
+    "Ulica": "Przemyska",
+    "Numer": "10A"
+  },
+  {
+    "name": "Bajkowy Żłobek w Poświętnem",
+    "address": "Podlaskie Białostocki Gołębie 18-112 Gołębie 10A",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Białostocki<br>Miejscowość: Gołębie<br>Kod pocztowy: 18-112<br>Ulica: Gołębie<br>Numer: 10A<br>adres: Podlaskie Białostocki Gołębie 18-112 Gołębie 10A<br>Województwo: Podlaskie<br>Powiat: Białostocki<br>Miejscowość: Gołębie<br>Kod pocztowy: 18-112<br>Ulica: Gołębie<br>Numer: 10A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Białostocki\nMiejscowość: Gołębie\nKod pocztowy: 18-112\nUlica: Gołębie\nNumer: 10A",
+    "adres": "Podlaskie Białostocki Gołębie 18-112 Gołębie 10A",
+    "Województwo": "Podlaskie",
+    "Powiat": "Białostocki",
+    "Miejscowość": "Gołębie",
+    "Kod pocztowy": "18-112",
+    "Ulica": "Gołębie",
+    "Numer": "10A"
+  },
+  {
+    "name": "Żłobek Gminny w Promniku",
+    "address": "Świętokrzyskie Kielecki Promnik 26-067 Szkolna 10A",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Promnik<br>Kod pocztowy: 26-067<br>Ulica: Szkolna<br>Numer: 10A<br>adres: Świętokrzyskie Kielecki Promnik 26-067 Szkolna 10A<br>Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Promnik<br>Kod pocztowy: 26-067<br>Ulica: Szkolna<br>Numer: 10A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Kielecki\nMiejscowość: Promnik\nKod pocztowy: 26-067\nUlica: Szkolna\nNumer: 10A",
+    "adres": "Świętokrzyskie Kielecki Promnik 26-067 Szkolna 10A",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Kielecki",
+    "Miejscowość": "Promnik",
+    "Kod pocztowy": "26-067",
+    "Ulica": "Szkolna",
+    "Numer": "10A"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Żłobek gminny nr 2 w Żelkowie-Kolonii",
+    "address": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202<br>adres: Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202<br>Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Siedlecki\nMiejscowość: Żelków-Kolonia\nKod pocztowy: 08-110\nUlica: Siedlecka\nNumer: 202",
+    "adres": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Siedlecki",
+    "Miejscowość": "Żelków-Kolonia",
+    "Kod pocztowy": "08-110",
+    "Ulica": "Siedlecka",
+    "Numer": "202"
+  },
+  {
+    "name": "Termomodernizacja budynków oświatowych na terenie miasta Siedlce",
+    "address": "skwer Skwer Niepodległości 08-110 Siedlce MAZOWIECKIE 14,629,449.71 zł",
+    "description": "Nazwa podmiotu: Miasto Siedlce<br>Ulica: skwer Skwer Niepodległości<br>Nr budynku: 2<br>Kod pocztowy: 08-110<br>Miejscowość: Siedlce<br>Województwo: MAZOWIECKIE<br>Dofinansowanie: 14,629,449.71 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Miasto Siedlce",
+    "Ulica": "skwer Skwer Niepodległości",
+    "Nr budynku": "2",
+    "Kod pocztowy": "08-110",
+    "Miejscowość": "Siedlce",
+    "Województwo": "MAZOWIECKIE",
+    "Dofinansowanie": "14,629,449.71 zł"
+  }
+]

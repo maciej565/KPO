@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek w Goniądzu",
+    "address": "Podlaskie Moniecki Goniądz 19-110 Różana 18",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Moniecki<br>Miejscowość: Goniądz<br>Kod pocztowy: 19-110<br>Ulica: Różana<br>Numer: 18<br>adres: Podlaskie Moniecki Goniądz 19-110 Różana 18<br>Województwo: Podlaskie<br>Powiat: Moniecki<br>Miejscowość: Goniądz<br>Kod pocztowy: 19-110<br>Ulica: Różana<br>Numer: 18",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Moniecki\nMiejscowość: Goniądz\nKod pocztowy: 19-110\nUlica: Różana\nNumer: 18",
+    "adres": "Podlaskie Moniecki Goniądz 19-110 Różana 18",
+    "Województwo": "Podlaskie",
+    "Powiat": "Moniecki",
+    "Miejscowość": "Goniądz",
+    "Kod pocztowy": "19-110",
+    "Ulica": "Różana",
+    "Numer": "18"
+  },
+  {
+    "name": "Publiczny Żłobek \"Malucholandia\" w Busku-Zdroju",
+    "address": "Świętokrzyskie Buski Busko-Zdrój 28-100 Różana 2",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Buski<br>Miejscowość: Busko-Zdrój<br>Kod pocztowy: 28-100<br>Ulica: Różana<br>Numer: 2<br>adres: Świętokrzyskie Buski Busko-Zdrój 28-100 Różana 2<br>Województwo: Świętokrzyskie<br>Powiat: Buski<br>Miejscowość: Busko-Zdrój<br>Kod pocztowy: 28-100<br>Ulica: Różana<br>Numer: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Buski\nMiejscowość: Busko-Zdrój\nKod pocztowy: 28-100\nUlica: Różana\nNumer: 2",
+    "adres": "Świętokrzyskie Buski Busko-Zdrój 28-100 Różana 2",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Buski",
+    "Miejscowość": "Busko-Zdrój",
+    "Kod pocztowy": "28-100",
+    "Ulica": "Różana",
+    "Numer": "2"
+  }
+]

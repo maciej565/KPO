@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Gminny Żłobek w miejscowości Sławno",
+    "address": "Mazowieckie Radomski Sławno 26-625 Sławno 123/124",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Radomski<br>Miejscowość: Sławno<br>Kod pocztowy: 26-625<br>Ulica: Sławno<br>Numer: 123/124<br>adres: Mazowieckie Radomski Sławno 26-625 Sławno 123/124<br>Województwo: Mazowieckie<br>Powiat: Radomski<br>Miejscowość: Sławno<br>Kod pocztowy: 26-625<br>Ulica: Sławno<br>Numer: 123/124",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Radomski\nMiejscowość: Sławno\nKod pocztowy: 26-625\nUlica: Sławno\nNumer: 123/124",
+    "adres": "Mazowieckie Radomski Sławno 26-625 Sławno 123/124",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Radomski",
+    "Miejscowość": "Sławno",
+    "Kod pocztowy": "26-625",
+    "Ulica": "Sławno",
+    "Numer": "123/124"
+  },
+  {
+    "name": "Kompleksowa termomodernizacja obiektów szkolnych na terenie Gminy Sławno",
+    "address": "Marszałka Józefa Piłsudskiego 26-332 Sławno ŁÓDZKIE 3,964,011.20 zł",
+    "description": "Nazwa podmiotu: Gmina Sławno<br>Ulica: Marszałka Józefa Piłsudskiego<br>Nr budynku: 31<br>Kod pocztowy: 26-332<br>Miejscowość: Sławno<br>Województwo: ŁÓDZKIE<br>Dofinansowanie: 3,964,011.20 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Sławno",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Nr budynku": "31",
+    "Kod pocztowy": "26-332",
+    "Miejscowość": "Sławno",
+    "Województwo": "ŁÓDZKIE",
+    "Dofinansowanie": "3,964,011.20 zł"
+  }
+]

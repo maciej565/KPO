@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Poprawa BRD na przejściach dla pieszych na  DK 78 w m. Zawiercie-Kromołów",
+    "description": "Województwo: śląskie<br>Powiat: zawierciański<br>Gmina: Zawiercie <br>Ilość: <br>Współrzędne: 50.49235228925036, 19.493562264807785",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "zawierciański",
+    "Gmina": "Zawiercie ",
+    "Ilość": null,
+    "Współrzędne": "50.49235228925036, 19.493562264807785"
+  },
+  {
+    "name": "Poprawa BRD na przejściach dla pieszych na  DK 78 w m. Lgota Murowana",
+    "description": "Województwo: śląskie<br>Powiat: zawierciański<br>Gmina: Kroczyce<br>Ilość: <br>Współrzędne: 50.54342078711507, 19.567416994710296",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "zawierciański",
+    "Gmina": "Kroczyce",
+    "Ilość": null,
+    "Współrzędne": "50.54342078711507, 19.567416994710296"
+  },
+  {
+    "name": "Poprawa BRD na przejściach dla pieszych na  DK 78 w m. Kroczyce",
+    "description": "Województwo: śląskie<br>Powiat: zawierciański<br>Gmina: Kroczyce<br>Ilość: <br>Współrzędne: 50.56061648767267, 19.569540884936956",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "zawierciański",
+    "Gmina": "Kroczyce",
+    "Ilość": null,
+    "Współrzędne": "50.56061648767267, 19.569540884936956"
+  },
+  {
+    "name": "Poprawa BRD na przejściach dla pieszych na  DK 78 w m. Gołuc",
+    "description": "Województwo: śląskie<br>Powiat: zawierciański<br>Gmina: Kroczyce<br>Ilość: <br>Współrzędne: 50.56909388242618, 19.619007853017838",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "zawierciański",
+    "Gmina": "Kroczyce",
+    "Ilość": null,
+    "Współrzędne": "50.56909388242618, 19.619007853017838"
+  }
+]

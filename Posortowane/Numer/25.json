@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Gminny klub dziecięcy MALUCH+ w Ceranowie",
+    "address": "Mazowieckie Sokołowski Ceranów 08-322 Ceranów 25",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Sokołowski<br>Miejscowość: Ceranów<br>Kod pocztowy: 08-322<br>Ulica: Ceranów<br>Numer: 25<br>adres: Mazowieckie Sokołowski Ceranów 08-322 Ceranów 25<br>Województwo: Mazowieckie<br>Powiat: Sokołowski<br>Miejscowość: Ceranów<br>Kod pocztowy: 08-322<br>Ulica: Ceranów<br>Numer: 25",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Sokołowski\nMiejscowość: Ceranów\nKod pocztowy: 08-322\nUlica: Ceranów\nNumer: 25",
+    "adres": "Mazowieckie Sokołowski Ceranów 08-322 Ceranów 25",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Sokołowski",
+    "Miejscowość": "Ceranów",
+    "Kod pocztowy": "08-322",
+    "Ulica": "Ceranów",
+    "Numer": "25"
+  },
+  {
+    "name": "Żłobek w Ćmielowie",
+    "address": "Świętokrzyskie Ostrowiecki Ćmielów 27-440 Ostrowiecka 25",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Ostrowiecki<br>Miejscowość: Ćmielów<br>Kod pocztowy: 27-440<br>Ulica: Ostrowiecka<br>Numer: 25<br>adres: Świętokrzyskie Ostrowiecki Ćmielów 27-440 Ostrowiecka 25<br>Województwo: Świętokrzyskie<br>Powiat: Ostrowiecki<br>Miejscowość: Ćmielów<br>Kod pocztowy: 27-440<br>Ulica: Ostrowiecka<br>Numer: 25",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Ostrowiecki\nMiejscowość: Ćmielów\nKod pocztowy: 27-440\nUlica: Ostrowiecka\nNumer: 25",
+    "adres": "Świętokrzyskie Ostrowiecki Ćmielów 27-440 Ostrowiecka 25",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Ostrowiecki",
+    "Miejscowość": "Ćmielów",
+    "Kod pocztowy": "27-440",
+    "Ulica": "Ostrowiecka",
+    "Numer": "25"
+  },
+  {
+    "name": "Zintegrowane działania na rzecz rozwoju zeroemisyjnego transportu publicznego w mieście Żory",
+    "address": "Aleja Wojska Polskiego 25 44-240 Żory",
+    "description": "Ulica: Aleja Wojska Polskiego<br>Numer: 25<br>Kod pocztowy: 44-240<br>Miejscowość: Żory",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "25",
+    "Kod pocztowy": "44-240",
+    "Miejscowość": "Żory"
+  }
+]

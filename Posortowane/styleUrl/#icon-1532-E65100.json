@@ -1,0 +1,2062 @@
+[
+  {
+    "name": "Zakup 18 autobusów elektrycznych przez gdańskie autobusy i tramwaje sp. z o.o.",
+    "address": "Jaśkowa Dolina 2 80-252 Gdańsk",
+    "description": "Ulica: Jaśkowa Dolina<br>Numer: 2<br>Kod pocztowy: 80-252<br>Miejscowość: Gdańsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Jaśkowa Dolina",
+    "Numer": "2",
+    "Kod pocztowy": "80-252",
+    "Miejscowość": "Gdańsk"
+  },
+  {
+    "name": "Zielony transport publiczny dla Płocka – zakup 18 sztuk autobusów wodorowych",
+    "address": "pl. Stary Rynek 1 09-400 Płock",
+    "description": "Ulica: pl. Stary Rynek<br>Numer: 1<br>Kod pocztowy: 09-400<br>Miejscowość: Płock",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Stary Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "09-400",
+    "Miejscowość": "Płock"
+  },
+  {
+    "name": "Rozwój zielonego transportu publicznego w Gminie Bełchatów",
+    "address": "Kościuszki 13 97-400 Bełchatów",
+    "description": "Ulica: Kościuszki<br>Numer: 13<br>Kod pocztowy: 97-400<br>Miejscowość: Bełchatów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kościuszki",
+    "Numer": "13",
+    "Kod pocztowy": "97-400",
+    "Miejscowość": "Bełchatów"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą towarzyszącą w gminie Bochnia",
+    "address": "Kazimierza Wielkiego 26 32-700 Bochnia",
+    "description": "Ulica: Kazimierza Wielkiego<br>Numer: 26<br>Kod pocztowy: 32-700<br>Miejscowość: Bochnia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "26",
+    "Kod pocztowy": "32-700",
+    "Miejscowość": "Bochnia"
+  },
+  {
+    "name": "Zakup elektrycznych autobusów na potrzeby komunikacji publicznej w Gminie Jawor",
+    "address": "rynek Rynek 1 59-400 Jawor",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 59-400<br>Miejscowość: Jawor",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "59-400",
+    "Miejscowość": "Jawor"
+  },
+  {
+    "name": "Zielony transport publiczny w Kielcach – zakup autobusów elektrycznych wraz z infrastrukturą ładowania",
+    "address": "pl. Rynek 1 25-303 Kielce",
+    "description": "Ulica: pl. Rynek<br>Numer: 1<br>Kod pocztowy: 25-303<br>Miejscowość: Kielce",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "25-303",
+    "Miejscowość": "Kielce"
+  },
+  {
+    "name": "Zakup 6 autobusów elektrycznych wraz z infrastrukturą w Ełku",
+    "address": "marsz. Józefa Piłsudskiego 4 19-300 Ełk",
+    "description": "Ulica: marsz. Józefa Piłsudskiego<br>Numer: 4<br>Kod pocztowy: 19-300<br>Miejscowość: Ełk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "marsz. Józefa Piłsudskiego",
+    "Numer": "4",
+    "Kod pocztowy": "19-300",
+    "Miejscowość": "Ełk"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych dla Gminy Miasta Gdańska",
+    "address": "Nowe Ogrody 8/12 80-803 Gdańsk",
+    "description": "Ulica: Nowe Ogrody<br>Numer: 8/12<br>Kod pocztowy: 80-803<br>Miejscowość: Gdańsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Nowe Ogrody",
+    "Numer": "8/12",
+    "Kod pocztowy": "80-803",
+    "Miejscowość": "Gdańsk"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania dla Gminy Miasta Sanoka",
+    "address": "rynek Rynek 1 38-500 Sanok",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 38-500<br>Miejscowość: Sanok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "38-500",
+    "Miejscowość": "Sanok"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz ze stacjami ładowania na potrzeby transportu publicznego w Augustowie",
+    "address": "Młyńska 35 16-300 Augustów",
+    "description": "Ulica: Młyńska<br>Numer: 35<br>Kod pocztowy: 16-300<br>Miejscowość: Augustów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Młyńska",
+    "Numer": "35",
+    "Kod pocztowy": "16-300",
+    "Miejscowość": "Augustów"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz ze stacjami ładowania - Gmina Miasto Częstochowa",
+    "address": "Śląska 11/13 42-217 Częstochowa",
+    "description": "Ulica: Śląska<br>Numer: 11/13<br>Kod pocztowy: 42-217<br>Miejscowość: Częstochowa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Śląska",
+    "Numer": "11/13",
+    "Kod pocztowy": "42-217",
+    "Miejscowość": "Częstochowa"
+  },
+  {
+    "name": "Elektromobilność w Gminie Miasto Lębork – zakup autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania",
+    "address": "Armii Krajowej 5 84-300 Lębork",
+    "description": "Ulica: Armii Krajowej<br>Numer: 5<br>Kod pocztowy: 84-300<br>Miejscowość: Lębork",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Armii Krajowej",
+    "Numer": "5",
+    "Kod pocztowy": "84-300",
+    "Miejscowość": "Lębork"
+  },
+  {
+    "name": "Zakup autobusów wykorzystujących energię wytworzoną z wodoru w Rzeszowie",
+    "address": "Rynek 1 35-064 Rzeszów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 35-064<br>Miejscowość: Rzeszów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "35-064",
+    "Miejscowość": "Rzeszów"
+  },
+  {
+    "name": "Zielony transport publiczny w Gminie Miasto Stargard: zakup 11 sztuk autobusów elektrycznych wraz z infrastrukturą ładowania",
+    "address": "Hetmana Stefana Czarnieckiego 17 73-110 Stargard",
+    "description": "Ulica: Hetmana Stefana Czarnieckiego<br>Numer: 17<br>Kod pocztowy: 73-110<br>Miejscowość: Stargard",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Hetmana Stefana Czarnieckiego",
+    "Numer": "17",
+    "Kod pocztowy": "73-110",
+    "Miejscowość": "Stargard"
+  },
+  {
+    "name": "Zielony transport publiczny w Gminie Miasto Szczecin – faza II: zakup bezemisyjnego taboru autobusowego",
+    "address": "pl. Plac Armii Krajowej 1 70-456 Szczecin",
+    "description": "Ulica: pl. Plac Armii Krajowej<br>Numer: 1<br>Kod pocztowy: 70-456<br>Miejscowość: Szczecin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Armii Krajowej",
+    "Numer": "1",
+    "Kod pocztowy": "70-456",
+    "Miejscowość": "Szczecin"
+  },
+  {
+    "name": "Zakup 12 autobusów elektrycznych wraz z budową towarzyszącej infrastruktury ładowania pojazdów przez Gminę Miasto Świdnica na potrzeby świdnickiej komunikacji miejskiej",
+    "address": "Armii Krajowej 49 58-100 Świdnica",
+    "description": "Ulica: Armii Krajowej<br>Numer: 49<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Armii Krajowej",
+    "Numer": "49",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego we Włocławku poprzez zakup zeroemisyjnego transportu wraz z niezbędną infrastrukturą - etap II",
+    "address": "Pl. Zielony Rynek 11/13 87-800 Włocławek",
+    "description": "Ulica: Pl. Zielony Rynek<br>Numer: 11/13<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pl. Zielony Rynek",
+    "Numer": "11/13",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna w Gminie Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna w Gminie Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna – kontynuacja procesu elektryfikacji taboru komunikacji miejskiej na terenie Gminy Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  },
+  {
+    "name": "Zakup taboru niskoemisyjnego w Ciechanowie",
+    "address": "pl. Plac Jana Pawła II 6 06-400 Ciechanów",
+    "description": "Ulica: pl. Plac Jana Pawła II<br>Numer: 6<br>Kod pocztowy: 06-400<br>Miejscowość: Ciechanów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Jana Pawła II",
+    "Numer": "6",
+    "Kod pocztowy": "06-400",
+    "Miejscowość": "Ciechanów"
+  },
+  {
+    "name": "Zielony Transport Publiczny w Gminie Miejskiej Głogów – I etap",
+    "address": "Rynek 1 67-200 Głogów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 67-200<br>Miejscowość: Głogów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "67-200",
+    "Miejscowość": "Głogów"
+  },
+  {
+    "name": "Zielony Transport Publiczny w Gminie Miejskiej Głogów – II etap",
+    "address": "Rynek 1 67-200 Głogów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 67-200<br>Miejscowość: Głogów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "67-200",
+    "Miejscowość": "Głogów"
+  },
+  {
+    "name": "Zielony transport publiczny - zakup bezemisyjnych autobusów elektrycznych dla Gminy Miejskiej Mielec",
+    "address": "Żeromskiego 26 39-300 Mielec",
+    "description": "Ulica: Żeromskiego<br>Numer: 26<br>Kod pocztowy: 39-300<br>Miejscowość: Mielec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Żeromskiego",
+    "Numer": "26",
+    "Kod pocztowy": "39-300",
+    "Miejscowość": "Mielec"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu zbiorowego na terenie Gminy Miejskiej Nowa Ruda poprzez zakup dwóch autobusów elektrycznych wraz z infrastrukturą do ładowania",
+    "address": "rynek Rynek 1 57-400 Nowa Ruda",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 57-400<br>Miejscowość: Nowa Ruda",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "57-400",
+    "Miejscowość": "Nowa Ruda"
+  },
+  {
+    "name": "Miasto Szczytno - Miasto zrównoważonego transportu publicznego - etap III",
+    "address": "Henryka Sienkiewicza 1 12-100 Szczytno",
+    "description": "Ulica: Henryka Sienkiewicza<br>Numer: 1<br>Kod pocztowy: 12-100<br>Miejscowość: Szczytno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Henryka Sienkiewicza",
+    "Numer": "1",
+    "Kod pocztowy": "12-100",
+    "Miejscowość": "Szczytno"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wodorowych dla Gminy Miejskiej Świdnik",
+    "address": "Stanisława Wyspiańskiego 27 21-040 Świdnik",
+    "description": "Ulica: Stanisława Wyspiańskiego<br>Numer: 27<br>Kod pocztowy: 21-040<br>Miejscowość: Świdnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer": "27",
+    "Kod pocztowy": "21-040",
+    "Miejscowość": "Świdnik"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych i budowa stacji ładowania z pantografem dla Gminy Miejskiej Tczew",
+    "address": "pl. Plac Marszałka Józefa Piłsudskiego 1 83-110 Tczew",
+    "description": "Ulica: pl. Plac Marszałka Józefa Piłsudskiego<br>Numer: 1<br>Kod pocztowy: 83-110<br>Miejscowość: Tczew",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Marszałka Józefa Piłsudskiego",
+    "Numer": "1",
+    "Kod pocztowy": "83-110",
+    "Miejscowość": "Tczew"
+  },
+  {
+    "name": "Poprawa jakości transportu miejskiego w Gminie Miejskiej Wałcz poprzez zakup taboru niskoemisyjnego",
+    "address": "pl. Plac Wolności 1 78-600 Wałcz",
+    "description": "Ulica: pl. Plac Wolności<br>Numer: 1<br>Kod pocztowy: 78-600<br>Miejscowość: Wałcz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Wolności",
+    "Numer": "1",
+    "Kod pocztowy": "78-600",
+    "Miejscowość": "Wałcz"
+  },
+  {
+    "name": "Zintegrowane działania na rzecz rozwoju zeroemisyjnego transportu publicznego w mieście Żory",
+    "address": "Aleja Wojska Polskiego 25 44-240 Żory",
+    "description": "Ulica: Aleja Wojska Polskiego<br>Numer: 25<br>Kod pocztowy: 44-240<br>Miejscowość: Żory",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "25",
+    "Kod pocztowy": "44-240",
+    "Miejscowość": "Żory"
+  },
+  {
+    "name": "Ograniczenie emisji zanieczyszczeń powietrza dzięki nabyciu przez Gminę Piła pięciu elektrycznych autobusów niskopodłogowych (BEV)",
+    "address": "pl. plac Staszica 10 64-920 Piła",
+    "description": "Ulica: pl. plac Staszica<br>Numer: 10<br>Kod pocztowy: 64-920<br>Miejscowość: Piła",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. plac Staszica",
+    "Numer": "10",
+    "Kod pocztowy": "64-920",
+    "Miejscowość": "Piła"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z budową niezbędnej infrastruktury do ich ładowania przez Gminę Polkowice",
+    "address": "rynek Rynek 1 59-100 Polkowice",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 59-100<br>Miejscowość: Polkowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "59-100",
+    "Miejscowość": "Polkowice"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego na terenie Gminy Swarzędz poprzez zakup autobusów elektrycznych w ramach programu Zielony Transport Publiczny",
+    "address": "rynek Rynek 1 62-020 Swarzędz",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 62-020<br>Miejscowość: Swarzędz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "62-020",
+    "Miejscowość": "Swarzędz"
+  },
+  {
+    "name": "Zakup 3 autobusów o napędzie elektrycznym klasy MEGA wraz z budową infrastruktury towarzyszącej",
+    "address": "rynek Rynek 1 62-020 Swarzędz",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 62-020<br>Miejscowość: Swarzędz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "62-020",
+    "Miejscowość": "Swarzędz"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z systemem ładowania dla Gminy Szprotawa",
+    "address": "Rynek 45 67-300 Szprotawa",
+    "description": "Ulica: Rynek<br>Numer: 45<br>Kod pocztowy: 67-300<br>Miejscowość: Szprotawa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "45",
+    "Kod pocztowy": "67-300",
+    "Miejscowość": "Szprotawa"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby realizacji usług z zakresu zbiorowego transportu publicznego na terenie Miasta i Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  },
+  {
+    "name": "Ograniczenie niskiej emisji w Ząbkowicach Śląskich poprzez zakup zeroemisyjnego elektrycznego taboru autobusowego do obsługi Ząbkowickiej Komunikacji Publicznej",
+    "address": "1 Maja 15 57-200 Ząbkowice Śląskie",
+    "description": "Ulica: 1 Maja<br>Numer: 15<br>Kod pocztowy: 57-200<br>Miejscowość: Ząbkowice Śląskie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "1 Maja",
+    "Numer": "15",
+    "Kod pocztowy": "57-200",
+    "Miejscowość": "Ząbkowice Śląskie"
+  },
+  {
+    "name": "Hydrogen GZM",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Zielony Transport GZM",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Zielony Transport GZM - Etap II",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z budową infrastruktury towarzyszącej przez KLA Sp. z o.o. w Kaliszu",
+    "address": "Wrocławska 30-38 62-800 Kalisz",
+    "description": "Ulica: Wrocławska<br>Numer: 30-38<br>Kod pocztowy: 62-800<br>Miejscowość: Kalisz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wrocławska",
+    "Numer": "30-38",
+    "Kod pocztowy": "62-800",
+    "Miejscowość": "Kalisz"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą towarzyszącą i instalacją OZE w Gminie Łomianki",
+    "address": "Rolnicza 248 05-092 Łomianki",
+    "description": "Ulica: Rolnicza<br>Numer: 248<br>Kod pocztowy: 05-092<br>Miejscowość: Łomianki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rolnicza",
+    "Numer": "248",
+    "Kod pocztowy": "05-092",
+    "Miejscowość": "Łomianki"
+  },
+  {
+    "name": "Poprawa stanu czystości powietrza poprzez zmniejszenie emisji gazów do atmosfery – zakup elektrycznych autobusów przez Leszno – miasto na prawach powiatu",
+    "address": "Kazimierza Karasia 15 64-100 Leszno",
+    "description": "Ulica: Kazimierza Karasia<br>Numer: 15<br>Kod pocztowy: 64-100<br>Miejscowość: Leszno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kazimierza Karasia",
+    "Numer": "15",
+    "Kod pocztowy": "64-100",
+    "Miejscowość": "Leszno"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych i budowa infrastruktury ładowania w Jeleniej Górze",
+    "address": "pl. Plac Ratuszowy 58 58-500 Jelenia Góra",
+    "description": "Ulica: pl. Plac Ratuszowy<br>Numer: 58<br>Kod pocztowy: 58-500<br>Miejscowość: Jelenia Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Ratuszowy",
+    "Numer": "58",
+    "Kod pocztowy": "58-500",
+    "Miejscowość": "Jelenia Góra"
+  },
+  {
+    "name": "Zakup 30 szt. autobusów elektrycznych oraz stacji ładowania na potrzeby komunikacji miejskiej w Białymstoku",
+    "address": "Słonimska 1 15-950 Białystok",
+    "description": "Ulica: Słonimska<br>Numer: 1<br>Kod pocztowy: 15-950<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Słonimska",
+    "Numer": "1",
+    "Kod pocztowy": "15-950",
+    "Miejscowość": "Białystok"
+  },
+  {
+    "name": "Wzrost atrakcyjności i dostępności cieszyńskiej komunikacji zbiorowej poprzez zakup autobusów elektrycznych",
+    "address": "rynek Rynek 1 43-400 Cieszyn",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 43-400<br>Miejscowość: Cieszyn",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "43-400",
+    "Miejscowość": "Cieszyn"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych dla Miasta Gniezna wraz z infrastrukturą",
+    "address": "Lecha 6 62-200 Gniezno",
+    "description": "Ulica: Lecha<br>Numer: 6<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lecha",
+    "Numer": "6",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno"
+  },
+  {
+    "name": "Zakup nowych autobusów elektrycznych wraz z infrastrukturą do ich ładowania przez Miasto i Gminę Kórnik",
+    "address": "Plac Niepodległości 1 62-035 Kórnik",
+    "description": "Ulica: Plac Niepodległości<br>Numer: 1<br>Kod pocztowy: 62-035<br>Miejscowość: Kórnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Plac Niepodległości",
+    "Numer": "1",
+    "Kod pocztowy": "62-035",
+    "Miejscowość": "Kórnik"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z systemem ładowania dla Miasta i Gminy Uzdrowiskowej Muszyna",
+    "address": "Rynek 31 33-370 Muszyna",
+    "description": "Ulica: Rynek<br>Numer: 31<br>Kod pocztowy: 33-370<br>Miejscowość: Muszyna",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "31",
+    "Kod pocztowy": "33-370",
+    "Miejscowość": "Muszyna"
+  },
+  {
+    "name": "Zielony transport publiczny w Inowrocławiu",
+    "address": "al. Ratuszowa 36 88-100 Inowrocław",
+    "description": "Ulica: al. Ratuszowa<br>Numer: 36<br>Kod pocztowy: 88-100<br>Miejscowość: Inowrocław",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Ratuszowa",
+    "Numer": "36",
+    "Kod pocztowy": "88-100",
+    "Miejscowość": "Inowrocław"
+  },
+  {
+    "name": "Zielony transport publiczny w Jaśle",
+    "address": "Rynek 12 38-200 Jasło",
+    "description": "Ulica: Rynek<br>Numer: 12<br>Kod pocztowy: 38-200<br>Miejscowość: Jasło",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "12",
+    "Kod pocztowy": "38-200",
+    "Miejscowość": "Jasło"
+  },
+  {
+    "name": "Rozwój zielonego transportu publicznego w Łomży",
+    "address": "pl. Stary Rynek 14 18-400 Łomża",
+    "description": "Ulica: pl. Stary Rynek<br>Numer: 14<br>Kod pocztowy: 18-400<br>Miejscowość: Łomża",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Stary Rynek",
+    "Numer": "14",
+    "Kod pocztowy": "18-400",
+    "Miejscowość": "Łomża"
+  },
+  {
+    "name": "Rozwój zielonego transportu publicznego w Łomży - etap II",
+    "address": "pl. Stary Rynek 14 18-400 Łomża",
+    "description": "Ulica: pl. Stary Rynek<br>Numer: 14<br>Kod pocztowy: 18-400<br>Miejscowość: Łomża",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Stary Rynek",
+    "Numer": "14",
+    "Kod pocztowy": "18-400",
+    "Miejscowość": "Łomża"
+  },
+  {
+    "name": "Zakup 6 autobusów elektrycznych wraz z budową infrastruktury stanowisk ładowania w celu obniżenia wykorzystania paliw emisyjnych w Mińsku Mazowieckim",
+    "address": "Konstytucji 3 Maja 1 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Konstytucji 3 Maja<br>Numer: 1<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Konstytucji 3 Maja",
+    "Numer": "1",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  },
+  {
+    "name": "Zakup 2 autobusów elektrycznych wraz z budową infrastruktury stanowisk ładowania w Mińsku Mazowieckim",
+    "address": "Konstytucji 3 Maja 1 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Konstytucji 3 Maja<br>Numer: 1<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Konstytucji 3 Maja",
+    "Numer": "1",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  },
+  {
+    "name": "Elektromobilne Opole – etap II",
+    "address": "Rynek 1A 45-015 Opole",
+    "description": "Ulica: Rynek<br>Numer: 1A<br>Kod pocztowy: 45-015<br>Miejscowość: Opole",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1A",
+    "Kod pocztowy": "45-015",
+    "Miejscowość": "Opole"
+  },
+  {
+    "name": "Poprawa jakości transportu miejskiego w Piotrkowie Trybunalskim poprzez zakup taboru wraz z niezbędną infrastrukturą",
+    "address": "inne Pasaż Karola Rudowskiego 10 97-300 Piotrków Trybunalski",
+    "description": "Ulica: inne Pasaż Karola Rudowskiego<br>Numer: 10<br>Kod pocztowy: 97-300<br>Miejscowość: Piotrków Trybunalski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "inne Pasaż Karola Rudowskiego",
+    "Numer": "10",
+    "Kod pocztowy": "97-300",
+    "Miejscowość": "Piotrków Trybunalski"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu publicznego w Piotrkowie Trybunalskim poprzez inwestycję w tabor zeroemisyjny",
+    "address": "inne Pasaż Karola Rudowskiego 10 97-300 Piotrków Trybunalski",
+    "description": "Ulica: inne Pasaż Karola Rudowskiego<br>Numer: 10<br>Kod pocztowy: 97-300<br>Miejscowość: Piotrków Trybunalski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "inne Pasaż Karola Rudowskiego",
+    "Numer": "10",
+    "Kod pocztowy": "97-300",
+    "Miejscowość": "Piotrków Trybunalski"
+  },
+  {
+    "name": "Rozwój niskoemisyjnego transportu publicznego w Piotrkowie Trybunalskim – Etap III",
+    "address": "inne Pasaż Karola Rudowskiego 10 97-300 Piotrków Trybunalski",
+    "description": "Ulica: inne Pasaż Karola Rudowskiego<br>Numer: 10<br>Kod pocztowy: 97-300<br>Miejscowość: Piotrków Trybunalski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "inne Pasaż Karola Rudowskiego",
+    "Numer": "10",
+    "Kod pocztowy": "97-300",
+    "Miejscowość": "Piotrków Trybunalski"
+  },
+  {
+    "name": "Zakup taboru zeroemisyjnego wraz z niezbędną infrastrukturą w Rybniku",
+    "address": "Bolesława Chrobrego 2 44-200 Rybnik",
+    "description": "Ulica: Bolesława Chrobrego<br>Numer: 2<br>Kod pocztowy: 44-200<br>Miejscowość: Rybnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": "2",
+    "Kod pocztowy": "44-200",
+    "Miejscowość": "Rybnik"
+  },
+  {
+    "name": "Zakup taboru zeroemisyjnego w Rybniku",
+    "address": "Bolesława Chrobrego 2 44-200 Rybnik",
+    "description": "Ulica: Bolesława Chrobrego<br>Numer: 2<br>Kod pocztowy: 44-200<br>Miejscowość: Rybnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Chrobrego",
+    "Numer": "2",
+    "Kod pocztowy": "44-200",
+    "Miejscowość": "Rybnik"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Stalowej Woli",
+    "address": "Wolności 7 37-450 Stalowa Wola",
+    "description": "Ulica: Wolności<br>Numer: 7<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wolności",
+    "Numer": "7",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Stalowej Woli - etap II",
+    "address": "Wolności 7 37-450 Stalowa Wola",
+    "description": "Ulica: Wolności<br>Numer: 7<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wolności",
+    "Numer": "7",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  },
+  {
+    "name": "Zakup 12 autobusów niskoemisyjnych dla m.st. Warszawy",
+    "address": "pl. Plac Bankowy 3/5 01-710 Warszawa",
+    "description": "Ulica: pl. Plac Bankowy<br>Numer: 3/5<br>Kod pocztowy: 01-710<br>Miejscowość: Warszawa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Bankowy",
+    "Numer": "3/5",
+    "Kod pocztowy": "01-710",
+    "Miejscowość": "Warszawa"
+  },
+  {
+    "name": "Zielony transport publiczny w Gminie Miasto Szczecin – faza I: zakup 2 sztuk bezemisyjnego taboru autobusowego wraz z infrastrukturą",
+    "address": "pl. Plac Armii Krajowej 1 70-456 Szczecin",
+    "description": "Ulica: pl. Plac Armii Krajowej<br>Numer: 1<br>Kod pocztowy: 70-456<br>Miejscowość: Szczecin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Armii Krajowej",
+    "Numer": "1",
+    "Kod pocztowy": "70-456",
+    "Miejscowość": "Szczecin"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Zakopanem poprzez zakup taboru elektrycznego wraz z rozbudową infrastruktury ładowania",
+    "address": "Tadeusza Kościuszki 13 34-500 Zakopane",
+    "description": "Ulica: Tadeusza Kościuszki<br>Numer: 13<br>Kod pocztowy: 34-500<br>Miejscowość: Zakopane",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Tadeusza Kościuszki",
+    "Numer": "13",
+    "Kod pocztowy": "34-500",
+    "Miejscowość": "Zakopane"
+  },
+  {
+    "name": "Rozbudowa niskoemisyjnego systemu komunikacji publicznej na obszarze funkcjonalnym Zielonej Góry",
+    "address": "Podgórna 22 65-424 Zielona Góra",
+    "description": "Ulica: Podgórna<br>Numer: 22<br>Kod pocztowy: 65-424<br>Miejscowość: Zielona Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Podgórna",
+    "Numer": "22",
+    "Kod pocztowy": "65-424",
+    "Miejscowość": "Zielona Góra"
+  },
+  {
+    "name": "Realizacja procesu elektryfikacji komunikacji miejskiej na terenie Miasta Krosna – zakup autobusów elektrycznych przez Miejską Komunikację Samochodową Sp. z o.o. w Krośnie",
+    "address": "Aleksandra Fredry 1A 38-400 Krosno",
+    "description": "Ulica: Aleksandra Fredry<br>Numer: 1A<br>Kod pocztowy: 38-400<br>Miejscowość: Krosno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleksandra Fredry",
+    "Numer": "1A",
+    "Kod pocztowy": "38-400",
+    "Miejscowość": "Krosno"
+  },
+  {
+    "name": "Ograniczenie niskiej emisji w Dębicy poprzez zakup nowoczesnych, elektrycznych autobusów",
+    "address": "Sandomierska 3 39-200 Dębica",
+    "description": "Ulica: Sandomierska<br>Numer: 3<br>Kod pocztowy: 39-200<br>Miejscowość: Dębica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Sandomierska",
+    "Numer": "3",
+    "Kod pocztowy": "39-200",
+    "Miejscowość": "Dębica"
+  },
+  {
+    "name": "Poprawa efektywności i jakości transportu publicznego w Puławach poprzez zakup nowoczesnego zeroemisyjnego taboru autobusowego wraz z budową niezbędnej infrastruktury ładowania",
+    "address": "Dęblińska 2A 24-100 Puławy",
+    "description": "Ulica: Dęblińska<br>Numer: 2A<br>Kod pocztowy: 24-100<br>Miejscowość: Puławy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Dęblińska",
+    "Numer": "2A",
+    "Kod pocztowy": "24-100",
+    "Miejscowość": "Puławy"
+  },
+  {
+    "name": "Zakup elektrycznych autobusów wraz z dedykowanym systemem ładowania w celu obniżenia wykorzystania paliw emisyjnych w publicznym transporcie zbiorowym Ostrowa Wielkopolskiego",
+    "address": "Lotnicza 30 63-400 Ostrów Wielkopolski",
+    "description": "Ulica: Lotnicza<br>Numer: 30<br>Kod pocztowy: 63-400<br>Miejscowość: Ostrów Wielkopolski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lotnicza",
+    "Numer": "30",
+    "Kod pocztowy": "63-400",
+    "Miejscowość": "Ostrów Wielkopolski"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych oraz budowa niezbędnej infrastruktury dla obsługi zielonego transportu publicznego w Mieście Zamościu oraz gminach ościennych",
+    "address": "Lipowa 5 22-400 Zamość",
+    "description": "Ulica: Lipowa<br>Numer: 5<br>Kod pocztowy: 22-400<br>Miejscowość: Zamość",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lipowa",
+    "Numer": "5",
+    "Kod pocztowy": "22-400",
+    "Miejscowość": "Zamość"
+  },
+  {
+    "name": "Rozwój elektromobilności w transporcie zbiorowym Miasta Oświęcimia, poprzez zakup autobusów elektrycznych wraz z infrastrukturą ładowania",
+    "address": "Stanisławy Leszczyńskiej 7 32-600 Oświęcim",
+    "description": "Ulica: Stanisławy Leszczyńskiej<br>Numer: 7<br>Kod pocztowy: 32-600<br>Miejscowość: Oświęcim",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisławy Leszczyńskiej",
+    "Numer": "7",
+    "Kod pocztowy": "32-600",
+    "Miejscowość": "Oświęcim"
+  },
+  {
+    "name": "Zakup 4 autobusów elektrycznych wraz z infrastrukturą w Ełku",
+    "address": "Ignacego Łukasiewicza 8 19-300 Ełk",
+    "description": "Ulica: Ignacego Łukasiewicza<br>Numer: 8<br>Kod pocztowy: 19-300<br>Miejscowość: Ełk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ignacego Łukasiewicza",
+    "Numer": "8",
+    "Kod pocztowy": "19-300",
+    "Miejscowość": "Ełk"
+  },
+  {
+    "name": "Uniknięcie emisji zanieczyszczeń powietrza, poprzez nabycie przez MZK Piła Sp. z o.o. pięciu niskopodłogowych autobusów z ogniwem wodorowym (FCEV) oraz siedmiu niskopodłogowych autobusów elektrycznych (BEV)",
+    "address": "Łączna 4 64-920 Piła",
+    "description": "Ulica: Łączna<br>Numer: 4<br>Kod pocztowy: 64-920<br>Miejscowość: Piła",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Łączna",
+    "Numer": "4",
+    "Kod pocztowy": "64-920",
+    "Miejscowość": "Piła"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych oraz budowa niezbędnej infrastruktury dla obsługi zielonego transportu publicznego w Mieście Zamościu oraz gminach ościennych",
+    "address": "Lipowa 5 22-400 Zamość",
+    "description": "Ulica: Lipowa<br>Numer: 5<br>Kod pocztowy: 22-400<br>Miejscowość: Zamość",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lipowa",
+    "Numer": "5",
+    "Kod pocztowy": "22-400",
+    "Miejscowość": "Zamość"
+  },
+  {
+    "name": "Zakup 5 autobusów elektrycznych wraz z infrastrukturą do obsługi bezemisyjnego transportu miejskiego w Grudziądzu",
+    "address": "Dworcowa 47 86-300 Grudziądz",
+    "description": "Ulica: Dworcowa<br>Numer: 47<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Dworcowa",
+    "Numer": "47",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z rozbudową infrastruktury ładowania w Gorzowie Wielkopolskim – etap II",
+    "address": "Kostrzyńska 46 66-400 Gorzów WIelkopolski",
+    "description": "Ulica: Kostrzyńska<br>Numer: 46<br>Kod pocztowy: 66-400<br>Miejscowość: Gorzów WIelkopolski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kostrzyńska",
+    "Numer": "46",
+    "Kod pocztowy": "66-400",
+    "Miejscowość": "Gorzów WIelkopolski"
+  },
+  {
+    "name": "Autobusy wodorowe i elektryczne dla Konina-Zielonego Miasta Energii",
+    "address": "Marii Dąbrowskiej 8 62-500 Konin",
+    "description": "Ulica: Marii Dąbrowskiej<br>Numer: 8<br>Kod pocztowy: 62-500<br>Miejscowość: Konin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marii Dąbrowskiej",
+    "Numer": "8",
+    "Kod pocztowy": "62-500",
+    "Miejscowość": "Konin"
+  },
+  {
+    "name": "Zakup autobusów zeroemisyjnych wraz z niezbędną infrastrukturą do ładowania – etap III",
+    "address": "Henryka Sienkiewicza 24-26 87-100 Toruń",
+    "description": "Ulica: Henryka Sienkiewicza<br>Numer: 24-26<br>Kod pocztowy: 87-100<br>Miejscowość: Toruń",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Henryka Sienkiewicza",
+    "Numer": "24-26",
+    "Kod pocztowy": "87-100",
+    "Miejscowość": "Toruń"
+  },
+  {
+    "name": "Zwiększenie dostępności, niezawodności i bezpieczeństwa komunikacji miejskiej poprzez zakup 6 fabrycznie nowych autobusów wodorowych, budowa stacji do tankowania wodoru wraz niezbędną infrastrukturą, na potrzeby wejherowskiej komunikacji miejskiej w rejonie północnych Kaszub - etap II",
+    "address": "Tartaczna 2 84-200 Wejherowo",
+    "description": "Ulica: Tartaczna<br>Numer: 2<br>Kod pocztowy: 84-200<br>Miejscowość: Wejherowo",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Tartaczna",
+    "Numer": "2",
+    "Kod pocztowy": "84-200",
+    "Miejscowość": "Wejherowo"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z niezbędną infrastrukturą do ich obsługi - etap II",
+    "address": "Luboszycka 19 45-215 Opole",
+    "description": "Ulica: Luboszycka<br>Numer: 19<br>Kod pocztowy: 45-215<br>Miejscowość: Opole",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Luboszycka",
+    "Numer": "19",
+    "Kod pocztowy": "45-215",
+    "Miejscowość": "Opole"
+  },
+  {
+    "name": "eMZK 3.0",
+    "address": "Wolności 145 58-500 Jelenia Góra",
+    "description": "Ulica: Wolności<br>Numer: 145<br>Kod pocztowy: 58-500<br>Miejscowość: Jelenia Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wolności",
+    "Numer": "145",
+    "Kod pocztowy": "58-500",
+    "Miejscowość": "Jelenia Góra"
+  },
+  {
+    "name": "Elektryfikacja taboru komunikacji miejskiej na terenie Miasta Bielsko - Biała",
+    "address": "Długa 50 43-309 Bielsko-Biała",
+    "description": "Ulica: Długa<br>Numer: 50<br>Kod pocztowy: 43-309<br>Miejscowość: Bielsko-Biała",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Długa",
+    "Numer": "50",
+    "Kod pocztowy": "43-309",
+    "Miejscowość": "Bielsko-Biała"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych zeroemisyjnych wraz z niezbędną infrastrukturą do ładowania",
+    "address": "Kozielska 2 47-224 Kędzierzyn-Koźle",
+    "description": "Ulica: Kozielska<br>Numer: 2<br>Kod pocztowy: 47-224<br>Miejscowość: Kędzierzyn-Koźle",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kozielska",
+    "Numer": "2",
+    "Kod pocztowy": "47-224",
+    "Miejscowość": "Kędzierzyn-Koźle"
+  },
+  {
+    "name": "Zakup 2 autobusów elektrycznych wraz z budową infrastruktury ładowania celem unowocześnienia transportu zbiorowego w Tomaszowie Mazowieckim",
+    "address": "Warszawska 109 97-200 Tomaszów Mazowiecki",
+    "description": "Ulica: Warszawska<br>Numer: 109<br>Kod pocztowy: 97-200<br>Miejscowość: Tomaszów Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Warszawska",
+    "Numer": "109",
+    "Kod pocztowy": "97-200",
+    "Miejscowość": "Tomaszów Mazowiecki"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja zbiorowa – zakup autobusów elektrycznych wraz z zapewnieniem infrastruktury do ładowania przez MZK w Żywcu Sp. z o.o.",
+    "address": "al. Aleja Wolności 24 34-300 Żywiec",
+    "description": "Ulica: al. Aleja Wolności<br>Numer: 24<br>Kod pocztowy: 34-300<br>Miejscowość: Żywiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Aleja Wolności",
+    "Numer": "24",
+    "Kod pocztowy": "34-300",
+    "Miejscowość": "Żywiec"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja zbiorowa – zakup autobusów elektrycznych wraz z zapewnieniem infrastruktury energetycznej przez MPK Sp. z o.o. w Zduńskiej Woli",
+    "address": "Sieradzka 68/70 98-220 Zduńska Wola",
+    "description": "Ulica: Sieradzka<br>Numer: 68/70<br>Kod pocztowy: 98-220<br>Miejscowość: Zduńska Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Sieradzka",
+    "Numer": "68/70",
+    "Kod pocztowy": "98-220",
+    "Miejscowość": "Zduńska Wola"
+  },
+  {
+    "name": "Rozwój ekologicznego transportu publicznego w Radomiu, poprzez zakup 20 autobusów elektrycznych wraz z infrastrukturą",
+    "address": "Wjazdowa 4 26-600 Radom",
+    "description": "Ulica: Wjazdowa<br>Numer: 4<br>Kod pocztowy: 26-600<br>Miejscowość: Radom",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wjazdowa",
+    "Numer": "4",
+    "Kod pocztowy": "26-600",
+    "Miejscowość": "Radom"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Lublinie poprzez zakup zeroemisyjnego taboru autobusowego",
+    "address": "Antoniny Grygowej 56 20-260 Lublin",
+    "description": "Ulica: Antoniny Grygowej<br>Numer: 56<br>Kod pocztowy: 20-260<br>Miejscowość: Lublin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Antoniny Grygowej",
+    "Numer": "56",
+    "Kod pocztowy": "20-260",
+    "Miejscowość": "Lublin"
+  },
+  {
+    "name": "Zakup 36 autobusów elektrycznych wraz z infrastrukturą ładowania",
+    "address": "Tramwajowa 6 90-132 Łódź",
+    "description": "Ulica: Tramwajowa<br>Numer: 6<br>Kod pocztowy: 90-132<br>Miejscowość: Łódź",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Tramwajowa",
+    "Numer": "6",
+    "Kod pocztowy": "90-132",
+    "Miejscowość": "Łódź"
+  },
+  {
+    "name": "Zielony Transport Publiczny w Tarnowie - Zakup autobusów z napędem elektrycznym wraz z infrastrukturą ładowania",
+    "address": "Okrężna 9 33-100 Tarnów",
+    "description": "Ulica: Okrężna<br>Numer: 9<br>Kod pocztowy: 33-100<br>Miejscowość: Tarnów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Okrężna",
+    "Numer": "9",
+    "Kod pocztowy": "33-100",
+    "Miejscowość": "Tarnów"
+  },
+  {
+    "name": "Rozwój floty autobusów zeroemisyjnych dla potrzeb realizacji usług transportu publicznego w Krakowie",
+    "address": "św. Wawrzyńca 13 31-060 Kraków",
+    "description": "Ulica: św. Wawrzyńca<br>Numer: 13<br>Kod pocztowy: 31-060<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "św. Wawrzyńca",
+    "Numer": "13",
+    "Kod pocztowy": "31-060",
+    "Miejscowość": "Kraków"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą ładowania do obsługi zeroemisyjnego transportu miejskiego w Nowym Sączu",
+    "address": "Stanisława Wyspiańskiego 22 33-310 Nowy Sącz",
+    "description": "Ulica: Stanisława Wyspiańskiego<br>Numer: 22<br>Kod pocztowy: 33-310<br>Miejscowość: Nowy Sącz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer": "22",
+    "Kod pocztowy": "33-310",
+    "Miejscowość": "Nowy Sącz"
+  },
+  {
+    "name": "Dostawa autobusów zeroemisyjnych wraz z wykonaniem niezbędnej infrastruktury technicznej dla MPK Sp. z o.o. we Wrocławiu",
+    "address": "Bolesława Prusa 75-79 50-316 Wrocław",
+    "description": "Ulica: Bolesława Prusa<br>Numer: 75-79<br>Kod pocztowy: 50-316<br>Miejscowość: Wrocław",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Prusa",
+    "Numer": "75-79",
+    "Kod pocztowy": "50-316",
+    "Miejscowość": "Wrocław"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja miejska – zakup autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania przez Miejskie Przedsiębiorstwo Komunikacyjne spółka z ograniczoną odpowiedzialnością w Legnicy",
+    "address": "Ignacego Domejki 2 59-220 Legnica",
+    "description": "Ulica: Ignacego Domejki<br>Numer: 2<br>Kod pocztowy: 59-220<br>Miejscowość: Legnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ignacego Domejki",
+    "Numer": "2",
+    "Kod pocztowy": "59-220",
+    "Miejscowość": "Legnica"
+  },
+  {
+    "name": "Zakup 3 autobusów elektrycznych typu PN wraz z dwustanowiskową ładowarką elektryczną typu plug in na potrzeby świdnickiej komunikacji miejskiej",
+    "address": "Inżynierska 6 58-100 Świdnica",
+    "description": "Ulica: Inżynierska<br>Numer: 6<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Inżynierska",
+    "Numer": "6",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  },
+  {
+    "name": "Obniżenie wykorzystania paliw emisyjnych w taborze MPK Poznań Sp. z o.o. dzięki dostawie autobusów elektrycznych, w tym z napędem wodorowym, oraz niezbędnej infrastruktury",
+    "address": "Głogowska 131 60-244 Poznań",
+    "description": "Ulica: Głogowska<br>Numer: 131<br>Kod pocztowy: 60-244<br>Miejscowość: Poznań",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Głogowska",
+    "Numer": "131",
+    "Kod pocztowy": "60-244",
+    "Miejscowość": "Poznań"
+  },
+  {
+    "name": "Ograniczenie emisji zanieczyszczeń przez transport miejski w Warszawie poprzez wymianę autobusów spalinowych na autobusy o napędzie elektrycznym",
+    "address": "Włościańska 58 01-710 Warszawa",
+    "description": "Ulica: Włościańska<br>Numer: 58<br>Kod pocztowy: 01-710<br>Miejscowość: Warszawa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Włościańska",
+    "Numer": "58",
+    "Kod pocztowy": "01-710",
+    "Miejscowość": "Warszawa"
+  },
+  {
+    "name": "Zakup 11 szt. autobusów elektrycznych wraz z infrastrukturą ładowania z wykorzystaniem OZE",
+    "address": "Inowrocławska 11 85-153 Bydgoszcz",
+    "description": "Ulica: Inowrocławska<br>Numer: 11<br>Kod pocztowy: 85-153<br>Miejscowość: Bydgoszcz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Inowrocławska",
+    "Numer": "11",
+    "Kod pocztowy": "85-153",
+    "Miejscowość": "Bydgoszcz"
+  },
+  {
+    "name": "Elektryfikacja miejskiego transportu publicznego przez Międzygminny Związek Komunikacyjny na terenie miasta Jastrzębie Zdrój",
+    "address": "Przemysłowa 1 44-335 Jastrzębie-Zdrój",
+    "description": "Ulica: Przemysłowa<br>Numer: 1<br>Kod pocztowy: 44-335<br>Miejscowość: Jastrzębie-Zdrój",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Przemysłowa",
+    "Numer": "1",
+    "Kod pocztowy": "44-335",
+    "Miejscowość": "Jastrzębie-Zdrój"
+  },
+  {
+    "name": "Poprawa stanu czystości powietrza poprzez zmniejszenie emisji gazów do atmosfery – zakup elektrycznych autobusów przez Mławskie Przedsiębiorstwo Drogowo-Mostowe MPDM Sp. z o.o.",
+    "address": "Warszawska 25A 06-500 Mława",
+    "description": "Ulica: Warszawska<br>Numer: 25A<br>Kod pocztowy: 06-500<br>Miejscowość: Mława",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Warszawska",
+    "Numer": "25A",
+    "Kod pocztowy": "06-500",
+    "Miejscowość": "Mława"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych i budowa infrastruktury ładowania przez MPK „Świdnica” Sp. z o.o.",
+    "address": "Inżynierska 6 58-100 Świdnica",
+    "description": "Ulica: Inżynierska<br>Numer: 6<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Inżynierska",
+    "Numer": "6",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  },
+  {
+    "name": "Poprawa jakości systemu transportu publicznego w mieście Suwałki – V etap",
+    "address": "Sejneńska 82 16-400 Suwałki",
+    "description": "Ulica: Sejneńska<br>Numer: 82<br>Kod pocztowy: 16-400<br>Miejscowość: Suwałki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Sejneńska",
+    "Numer": "82",
+    "Kod pocztowy": "16-400",
+    "Miejscowość": "Suwałki"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z budową niezbędnej infrastruktury ładowania",
+    "address": "Kaspra Adamczyka 10 47-400 Racibórz",
+    "description": "Ulica: Kaspra Adamczyka<br>Numer: 10<br>Kod pocztowy: 47-400<br>Miejscowość: Racibórz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kaspra Adamczyka",
+    "Numer": "10",
+    "Kod pocztowy": "47-400",
+    "Miejscowość": "Racibórz"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 8 autobusów elektrycznych przegubowych wraz z budową niezbędnej infrastruktury ładowania na bazie PKA sp. z o.o.",
+    "address": "Platynowa 19 81-154 Gdynia",
+    "description": "Ulica: Platynowa<br>Numer: 19<br>Kod pocztowy: 81-154<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Platynowa",
+    "Numer": "19",
+    "Kod pocztowy": "81-154",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 3 autobusów elektrycznych wraz z budową niezbędnej infrastruktury ładowania",
+    "address": "Rdestowa 51A 81-244 Gdynia",
+    "description": "Ulica: Rdestowa<br>Numer: 51A<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rdestowa",
+    "Numer": "51A",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Dostawa 30 sztuk fabrycznie nowych, ekologicznych, niskopodłogowych autobusów miejskich o napędzie elektrycznym dla PKM Katowice Sp. z o.o.",
+    "address": "Adama Mickiewicza 59 40-085 Katowice",
+    "description": "Ulica: Adama Mickiewicza<br>Numer: 59<br>Kod pocztowy: 40-085<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Adama Mickiewicza",
+    "Numer": "59",
+    "Kod pocztowy": "40-085",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Czyste niebo nad Zagłębiem – Zakup autobusów elektrycznych wraz z infrastrukturą do ładowania – Etap II",
+    "address": "Teofila Lenartowicza 73 41-219 Sosnowiec",
+    "description": "Ulica: Teofila Lenartowicza<br>Numer: 73<br>Kod pocztowy: 41-219<br>Miejscowość: Sosnowiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Teofila Lenartowicza",
+    "Numer": "73",
+    "Kod pocztowy": "41-219",
+    "Miejscowość": "Sosnowiec"
+  },
+  {
+    "name": "Zakup nowoczesnego zeroemisyjnego taboru autobusowego wraz z budową infrastruktury ładowania oraz instalacją fotowoltaiczną na potrzeby rozwoju transportu publicznego w Tychach",
+    "address": "Towarowa 1 43-100 Tychy",
+    "description": "Ulica: Towarowa<br>Numer: 1<br>Kod pocztowy: 43-100<br>Miejscowość: Tychy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Towarowa",
+    "Numer": "1",
+    "Kod pocztowy": "43-100",
+    "Miejscowość": "Tychy"
+  },
+  {
+    "name": "Zakup dwóch autobusów elektrycznych klasy MAXI wraz z infrastrukturą do ich ładowania",
+    "address": "Michała Drzymały 16 43-502 Czechowice-Dziedzice",
+    "description": "Ulica: Michała Drzymały<br>Numer: 16<br>Kod pocztowy: 43-502<br>Miejscowość: Czechowice-Dziedzice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Michała Drzymały",
+    "Numer": "16",
+    "Kod pocztowy": "43-502",
+    "Miejscowość": "Czechowice-Dziedzice"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 9 trolejbusów 12-metrowych na potrzeby Przedsiębiorstwa Komunikacji Trolejbusowej sp. z o.o.",
+    "address": "Zakręt do Oksywia 1 81-244 Gdynia",
+    "description": "Ulica: Zakręt do Oksywia<br>Numer: 1<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Zakręt do Oksywia",
+    "Numer": "1",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Gdyni poprzez zakup taboru trolejbusowego z alternatywnym napędem bateryjnym",
+    "address": "Zakręt do Oksywia 1 81-244 Gdynia",
+    "description": "Ulica: Zakręt do Oksywia<br>Numer: 1<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Zakręt do Oksywia",
+    "Numer": "1",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego na terenie Gminy Czerwonak poprzez zakup autobusów elektrycznych",
+    "address": "Piaskowa 1 62-068 Koziegłowy",
+    "description": "Ulica: Piaskowa<br>Numer: 1<br>Kod pocztowy: 62-068<br>Miejscowość: Koziegłowy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Piaskowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-068",
+    "Miejscowość": "Koziegłowy"
+  },
+  {
+    "name": "Zakup 3 autobusów elektrycznych wraz z ładowarkami w celu elektryfikacji połączeń realizowanych przez TP Bus sp. z o.o.",
+    "address": "Rokietnicka 23 62-080 Tarnowo Podgórne",
+    "description": "Ulica: Rokietnicka<br>Numer: 23<br>Kod pocztowy: 62-080<br>Miejscowość: Tarnowo Podgórne",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rokietnicka",
+    "Numer": "23",
+    "Kod pocztowy": "62-080",
+    "Miejscowość": "Tarnowo Podgórne"
+  },
+  {
+    "name": "Zakup nowoczesnego taboru trolejbusowego na potrzeby komunikacji miejskiej w Tychach",
+    "address": "Towarowa 3 43-100 Tychy",
+    "description": "Ulica: Towarowa<br>Numer: 3<br>Kod pocztowy: 43-100<br>Miejscowość: Tychy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Towarowa",
+    "Numer": "3",
+    "Kod pocztowy": "43-100",
+    "Miejscowość": "Tychy"
+  },
+  {
+    "name": "Zakup taboru niskoemisyjnego przez Zakład Komunikacji Miejskiej w Ciechanowie Sp. z o.o.",
+    "address": "Gostkowska 83 06-400 Ciechanów",
+    "description": "Ulica: Gostkowska<br>Numer: 83<br>Kod pocztowy: 06-400<br>Miejscowość: Ciechanów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Gostkowska",
+    "Numer": "83",
+    "Kod pocztowy": "06-400",
+    "Miejscowość": "Ciechanów"
+  },
+  {
+    "name": "Ekologiczny transport publiczny w gminie Rokietnica",
+    "address": "Rokietnicka 106 62-090 Rostworowo",
+    "description": "Ulica: Rokietnicka<br>Numer: 106<br>Kod pocztowy: 62-090<br>Miejscowość: Rostworowo",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rokietnicka",
+    "Numer": "106",
+    "Kod pocztowy": "62-090",
+    "Miejscowość": "Rostworowo"
+  },
+  {
+    "name": "Ograniczenie wykluczenia transportowego poprzez zakup autobusu niskoemisyjnego na potrzeby komunikacji pozamiejskiej na terenie Powiatu Żywieckiego",
+    "address": "Beskidzka 62 34-322 Rychwałd",
+    "description": "Ulica: Beskidzka<br>Numer: 62<br>Kod pocztowy: 34-322<br>Miejscowość: Rychwałd",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Beskidzka",
+    "Numer": "62",
+    "Kod pocztowy": "34-322",
+    "Miejscowość": "Rychwałd"
+  },
+  {
+    "name": "ZAKUP 3 AUTOBUSÓW NISKOEMISYJNYCH DO REALIZACJI ZADAŃ Z ZAKRESU PUBLICZNEGO TRANSPORTU ZBIOROWEGO DO OBSŁUGI GMINY SIEROSZEWICE",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "ZAKUP 5 AUTOBUSÓW NISKOEMISYJNYCH DO REALIZACJI ZADAŃ Z ZAKRESU PUBLICZNEGO TRANSPORTU ZBIOROWEGO DO OBSŁUGI POWIATU OSTRZESZOWSKIEGO",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "ZAKUP 2 AUTOBUSÓW ELEKTRYCZNYCH DO REALIZACJI ZADAŃ Z ZAKRESU PUBLICZNEGO TRANSPORTU ZBIOROWEGO W GMINIE KLECZEW",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "Zakup 1 autobusu elektrycznego do realizacji zadań z zakresu publicznego transportu zbiorowego w gminie Powidz.",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "Zakup 3 autobusów niskoemisyjnych na potrzeby realizacji zadań obejmujących transport publiczny na terenie Gminy Gniezno.",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "Zakup 4 autobusów niskoemisyjnych na potrzeby realizacji zadań obejmujących transport publiczny na terenie Powiatu Kępińskiego.",
+    "address": "Pogodna 10C 62-541 Budzisław Kościelny",
+    "description": "Ulica: Pogodna<br>Numer: 10C<br>Kod pocztowy: 62-541<br>Miejscowość: Budzisław Kościelny",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pogodna",
+    "Numer": "10C",
+    "Kod pocztowy": "62-541",
+    "Miejscowość": "Budzisław Kościelny"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru autobusowego przez firmę Faster Przewozy Sp. z o.o.",
+    "address": "Marii Konopnickiej 7 10-168 Olsztyn",
+    "description": "Ulica: Marii Konopnickiej<br>Numer: 7<br>Kod pocztowy: 10-168<br>Miejscowość: Olsztyn",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marii Konopnickiej",
+    "Numer": "7",
+    "Kod pocztowy": "10-168",
+    "Miejscowość": "Olsztyn"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru autobusowego przez firmę Faster Sp. z o.o. Sp. K.",
+    "address": "Marii Konopnickiej 7 10-168 Olsztyn",
+    "description": "Ulica: Marii Konopnickiej<br>Numer: 7<br>Kod pocztowy: 10-168<br>Miejscowość: Olsztyn",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marii Konopnickiej",
+    "Numer": "7",
+    "Kod pocztowy": "10-168",
+    "Miejscowość": "Olsztyn"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru autobusowego przez firmę Faster Transport Sp. z o.o.",
+    "address": "Marii Konopnickiej 7 10-168 Olsztyn",
+    "description": "Ulica: Marii Konopnickiej<br>Numer: 7<br>Kod pocztowy: 10-168<br>Miejscowość: Olsztyn",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marii Konopnickiej",
+    "Numer": "7",
+    "Kod pocztowy": "10-168",
+    "Miejscowość": "Olsztyn"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru autobusowego przez firmę Faster Wash Sp. z o. o.",
+    "address": "Szkolna 2F 11-220 Górowo Iławeckie",
+    "description": "Ulica: Szkolna<br>Numer: 2F<br>Kod pocztowy: 11-220<br>Miejscowość: Górowo Iławeckie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Szkolna",
+    "Numer": "2F",
+    "Kod pocztowy": "11-220",
+    "Miejscowość": "Górowo Iławeckie"
+  },
+  {
+    "name": "\n Zakup niskoemisyjnego taboru autobusowego\n",
+    "address": "Rynek 1 20-388 Dominów",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 20-388<br>Miejscowość: Dominów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "20-388",
+    "Miejscowość": "Dominów"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi linii pozamiejskich na terenie gminy Łagów",
+    "address": "Rynek 62 26-025 Łagów",
+    "description": "Ulica: Rynek<br>Numer: 62<br>Kod pocztowy: 26-025<br>Miejscowość: Łagów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "62",
+    "Kod pocztowy": "26-025",
+    "Miejscowość": "Łagów"
+  },
+  {
+    "name": "Zakup zeroemisyjnego taboru autobusowego obsługującego pozamiejskie linie autobusowe",
+    "address": "Wały gen. Władysława Sikorskiego 8 87-100 Toruń",
+    "description": "Ulica: Wały gen. Władysława Sikorskiego<br>Numer: 8<br>Kod pocztowy: 87-100<br>Miejscowość: Toruń",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wały gen. Władysława Sikorskiego",
+    "Numer": "8",
+    "Kod pocztowy": "87-100",
+    "Miejscowość": "Toruń"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów pozamiejskich dla Gminy Podegrodzie",
+    "address": "248 33-386 Podegrodzie",
+    "description": "Ulica: <br>Numer: 248<br>Kod pocztowy: 33-386<br>Miejscowość: Podegrodzie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "248",
+    "Kod pocztowy": "33-386",
+    "Miejscowość": "Podegrodzie"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru autobusowego w gminie Staroźreby",
+    "address": "Płocka 18 09-440 Staroźreby",
+    "description": "Ulica: Płocka<br>Numer: 18<br>Kod pocztowy: 09-440<br>Miejscowość: Staroźreby",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Płocka",
+    "Numer": "18",
+    "Kod pocztowy": "09-440",
+    "Miejscowość": "Staroźreby"
+  },
+  {
+    "name": "Zakup 2 zeroemisyjnych autobusów elektrycznych wraz z infrastrukturą do ładowania autobusów elektrycznych w celu poprawy funkcjonowania transportu zbiorowego dla mieszkańców gminy Środa Śląska",
+    "address": "pl. Plac Wolności 5 55-300 Środa Śląska",
+    "description": "Ulica: pl. Plac Wolności<br>Numer: 5<br>Kod pocztowy: 55-300<br>Miejscowość: Środa Śląska",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Wolności",
+    "Numer": "5",
+    "Kod pocztowy": "55-300",
+    "Miejscowość": "Środa Śląska"
+  },
+  {
+    "name": "Zakup zeroemisyjnego taboru autobusowego dla Gminy Walce",
+    "address": "Mickiewicza 18 47-344 Walce",
+    "description": "Ulica: Mickiewicza<br>Numer: 18<br>Kod pocztowy: 47-344<br>Miejscowość: Walce",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Mickiewicza",
+    "Numer": "18",
+    "Kod pocztowy": "47-344",
+    "Miejscowość": "Walce"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz ze stacjami ładowania dla Gminy Wolanów",
+    "address": "Radomska 20 26-625 Wolanów",
+    "description": "Ulica: Radomska<br>Numer: 20<br>Kod pocztowy: 26-625<br>Miejscowość: Wolanów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Radomska",
+    "Numer": "20",
+    "Kod pocztowy": "26-625",
+    "Miejscowość": "Wolanów"
+  },
+  {
+    "name": "Dostawa trzech autobusów zeroemisyjnych wraz z niezbędną infrastrukturą ładowania.",
+    "address": "rynek Rynek 1 64-200 Wolsztyn",
+    "description": "Ulica: rynek Rynek<br>Numer: 1<br>Kod pocztowy: 64-200<br>Miejscowość: Wolsztyn",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "64-200",
+    "Miejscowość": "Wolsztyn"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby zbiorowego transportu publicznego na terenie Miasta i Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby realizacji usług z zakresu zbiorowego transportu publicznego na terenie Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  },
+  {
+    "name": "Zakup autobusów dla Ziębickiej Komunikacji Autobusowej",
+    "address": "Przemysłowa 10 57-220 Ziębice",
+    "description": "Ulica: Przemysłowa<br>Numer: 10<br>Kod pocztowy: 57-220<br>Miejscowość: Ziębice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Przemysłowa",
+    "Numer": "10",
+    "Kod pocztowy": "57-220",
+    "Miejscowość": "Ziębice"
+  },
+  {
+    "name": "Zakup 3 autobusów elektrycznych do realizacji zadań z zakresu publicznego transportu zbiorowego w gminie Czerniejewo",
+    "address": "Kolejowa 2 62-200 Gniezno",
+    "description": "Ulica: Kolejowa<br>Numer: 2<br>Kod pocztowy: 62-200<br>Miejscowość: Gniezno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kolejowa",
+    "Numer": "2",
+    "Kod pocztowy": "62-200",
+    "Miejscowość": "Gniezno"
+  },
+  {
+    "name": "Zakup przez GONPOL Szczepan Goncerz Kamil Goncerz Spółka Jawna 3 nowych niskoemisyjnych autobusów w celu wymiany przestarzałego taboru autobusowego na dotychczas funkcjonujących liniach zagrożonych likwidacją",
+    "address": "74 42-436 Złożeniec",
+    "description": "Ulica: <br>Numer: 74<br>Kod pocztowy: 42-436<br>Miejscowość: Złożeniec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "74",
+    "Kod pocztowy": "42-436",
+    "Miejscowość": "Złożeniec"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych zasilanych wodorem",
+    "address": "Wodna 2 30-556 Kraków",
+    "description": "Ulica: Wodna<br>Numer: 2<br>Kod pocztowy: 30-556<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wodna",
+    "Numer": "2",
+    "Kod pocztowy": "30-556",
+    "Miejscowość": "Kraków"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych ze stacjami ładowania",
+    "address": "Wodna 2 30-556 Kraków",
+    "description": "Ulica: Wodna<br>Numer: 2<br>Kod pocztowy: 30-556<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wodna",
+    "Numer": "2",
+    "Kod pocztowy": "30-556",
+    "Miejscowość": "Kraków"
+  },
+  {
+    "name": "Zakup 6 niskoemisyjnych autobusów o napędzie konwencjonalnym diesel",
+    "address": "Legionów 54 43-300 Bielsko-Biała",
+    "description": "Ulica: Legionów<br>Numer: 54<br>Kod pocztowy: 43-300<br>Miejscowość: Bielsko-Biała",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Legionów",
+    "Numer": "54",
+    "Kod pocztowy": "43-300",
+    "Miejscowość": "Bielsko-Biała"
+  },
+  {
+    "name": "Zakup i dostawa niskoemisyjnych autobusów dla Krośnieńskiego Związku Powiatowo-Gminnego",
+    "address": "Piastów 10B 66-600 Krosno Odrzańskie",
+    "description": "Ulica: Piastów<br>Numer: 10B<br>Kod pocztowy: 66-600<br>Miejscowość: Krosno Odrzańskie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Piastów",
+    "Numer": "10B",
+    "Kod pocztowy": "66-600",
+    "Miejscowość": "Krosno Odrzańskie"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do obsługi linii pozamiejskich Powiatu Limanowskiego",
+    "address": "Klasztorna 28 33-300 Nowy Sącz",
+    "description": "Ulica: Klasztorna<br>Numer: 28<br>Kod pocztowy: 33-300<br>Miejscowość: Nowy Sącz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Klasztorna",
+    "Numer": "28",
+    "Kod pocztowy": "33-300",
+    "Miejscowość": "Nowy Sącz"
+  },
+  {
+    "name": "Rozwój komunikacji autobusowej na terenie Miasta i Gminy Pleszew oraz Gminy Dobrzyca",
+    "address": "Rynek 1 63-300 Pleszew",
+    "description": "Ulica: Rynek<br>Numer: 1<br>Kod pocztowy: 63-300<br>Miejscowość: Pleszew",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "1",
+    "Kod pocztowy": "63-300",
+    "Miejscowość": "Pleszew"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do obsługi linii pozamiejskich Miasta i Gminy Uzdrowiskowej Muszyna",
+    "address": "Rynek 31 33-370 Muszyna",
+    "description": "Ulica: Rynek<br>Numer: 31<br>Kod pocztowy: 33-370<br>Miejscowość: Muszyna",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "31",
+    "Kod pocztowy": "33-370",
+    "Miejscowość": "Muszyna"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Gminy Nysa i Gminy Otmuchów poprzez zakup 15 autobusów niskoemisyjnych",
+    "address": "Marszałka Józefa Piłsudskiego 59 48-303 Nysa",
+    "description": "Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 59<br>Kod pocztowy: 48-303<br>Miejscowość: Nysa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Numer": "59",
+    "Kod pocztowy": "48-303",
+    "Miejscowość": "Nysa"
+  },
+  {
+    "name": "Rozwój transportu publicznego w Powiecie Żagańskim poprzez zakup 4 autobusów zeroemisyjnych",
+    "address": "Młynarska 6 68-100 Żagań",
+    "description": "Ulica: Młynarska<br>Numer: 6<br>Kod pocztowy: 68-100<br>Miejscowość: Żagań",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Młynarska",
+    "Numer": "6",
+    "Kod pocztowy": "68-100",
+    "Miejscowość": "Żagań"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Powiatu Żagańskiego poprzez zakup 4 autobusów zeroemisyjnych",
+    "address": "Młynarska 6 68-100 Żagań",
+    "description": "Ulica: Młynarska<br>Numer: 6<br>Kod pocztowy: 68-100<br>Miejscowość: Żagań",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Młynarska",
+    "Numer": "6",
+    "Kod pocztowy": "68-100",
+    "Miejscowość": "Żagań"
+  },
+  {
+    "name": "Nowa Jakość transportu pozamiejskiego i czyste powietrze w gminach powiatu jasielskiego.",
+    "address": "ks. Piotra Skargi 84 38-200 Jasło",
+    "description": "Ulica: ks. Piotra Skargi<br>Numer: 84<br>Kod pocztowy: 38-200<br>Miejscowość: Jasło",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "ks. Piotra Skargi",
+    "Numer": "84",
+    "Kod pocztowy": "38-200",
+    "Miejscowość": "Jasło"
+  },
+  {
+    "name": "Wymiana floty Nord Express poprzez zakup niskoemisyjnego taboru autobusowego w celu realizacji zadań w ramach podmiejskiego transportu zbiorowego o charakterze użyteczności publicznej",
+    "address": "1 A 76-270 Wytowno",
+    "description": "Ulica: <br>Numer: 1 A<br>Kod pocztowy: 76-270<br>Miejscowość: Wytowno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "1 A",
+    "Kod pocztowy": "76-270",
+    "Miejscowość": "Wytowno"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych na potrzeby publicznego transportu zbiorowego realizowanego przez Powiatowo-Gminny Związek Komunikacyjny w Powiecie Jasielskim",
+    "address": "Towarowa 26b 38-200 Jasło",
+    "description": "Ulica: Towarowa<br>Numer: 26b<br>Kod pocztowy: 38-200<br>Miejscowość: Jasło",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Towarowa",
+    "Numer": "26b",
+    "Kod pocztowy": "38-200",
+    "Miejscowość": "Jasło"
+  },
+  {
+    "name": "Ekologiczna komunikacja w powiecie jaworskim",
+    "address": "Obrońców Pokoju 1B 58-500 Jelenia Góra",
+    "description": "Ulica: Obrońców Pokoju<br>Numer: 1B<br>Kod pocztowy: 58-500<br>Miejscowość: Jelenia Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Obrońców Pokoju",
+    "Numer": "1B",
+    "Kod pocztowy": "58-500",
+    "Miejscowość": "Jelenia Góra"
+  },
+  {
+    "name": "Elektryczne Karkonosze",
+    "address": "Obrońców Pokoju 1B 58-500 Jelenia Góra",
+    "description": "Ulica: Obrońców Pokoju<br>Numer: 1B<br>Kod pocztowy: 58-500<br>Miejscowość: Jelenia Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Obrońców Pokoju",
+    "Numer": "1B",
+    "Kod pocztowy": "58-500",
+    "Miejscowość": "Jelenia Góra"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu publicznego w woj. podlaskim poprzez zakup 6 szt. autobusów elektrycznych – Etap II",
+    "address": "Bohaterów Monte Cassino 8 15-873 Białystok",
+    "description": "Ulica: Bohaterów Monte Cassino<br>Numer: 8<br>Kod pocztowy: 15-873<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bohaterów Monte Cassino",
+    "Numer": "8",
+    "Kod pocztowy": "15-873",
+    "Miejscowość": "Białystok"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu publicznego w woj. podlaskim poprzez zakup 8 szt. autobusów elektrycznych – Etap I",
+    "address": "Bohaterów Monte Cassino 8 15-873 Białystok",
+    "description": "Ulica: Bohaterów Monte Cassino<br>Numer: 8<br>Kod pocztowy: 15-873<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bohaterów Monte Cassino",
+    "Numer": "8",
+    "Kod pocztowy": "15-873",
+    "Miejscowość": "Białystok"
+  },
+  {
+    "name": "Ograniczenie wykluczenia transportowego poprzez zakup niskoemisyjnego taboru autobusowego z napędem hybrydowym do obsługi istniejących oraz nowoutworzonych przez Powiat Bytowski pozamiejskich linii autobusowych",
+    "address": "ks. dr. Bolesława Domańskiego 2 77-100 Bytów",
+    "description": "Ulica: ks. dr. Bolesława Domańskiego<br>Numer: 2<br>Kod pocztowy: 77-100<br>Miejscowość: Bytów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "ks. dr. Bolesława Domańskiego",
+    "Numer": "2",
+    "Kod pocztowy": "77-100",
+    "Miejscowość": "Bytów"
+  },
+  {
+    "name": "Ograniczenie wykluczenia transportowego poprzez zakup niskoemisyjnego taboru autobusowego z napędem hybrydowym do obsługi istniejących oraz nowoutworzonych przez Powiat Bytowski pozamiejskich linii autobusowych – etap II",
+    "address": "ks. dr. Bolesława Domańskiego 2 77-100 Bytów",
+    "description": "Ulica: ks. dr. Bolesława Domańskiego<br>Numer: 2<br>Kod pocztowy: 77-100<br>Miejscowość: Bytów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "ks. dr. Bolesława Domańskiego",
+    "Numer": "2",
+    "Kod pocztowy": "77-100",
+    "Miejscowość": "Bytów"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Powiatu Człuchowskiego poprzez zakup autobusów niskoemisyjnych",
+    "address": "Aleja Wojska Polskiego 1 77-300 Człuchów",
+    "description": "Ulica: Aleja Wojska Polskiego<br>Numer: 1<br>Kod pocztowy: 77-300<br>Miejscowość: Człuchów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "1",
+    "Kod pocztowy": "77-300",
+    "Miejscowość": "Człuchów"
+  },
+  {
+    "name": "Zmniejszenie emisyjności transportu publicznego na obszarze powiatu drawskiego dla zmniejszenia uciążliwości i ochrony środowiska naturalnego, poprzez zakup 9 autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania.",
+    "address": "pl. Plac Elizy Orzeszkowej 3 78-500 Drawsko Pomorskie",
+    "description": "Ulica: pl. Plac Elizy Orzeszkowej<br>Numer: 3<br>Kod pocztowy: 78-500<br>Miejscowość: Drawsko Pomorskie",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Elizy Orzeszkowej",
+    "Numer": "3",
+    "Kod pocztowy": "78-500",
+    "Miejscowość": "Drawsko Pomorskie"
+  },
+  {
+    "name": "Zakup i dostawa 2 szt. nowych zeroemisyjnych (elektrycznych) autobusów wraz z infrastrukturą do ładowania dla publicznego transportu zbiorowego dla Powiatu Grudziądzkiego. Etap II.",
+    "address": "Małomłyńska 1 86-300 Grudziądz",
+    "description": "Ulica: Małomłyńska<br>Numer: 1<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Małomłyńska",
+    "Numer": "1",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  },
+  {
+    "name": "Zakup i dostawa 5 szt. nowych niskoemisyjnych autobusów dla publicznego transportu zbiorowego na terenie Powiatu Grudziądzkiego. Etap I.",
+    "address": "Małomłyńska 1 86-300 Grudziądz",
+    "description": "Ulica: Małomłyńska<br>Numer: 1<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Małomłyńska",
+    "Numer": "1",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych",
+    "address": "Władysława Broniewskiego 15 58-400 Kamienna Góra",
+    "description": "Ulica: Władysława Broniewskiego<br>Numer: 15<br>Kod pocztowy: 58-400<br>Miejscowość: Kamienna Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Władysława Broniewskiego",
+    "Numer": "15",
+    "Kod pocztowy": "58-400",
+    "Miejscowość": "Kamienna Góra"
+  },
+  {
+    "name": "Zakup taboru niskoemisyjnego dla transportu publicznego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności",
+    "address": "Piastowska 33 48-300 Nysa",
+    "description": "Ulica: Piastowska<br>Numer: 33<br>Kod pocztowy: 48-300<br>Miejscowość: Nysa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Piastowska",
+    "Numer": "33",
+    "Kod pocztowy": "48-300",
+    "Miejscowość": "Nysa"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych dla transportu publicznego w ramach Krajowego Planu Odbudowy i Zwiększania Odporności",
+    "address": "Piastowska 33 48-300 Nysa",
+    "description": "Ulica: Piastowska<br>Numer: 33<br>Kod pocztowy: 48-300<br>Miejscowość: Nysa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Piastowska",
+    "Numer": "33",
+    "Kod pocztowy": "48-300",
+    "Miejscowość": "Nysa"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi linii pozamiejskich na terenie powiatu ostrowieckiego",
+    "address": "Iłżecka 37 27-400 Ostrowiec Świętokrzyski",
+    "description": "Ulica: Iłżecka<br>Numer: 37<br>Kod pocztowy: 27-400<br>Miejscowość: Ostrowiec Świętokrzyski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Iłżecka",
+    "Numer": "37",
+    "Kod pocztowy": "27-400",
+    "Miejscowość": "Ostrowiec Świętokrzyski"
+  },
+  {
+    "name": "Zakup 6 autobusów niskoemisyjnych na potrzeby organizacji publicznego transportu zbiorowego w Powiecie Raciborskim",
+    "address": "pl. Plac Stefana Okrzei 4 47-400 Racibórz",
+    "description": "Ulica: pl. Plac Stefana Okrzei<br>Numer: 4<br>Kod pocztowy: 47-400<br>Miejscowość: Racibórz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Stefana Okrzei",
+    "Numer": "4",
+    "Kod pocztowy": "47-400",
+    "Miejscowość": "Racibórz"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru na potrzeby pozamiejskich linii użyteczności publicznej powiatu słupskiego",
+    "address": "Szarych Szeregów 14 76-200 Słupsk",
+    "description": "Ulica: Szarych Szeregów<br>Numer: 14<br>Kod pocztowy: 76-200<br>Miejscowość: Słupsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Szarych Szeregów",
+    "Numer": "14",
+    "Kod pocztowy": "76-200",
+    "Miejscowość": "Słupsk"
+  },
+  {
+    "name": "Zakup zeroemisyjnego taboru na potrzeby pozamiejskich linii użyteczności publicznej powiatu słupskiego",
+    "address": "Szarych Szeregów 14 76-200 Słupsk",
+    "description": "Ulica: Szarych Szeregów<br>Numer: 14<br>Kod pocztowy: 76-200<br>Miejscowość: Słupsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Szarych Szeregów",
+    "Numer": "14",
+    "Kod pocztowy": "76-200",
+    "Miejscowość": "Słupsk"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi pozamiejskich linii komunikacyjnych",
+    "address": "Podleśna 15 37-450 Stalowa Wola",
+    "description": "Ulica: Podleśna<br>Numer: 15<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Podleśna",
+    "Numer": "15",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wraz z elementami infrastruktury technicznej i wyposażenia służących do obsługi linii pozamiejskich na terenie powiatu włocławskiego.",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wraz z elementami infrastruktury technicznej i wyposażenia służących i niezbędnych do ładowania baterii do obsługi linii pozamiejskich na terenie powiatu włocławskiego",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi linii pozamiejskich na terenie powiatu włocławskiego",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup dwóch autobusów niskoemisyjnych na potrzeby Wodzisławskiej Komunikacji Powiatowej",
+    "address": "Bogumińska 2 44-300 Wodzisław Śląski",
+    "description": "Ulica: Bogumińska<br>Numer: 2<br>Kod pocztowy: 44-300<br>Miejscowość: Wodzisław Śląski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bogumińska",
+    "Numer": "2",
+    "Kod pocztowy": "44-300",
+    "Miejscowość": "Wodzisław Śląski"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych na potrzeby Wodzisławskiej Komunikacji Powiatowej",
+    "address": "Bogumińska 2 44-300 Wodzisław Śląski",
+    "description": "Ulica: Bogumińska<br>Numer: 2<br>Kod pocztowy: 44-300<br>Miejscowość: Wodzisław Śląski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bogumińska",
+    "Numer": "2",
+    "Kod pocztowy": "44-300",
+    "Miejscowość": "Wodzisław Śląski"
+  },
+  {
+    "name": "Utworzenie Zintegrowanego Systemu Komunikacji Autobusowej na terenie Powiatu Mińskiego",
+    "address": "Budowlana 4 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Budowlana<br>Numer: 4<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Budowlana",
+    "Numer": "4",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  },
+  {
+    "name": "„Zwiększenie potencjału przewozowego Przedsiębiorstwa Komunikacji Samochodowej Koszalin sp. z o.o. poprzez zakup 3 sztuk autobusów niskoemisyjnych”",
+    "address": "77 76-150 Krupy",
+    "description": "Ulica: <br>Numer: 77<br>Kod pocztowy: 76-150<br>Miejscowość: Krupy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "77",
+    "Kod pocztowy": "76-150",
+    "Miejscowość": "Krupy"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych",
+    "address": "Towarowa 43 58-400 Kamienna Góra",
+    "description": "Ulica: Towarowa<br>Numer: 43<br>Kod pocztowy: 58-400<br>Miejscowość: Kamienna Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Towarowa",
+    "Numer": "43",
+    "Kod pocztowy": "58-400",
+    "Miejscowość": "Kamienna Góra"
+  },
+  {
+    "name": "ZAKUP AUTOBUSÓW NISKOEMISYJNYCH DO REALIZACJI ZADAŃ Z ZAKRESU PUBLICZNEGO TRANSPORTU ZBIOROWEGO",
+    "address": "Zakładowa 4 62-510 Konin",
+    "description": "Ulica: Zakładowa<br>Numer: 4<br>Kod pocztowy: 62-510<br>Miejscowość: Konin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Zakładowa",
+    "Numer": "4",
+    "Kod pocztowy": "62-510",
+    "Miejscowość": "Konin"
+  },
+  {
+    "name": "„Zakup trzech autobusów niskoemisyjnych do obsługi linii pozamiejskich Powiatu Lubańskiego”",
+    "address": "Baworowo 84 59-820 Leśna",
+    "description": "Ulica: Baworowo<br>Numer: 84<br>Kod pocztowy: 59-820<br>Miejscowość: Leśna",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Baworowo",
+    "Numer": "84",
+    "Kod pocztowy": "59-820",
+    "Miejscowość": "Leśna"
+  },
+  {
+    "name": "eMiedziowe – autobusy elektryczne dla komunikacji Powiatu Lubińskiego",
+    "address": "Ścinawska 22 59-300 Lubin",
+    "description": "Ulica: Ścinawska<br>Numer: 22<br>Kod pocztowy: 59-300<br>Miejscowość: Lubin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ścinawska",
+    "Numer": "22",
+    "Kod pocztowy": "59-300",
+    "Miejscowość": "Lubin"
+  },
+  {
+    "name": "Zakup 15 szt. autobusów hybrydowych dla realizacji usług publicznego transportu zbiorowego na terenie Związku Powiatowo - Gminnego \"Wielkopolski Transport Regionalny\"",
+    "address": "Piekary 19 61-823 Poznań",
+    "description": "Ulica: Piekary<br>Numer: 19<br>Kod pocztowy: 61-823<br>Miejscowość: Poznań",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Piekary",
+    "Numer": "19",
+    "Kod pocztowy": "61-823",
+    "Miejscowość": "Poznań"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych przez operatora publicznego transportu zbiorowego PKS w Rzeszowie S.A.",
+    "address": "976 36-001 Trzebownisko",
+    "description": "Ulica: <br>Numer: 976<br>Kod pocztowy: 36-001<br>Miejscowość: Trzebownisko",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "976",
+    "Kod pocztowy": "36-001",
+    "Miejscowość": "Trzebownisko"
+  },
+  {
+    "name": "Zakup autobusów zeroemisyjnych wraz z infrastrukturą ładowania przez operatora publicznego transportu zbiorowego PKS w Rzeszowie S.A.",
+    "address": "976 36-001 Trzebownisko",
+    "description": "Ulica: <br>Numer: 976<br>Kod pocztowy: 36-001<br>Miejscowość: Trzebownisko",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": null,
+    "Numer": "976",
+    "Kod pocztowy": "36-001",
+    "Miejscowość": "Trzebownisko"
+  },
+  {
+    "name": "Zakup niskoemisyjnego taboru dla Przedsiębiorstwa Komunikacji Samochodowej w Słupsku w celu poprawy funkcjonowania Transportu Zbiorowego na terenie Powiatu Słupskiego",
+    "address": "Główna 65 76-200 Głobino",
+    "description": "Ulica: Główna<br>Numer: 65<br>Kod pocztowy: 76-200<br>Miejscowość: Głobino",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Główna",
+    "Numer": "65",
+    "Kod pocztowy": "76-200",
+    "Miejscowość": "Głobino"
+  },
+  {
+    "name": "Rozwój transportu publicznego w Gminie Pałecznica  poprzez zakup 1 autobusu elektrycznego",
+    "address": "św. Jakuba 11 32-109 Pałecznica",
+    "description": "Ulica: św. Jakuba<br>Numer: 11<br>Kod pocztowy: 32-109<br>Miejscowość: Pałecznica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "św. Jakuba",
+    "Numer": "11",
+    "Kod pocztowy": "32-109",
+    "Miejscowość": "Pałecznica"
+  },
+  {
+    "name": "Zakup 6 autobusów hybrydowych do realizacji zadań z zakresu publicznego transportu zbiorowego na obszarze Wejherowskiego Związku Powiatowo-Gminnego",
+    "address": "3 Maja 4 84-200 Wejherowo",
+    "description": "Ulica: 3 Maja<br>Numer: 4<br>Kod pocztowy: 84-200<br>Miejscowość: Wejherowo",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "3 Maja",
+    "Numer": "4",
+    "Kod pocztowy": "84-200",
+    "Miejscowość": "Wejherowo"
+  },
+  {
+    "name": "Zakup nowego zeroemisyjnego taboru autobusowego elektrycznego do obsługi połączeń na terenie Województwa Kujawsko-Pomorskiego",
+    "address": "pl. Plac Teatralny 2 87-100 Toruń",
+    "description": "Ulica: pl. Plac Teatralny<br>Numer: 2<br>Kod pocztowy: 87-100<br>Miejscowość: Toruń",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Teatralny",
+    "Numer": "2",
+    "Kod pocztowy": "87-100",
+    "Miejscowość": "Toruń"
+  },
+  {
+    "name": "Zakup nowego niskoemisyjnego taboru autobusowego (hybrydy HEV/MHEV) do obsługi połączeń w Województwie Kujawsko-Pomorskim",
+    "address": "pl. Plac Teatralny 2 87-100 Toruń",
+    "description": "Ulica: pl. Plac Teatralny<br>Numer: 2<br>Kod pocztowy: 87-100<br>Miejscowość: Toruń",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Teatralny",
+    "Numer": "2",
+    "Kod pocztowy": "87-100",
+    "Miejscowość": "Toruń"
+  },
+  {
+    "name": "Zakup 15 autobusów zeroemisyjnych wraz z niezbędną infrastrukturą ładowania/tankowania do obsługi przewozów pasażerskich w Województwie Pomorskim",
+    "address": "Okopowa 21 80-810 Gdańsk",
+    "description": "Ulica: Okopowa<br>Numer: 21<br>Kod pocztowy: 80-810<br>Miejscowość: Gdańsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Okopowa",
+    "Numer": "21",
+    "Kod pocztowy": "80-810",
+    "Miejscowość": "Gdańsk"
+  },
+  {
+    "name": "Zakup i dostawa niskoemisyjnych autobusów do obsługi linii pozamiejskich na terenie Zielonogórskiego Związku Powiatowo-Gminnego",
+    "address": "Ogrodowa 9 66-016 Czerwieńsk",
+    "description": "Ulica: Ogrodowa<br>Numer: 9<br>Kod pocztowy: 66-016<br>Miejscowość: Czerwieńsk",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ogrodowa",
+    "Numer": "9",
+    "Kod pocztowy": "66-016",
+    "Miejscowość": "Czerwieńsk"
+  },
+  {
+    "name": "Rozwój zrównoważonej mobilności mieszkańców Związku Gmin \"Podkarpacka Komunikacja Samochodowa\" poprzez usprawnienie transportu publicznego - autobusy CNG",
+    "address": "al. Wyzwolenia 6 35-959 Rzeszów",
+    "description": "Ulica: al. Wyzwolenia<br>Numer: 6<br>Kod pocztowy: 35-959<br>Miejscowość: Rzeszów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Wyzwolenia",
+    "Numer": "6",
+    "Kod pocztowy": "35-959",
+    "Miejscowość": "Rzeszów"
+  },
+  {
+    "name": "Rozwój zrównoważonej mobilności mieszkańców Związku Gmin \"Podkarpacka Komunikacja Samochodowa\" poprzez usprawnienie transportu publicznego - autobusy elektryczne wraz z infrastrukturą ładowania i pojazd techniczny",
+    "address": "al. Wyzwolenia 6 35-959 Rzeszów",
+    "description": "Ulica: al. Wyzwolenia<br>Numer: 6<br>Kod pocztowy: 35-959<br>Miejscowość: Rzeszów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Wyzwolenia",
+    "Numer": "6",
+    "Kod pocztowy": "35-959",
+    "Miejscowość": "Rzeszów"
+  },
+  {
+    "name": "Rozwój zrównoważonej mobilności mieszkańców Związku Gmin „Podkarpacka Komunikacja Samochodowa” poprzez usprawnienie transportu publicznego – autobusy elektryczne wraz z urządzeniami  ładowania -  etap II",
+    "address": "al. Wyzwolenia 6 35-959 Rzeszów",
+    "description": "Ulica: al. Wyzwolenia<br>Numer: 6<br>Kod pocztowy: 35-959<br>Miejscowość: Rzeszów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Wyzwolenia",
+    "Numer": "6",
+    "Kod pocztowy": "35-959",
+    "Miejscowość": "Rzeszów"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do realizacji zadań z zakresu publicznego transportu zbiorowego",
+    "address": "Mazowiecka 26 08-400 Garwolin",
+    "description": "Ulica: Mazowiecka<br>Numer: 26<br>Kod pocztowy: 08-400<br>Miejscowość: Garwolin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Mazowiecka",
+    "Numer": "26",
+    "Kod pocztowy": "08-400",
+    "Miejscowość": "Garwolin"
+  },
+  {
+    "name": "Zmniejszenie emisyjności transportu publicznego na obszarze związku powiatowo-gminnego „Oławskie Przewozy Gminno-Powiatowe” z siedzibą w Oławie dla zmniejszenia uciążliwości i ochrony środowiska naturalnego, poprzez zakup 10 autobusów elektrycznych wraz z niezbędną infrastrukturą ładowania.",
+    "address": "3 Maja 4 55-200 Oława",
+    "description": "Ulica: 3 Maja<br>Numer: 4<br>Kod pocztowy: 55-200<br>Miejscowość: Oława",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "3 Maja",
+    "Numer": "4",
+    "Kod pocztowy": "55-200",
+    "Miejscowość": "Oława"
+  },
+  {
+    "name": "ZAKUP 6 AUTOBUSÓW O NAPĘDZIE DIESEL DO OBSŁUGI TRANSPORTU PUBLICZNEGO NA TERENIE ZWIĄZKU\nPOWIATOWO-GMINNEGO POD NAZWĄ \"JEDŹMY RAZEM!\"",
+    "address": "Pułaskiego 6 42-300 Myszków",
+    "description": "Ulica: Pułaskiego<br>Numer: 6<br>Kod pocztowy: 42-300<br>Miejscowość: Myszków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pułaskiego",
+    "Numer": "6",
+    "Kod pocztowy": "42-300",
+    "Miejscowość": "Myszków"
+  },
+  {
+    "name": "ZAKUP DWÓCH NOWYCH ZEROEMISYJNYCH AUTOBUSÓW  Z NAPĘDEM ELEKTRYCZNYM NA POTRZEBY MIESZKAŃCÓW  POWIATU PUCKIEGO",
+    "address": "pl. Plac Obrońców Wybrzeża 11 84-100 Puck",
+    "description": "Ulica: pl. Plac Obrońców Wybrzeża<br>Numer: 11<br>Kod pocztowy: 84-100<br>Miejscowość: Puck",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Obrońców Wybrzeża",
+    "Numer": "11",
+    "Kod pocztowy": "84-100",
+    "Miejscowość": "Puck"
+  },
+  {
+    "name": "Zakup nowego, niskopodłogowego taboru tramwajowego dla Miasta Bydgoszczy w ramach Krajowego Planu Odbudowy i Zwiększania Odporności",
+    "address": "Jezuicka 1 85-102 Bydgoszcz",
+    "description": "Ulica: Jezuicka<br>Numer: 1<br>Kod pocztowy: 85-102<br>Miejscowość: Bydgoszcz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Jezuicka",
+    "Numer": "1",
+    "Kod pocztowy": "85-102",
+    "Miejscowość": "Bydgoszcz"
+  },
+  {
+    "name": "Dostawa taboru tramwajowego dla MPK Sp. z  o.o. we Wrocławiu",
+    "address": "Bolesława Prusa 75-79 50-316 Wrocław",
+    "description": "Ulica: Bolesława Prusa<br>Numer: 75-79<br>Kod pocztowy: 50-316<br>Miejscowość: Wrocław",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bolesława Prusa",
+    "Numer": "75-79",
+    "Kod pocztowy": "50-316",
+    "Miejscowość": "Wrocław"
+  },
+  {
+    "name": "Zakup niskopodłogowego taboru tramwajowego w celu usprawnienia i poprawy jakości komunikacji zbiorowej w Krakowie – część IV i V",
+    "address": "św. Wawrzyńca 13 31-060 Kraków",
+    "description": "Ulica: św. Wawrzyńca<br>Numer: 13<br>Kod pocztowy: 31-060<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "św. Wawrzyńca",
+    "Numer": "13",
+    "Kod pocztowy": "31-060",
+    "Miejscowość": "Kraków"
+  },
+  {
+    "name": "„Zielona mobilność - inwestycje w tabor tramwajowy MPK Poznań Sp. z o.o.”",
+    "address": "Głogowska 133 60-244 Poznań",
+    "description": "Ulica: Głogowska<br>Numer: 133<br>Kod pocztowy: 60-244<br>Miejscowość: Poznań",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Głogowska",
+    "Numer": "133",
+    "Kod pocztowy": "60-244",
+    "Miejscowość": "Poznań"
+  }
+]

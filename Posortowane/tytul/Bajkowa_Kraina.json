@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bajkowa Kraina",
+    "address": "Kujawsko-Pomorskie Aleksandrowski Koneck 87-702 św. Prokopa 79",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Aleksandrowski<br>Miejscowość: Koneck<br>Kod pocztowy: 87-702<br>Ulica: św. Prokopa<br>Numer: 79<br>adres: Kujawsko-Pomorskie Aleksandrowski Koneck 87-702 św. Prokopa 79<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Aleksandrowski<br>Miejscowość: Koneck<br>Kod pocztowy: 87-702<br>Ulica: św. Prokopa<br>Numer: 79",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Aleksandrowski\nMiejscowość: Koneck\nKod pocztowy: 87-702\nUlica: św. Prokopa\nNumer: 79",
+    "adres": "Kujawsko-Pomorskie Aleksandrowski Koneck 87-702 św. Prokopa 79",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Aleksandrowski",
+    "Miejscowość": "Koneck",
+    "Kod pocztowy": "87-702",
+    "Ulica": "św. Prokopa",
+    "Numer": "79"
+  },
+  {
+    "name": "Bajkowa Kraina",
+    "address": "Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Chmielnik<br>Kod pocztowy: 26-020<br>Ulica: Lipowa<br>Numer: 31<br>adres: Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31<br>Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Chmielnik<br>Kod pocztowy: 26-020<br>Ulica: Lipowa<br>Numer: 31",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Kielecki\nMiejscowość: Chmielnik\nKod pocztowy: 26-020\nUlica: Lipowa\nNumer: 31",
+    "adres": "Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Kielecki",
+    "Miejscowość": "Chmielnik",
+    "Kod pocztowy": "26-020",
+    "Ulica": "Lipowa",
+    "Numer": "31"
+  }
+]

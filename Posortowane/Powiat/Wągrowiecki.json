@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Publiczny w Skokach",
+    "address": "Wielkopolskie Wągrowiecki Skoki 62-085 Polna",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Skoki<br>Kod pocztowy: 62-085<br>Ulica: Polna<br>Numer:<br>adres: Wielkopolskie Wągrowiecki Skoki 62-085 Polna<br>Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Skoki<br>Kod pocztowy: 62-085<br>Ulica: Polna<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Wągrowiecki\nMiejscowość: Skoki\nKod pocztowy: 62-085\nUlica: Polna\nNumer:",
+    "adres": "Wielkopolskie Wągrowiecki Skoki 62-085 Polna",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Wągrowiecki",
+    "Miejscowość": "Skoki",
+    "Kod pocztowy": "62-085",
+    "Ulica": "Polna",
+    "Numer": null
+  },
+  {
+    "name": "Prywatny żłobek Bajkowa Polanka 2w1 wędrowcy",
+    "address": "Wielkopolskie Wągrowiecki Wągrowiec 62-100 Reja 4a",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Wągrowiec<br>Kod pocztowy: 62-100<br>Ulica: Reja<br>Numer: 4a<br>adres: Wielkopolskie Wągrowiecki Wągrowiec 62-100 Reja 4a<br>Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Wągrowiec<br>Kod pocztowy: 62-100<br>Ulica: Reja<br>Numer: 4a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Wągrowiecki\nMiejscowość: Wągrowiec\nKod pocztowy: 62-100\nUlica: Reja\nNumer: 4a",
+    "adres": "Wielkopolskie Wągrowiecki Wągrowiec 62-100 Reja 4a",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Wągrowiecki",
+    "Miejscowość": "Wągrowiec",
+    "Kod pocztowy": "62-100",
+    "Ulica": "Reja",
+    "Numer": "4a"
+  },
+  {
+    "name": "Żłobek Gminny",
+    "address": "Wielkopolskie Wągrowiecki Mieścisko 62-290 św. Wojciecha 3",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Mieścisko<br>Kod pocztowy: 62-290<br>Ulica: św. Wojciecha<br>Numer: 3<br>adres: Wielkopolskie Wągrowiecki Mieścisko 62-290 św. Wojciecha 3<br>Województwo: Wielkopolskie<br>Powiat: Wągrowiecki<br>Miejscowość: Mieścisko<br>Kod pocztowy: 62-290<br>Ulica: św. Wojciecha<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Wągrowiecki\nMiejscowość: Mieścisko\nKod pocztowy: 62-290\nUlica: św. Wojciecha\nNumer: 3",
+    "adres": "Wielkopolskie Wągrowiecki Mieścisko 62-290 św. Wojciecha 3",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Wągrowiecki",
+    "Miejscowość": "Mieścisko",
+    "Kod pocztowy": "62-290",
+    "Ulica": "św. Wojciecha",
+    "Numer": "3"
+  }
+]

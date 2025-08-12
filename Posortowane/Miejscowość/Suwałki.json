@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek Miejski w Suwałkach",
+    "address": "Podlaskie Suwałki Suwałki 16-400 Kamedulska 3",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Suwałki<br>Miejscowość: Suwałki<br>Kod pocztowy: 16-400<br>Ulica: Kamedulska<br>Numer: 3<br>adres: Podlaskie Suwałki Suwałki 16-400 Kamedulska 3<br>Województwo: Podlaskie<br>Powiat: Suwałki<br>Miejscowość: Suwałki<br>Kod pocztowy: 16-400<br>Ulica: Kamedulska<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Suwałki\nMiejscowość: Suwałki\nKod pocztowy: 16-400\nUlica: Kamedulska\nNumer: 3",
+    "adres": "Podlaskie Suwałki Suwałki 16-400 Kamedulska 3",
+    "Województwo": "Podlaskie",
+    "Powiat": "Suwałki",
+    "Miejscowość": "Suwałki",
+    "Kod pocztowy": "16-400",
+    "Ulica": "Kamedulska",
+    "Numer": "3"
+  },
+  {
+    "name": "Poprawa jakości systemu transportu publicznego w mieście Suwałki – V etap",
+    "address": "Sejneńska 82 16-400 Suwałki",
+    "description": "Ulica: Sejneńska<br>Numer: 82<br>Kod pocztowy: 16-400<br>Miejscowość: Suwałki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Sejneńska",
+    "Numer": "82",
+    "Kod pocztowy": "16-400",
+    "Miejscowość": "Suwałki"
+  }
+]

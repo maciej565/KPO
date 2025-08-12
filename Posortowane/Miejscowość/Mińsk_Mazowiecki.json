@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Termomodernizacja szkoły podstawowej w Stojadłach",
+    "address": "Józefa Chełmońskiego 05-300 Mińsk Mazowiecki MAZOWIECKIE 4,315,385.00 zł",
+    "description": "Nazwa podmiotu: Gmina Mińsk Mazowiecki<br>Ulica: Józefa Chełmońskiego<br>Nr budynku: 14<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki<br>Województwo: MAZOWIECKIE<br>Dofinansowanie: 4,315,385.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Mińsk Mazowiecki",
+    "Ulica": "Józefa Chełmońskiego",
+    "Nr budynku": "14",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki",
+    "Województwo": "MAZOWIECKIE",
+    "Dofinansowanie": "4,315,385.00 zł"
+  },
+  {
+    "name": "Zakup 6 autobusów elektrycznych wraz z budową infrastruktury stanowisk ładowania w celu obniżenia wykorzystania paliw emisyjnych w Mińsku Mazowieckim",
+    "address": "Konstytucji 3 Maja 1 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Konstytucji 3 Maja<br>Numer: 1<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Konstytucji 3 Maja",
+    "Numer": "1",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  },
+  {
+    "name": "Zakup 2 autobusów elektrycznych wraz z budową infrastruktury stanowisk ładowania w Mińsku Mazowieckim",
+    "address": "Konstytucji 3 Maja 1 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Konstytucji 3 Maja<br>Numer: 1<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Konstytucji 3 Maja",
+    "Numer": "1",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  },
+  {
+    "name": "Utworzenie Zintegrowanego Systemu Komunikacji Autobusowej na terenie Powiatu Mińskiego",
+    "address": "Budowlana 4 05-300 Mińsk Mazowiecki",
+    "description": "Ulica: Budowlana<br>Numer: 4<br>Kod pocztowy: 05-300<br>Miejscowość: Mińsk Mazowiecki",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Budowlana",
+    "Numer": "4",
+    "Kod pocztowy": "05-300",
+    "Miejscowość": "Mińsk Mazowiecki"
+  }
+]

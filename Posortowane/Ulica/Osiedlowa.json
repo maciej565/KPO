@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Mali Odkrywcy",
+    "address": "Kujawsko-Pomorskie Toruński Zławieś Mała 87-134 Osiedlowa 6",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Toruński<br>Miejscowość: Zławieś Mała<br>Kod pocztowy: 87-134<br>Ulica: Osiedlowa<br>Numer: 6<br>adres: Kujawsko-Pomorskie Toruński Zławieś Mała 87-134 Osiedlowa 6<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Toruński<br>Miejscowość: Zławieś Mała<br>Kod pocztowy: 87-134<br>Ulica: Osiedlowa<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Toruński\nMiejscowość: Zławieś Mała\nKod pocztowy: 87-134\nUlica: Osiedlowa\nNumer: 6",
+    "adres": "Kujawsko-Pomorskie Toruński Zławieś Mała 87-134 Osiedlowa 6",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Toruński",
+    "Miejscowość": "Zławieś Mała",
+    "Kod pocztowy": "87-134",
+    "Ulica": "Osiedlowa",
+    "Numer": "6"
+  },
+  {
+    "name": "Żłobek Gminny \"Gucio i Maja\"",
+    "address": "Lubuskie Gorzowski Baczyna 66-432 Osiedlowa",
+    "description": "opis: Województwo: Lubuskie<br>Powiat: Gorzowski<br>Miejscowość: Baczyna<br>Kod pocztowy: 66-432<br>Ulica: Osiedlowa<br>Numer:<br>adres: Lubuskie Gorzowski Baczyna 66-432 Osiedlowa<br>Województwo: Lubuskie<br>Powiat: Gorzowski<br>Miejscowość: Baczyna<br>Kod pocztowy: 66-432<br>Ulica: Osiedlowa<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubuskie\nPowiat: Gorzowski\nMiejscowość: Baczyna\nKod pocztowy: 66-432\nUlica: Osiedlowa\nNumer:",
+    "adres": "Lubuskie Gorzowski Baczyna 66-432 Osiedlowa",
+    "Województwo": "Lubuskie",
+    "Powiat": "Gorzowski",
+    "Miejscowość": "Baczyna",
+    "Kod pocztowy": "66-432",
+    "Ulica": "Osiedlowa",
+    "Numer": null
+  },
+  {
+    "name": "Klub Dziecięcy ,,Miś Uszatek\"",
+    "address": "Mazowieckie Sokołowski Repki 08-307 Osiedlowa 8",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Sokołowski<br>Miejscowość: Repki<br>Kod pocztowy: 08-307<br>Ulica: Osiedlowa<br>Numer: 8<br>adres: Mazowieckie Sokołowski Repki 08-307 Osiedlowa 8<br>Województwo: Mazowieckie<br>Powiat: Sokołowski<br>Miejscowość: Repki<br>Kod pocztowy: 08-307<br>Ulica: Osiedlowa<br>Numer: 8",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Sokołowski\nMiejscowość: Repki\nKod pocztowy: 08-307\nUlica: Osiedlowa\nNumer: 8",
+    "adres": "Mazowieckie Sokołowski Repki 08-307 Osiedlowa 8",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Sokołowski",
+    "Miejscowość": "Repki",
+    "Kod pocztowy": "08-307",
+    "Ulica": "Osiedlowa",
+    "Numer": "8"
+  }
+]
