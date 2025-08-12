@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Narodowy Instytut Onkologii im. M. Skłodowskiej-Curie w Gliwicach",
+    "description": "Rozbudowa infrastruktury klinicznej<br>medycyny nuklearnej,modernizacja<br>wyposażenia diagnostycznego i<br>rozszerzenie świadczeń chirurgii<br>onkologicznej w leczeniu nowotworów<br>ginekologicznych i narządu ruchu<br><br>Koszt całkowity: 144 992 472,40 zł<br>Wsparcie z KPO: 122 742 511,50 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi",
+    "description": "Rozwój Onkologicznych Centrów<br>Kompetencji w oparciu o innowacyjne<br>techniki diagnostyczne i terapeutyczne<br><br>Koszt całkowity: 141 580 797,16 zł<br>Wsparcie z KPO: 124 987 292,40 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie sp. z o.o.",
+    "description": "Modernizacja i rozbudowa zaplecza<br>diagnostyki, skojarzonego leczenia,<br>farmakoterapii i opieki farmaceutycznej<br>nad chorymi onkologicznie w Szpitalu<br>Specjalistycznym im. Ludwika Rydygiera w<br>Krakowie<br><br>Koszt całkowity: 146 439 413,23 zł<br>Wsparcie z KPO: 124 707 279,25 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wielkopolskie Centrum Onkologii",
+    "description": "Poprawa efektywności i jakości<br>diagnostyki i leczenia onkologicznego oraz<br>komfortu pacjenta w Kaliszu Pile i w<br>Poznaniu w celu równomiernej<br>dostępności świadczeń w Wielkopolsce<br><br>Koszt całkowity: 46 754 262,67 zł<br>Wsparcie z KPO: 41 484 560,95 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Mazowiecki Szpital Onkologiczny Sp. z o.o.",
+    "description": "Zapewnienie zasobów sprzętowych MSO<br>Sp. z o.o. w celu zabezpieczenia potrzeb<br>zdrowotnych w zakresie onkologii<br><br>Koszt całkowity: 71 212 752,31 zł<br>Wsparcie z KPO: 64 487 310,14 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie",
+    "description": "Modernizacja i doposażenie Narodowego<br>Instytutu Onkologii im. M. Skłodowskiej-<br>Curie - PIB Oddziału w Krakowie dla<br>poprawy jakości i rozszerzenia zakresu<br>świadczeń oferowanych pacjentom w<br>ramach Krajowej Sieci Onkologicznej<br><br>Koszt całkowity: 139 499 963,31 zł<br>Wsparcie z KPO: 124 548 733,47 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Białostockie Centrum Onkologii im. Marii Skłodowskiej-Curie w Białymstoku",
+    "description": "Rozwój koordynowanej opieki<br>onkologicznej poprzez modernizację<br>infrastruktury Białostockiego Centrum<br>Onkologii im. M. Skłodowskiej-Curie w<br>Białymstoku, jako Wojewódzkiego<br>Ośrodka Monitorującego w województwie<br>podlaskim.<br><br>Koszt całkowity: 139 611 537,51 zł<br>Wsparcie z KPO: 107 298 752,59 zł ",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpitale Pomorskie Sp. z o.o. - Szpital Morski im. PCK",
+    "description": "Poprawa efektywności, dostępności i<br>jakości w opiece onkologicznej poprzez<br>rozbudowę i doposażenie Gdyńskiego<br>Centrum Onkologii w Szpitalu Morskim<br>im. PCK w Gdyni.<br><br>Koszt całkowity: 144 512 982,14 zł<br>Wsparcie z KPO: 66 008 999,83 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojskowy Instytut Medyczny",
+    "description": "Rozbudowa zdolności kompleksowej i<br>zintegrowanej diagnostyki oraz terapii<br>onkologicznej: wsparcie i rozwój na rzecz<br>poprawy bezpieczeństwa, jakości i<br>dostępności świadczeń opieki zdrowotnej<br>w Wojskowym Instytucie Medycznym –<br>PIB.<br><br>Koszt całkowity: 141 437 925,33 zł<br>Wsparcie z KPO: 66 008 999,83 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersyteckie Centrum Kliniczne GUMed",
+    "description": "Zwiększenie jakości oraz dostępności<br>diagnostyki onkologicznej i leczenia<br>onkologicznego w Uniwersyteckim<br>Centrum Klinicznym w Gdańsku<br><br>Koszt całkowity: 97 733 614,00 zł<br>Wsparcie z KPO: 47 569 029,28 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko–Mazurskim Centrum Onkologii w Olsztynie",
+    "description": "Modernizacja oraz wyposażenie w<br>wysokiej klasy sprzęt medyczny<br>(diagnostyczny i zabiegowy) zespołu<br>klinik, oddziałów i pracowni Szpitala<br>Klinicznego MSWiA z Warmińsko -<br>Mazurskim Centrum Onkologii w<br>Olsztynie jako realizacja strategii Krajowej<br>Sieci Onkologicznej<br><br>Koszt całkowity: 132 424 439,83 zł<br>Wsparcie z KPO: 62 008 068,76 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Powiatowy im. Tadeusza Malińskiego w Śremie sp. z o.o.",
+    "description": "Modernizacja infrastruktury oraz zakup<br>sprzętu medycznego i wyposażenia w celu<br>poprawy jakości i dostępności świadczeń<br>onkologicznych w Szpitalu Powiatowym<br>im. Tadeusza Malińskiego w Śremie Sp. z<br>o.o.<br><br>Koszt całkowity: 41 624 721,66 zł<br>Wsparcie z KPO: 36 944 509,10 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny PRO-FAMILIA w Rzeszowie",
+    "description": "Rozbudowa Szpitala Specjalistycznego Profamilia<br>w zakresie udzielania świadczeń<br>onkologicznych wraz z wymianą<br>rezonansu magnetycznego i utworzeniem<br>pracowni medycyny nuklearnej w postaci<br>SPECT CT<br><br>Koszt całkowity: 69 339 806,80 zł<br>Wsparcie z KPO: 59 993 307,88 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny",
+    "description": "Poprawa dostępności i jakości świadczeń<br>medycznych w dziedzinie onkologii w<br>Wojewódzkim Szpitalu Specjalistycznym<br>w Białej Podlaskiej.<br><br>Koszt całkowity: 52 434 950,86 zł<br>Wsparcie z KPO: 48 679 681,29 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "!!! Grupa Scanmed !!!",
+    "styleUrl": "#icon-1624-DB4436-nodesc"
+  },
+  {
+    "name": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach",
+    "description": "Rozbudowa oraz doposażenie<br>infrastruktury Górnośląskiego Centrum<br>Medycznego im. prof. Leszka Gieca<br>Śląskiego Uniwersytetu Medycznego w<br>Katowicach w celu poprawy dostępności<br>oraz jakości opieki onkologicznej<br><br>Koszt całkowity: 66 140 253,63 zł<br>Wsparcie z KPO: 55 825 312,26 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Zespolony w Kielcach",
+    "description": "Doposażenie Wojewódzkiego Szpitala<br>Zespolonego w Kielcach w sprzęt<br>medyczny do diagnostyki i leczenia<br>pacjentów z chorobami onkologicznymi<br><br>Koszt całkowity: 43 357 008,14 zł<br>Wsparcie z KPO: 39 998 257,31 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Średzki Serca Jezusowego",
+    "description": "Modernizacja wraz z rozbudową oraz<br>doposażenie Szpitala Średzkiego Serca<br>Jezusowego Sp. z o.o. w celu poprawy<br>jakości, dostępności, kompleksowości i<br>skuteczności diagnostyki i leczenia<br>onkologicznego na terenie powiatu<br>średzkiego.<br><br>Koszt całkowity: 37 017 716,84 zł<br>Wsparcie z KPO: 32 227 291,04 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wojewódzki im. Kardynała Stefana Wyszyńskiego w Łomży",
+    "description": "Rozwój infrastruktury diagnostyki i<br>leczenia onkologicznego Szpitala<br>Wojewódzkiego im. Kard. Stefana<br>Wyszyńskiego w Łomży<br><br>Koszt całkowity: 51 109 550,28 zł<br>Wsparcie z KPO: 45 945 261,69 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "5 Wojskowy Szpital Kliniczny z Polikliniką SPZOZ",
+    "description": "Zakup i modernizacja urządzeń i wyrobów<br>medycznych niezbędnych do realizacji<br>świadczeń w zakresie diagnostyki i<br>leczenia onkologicznego w 5 Wojskowym<br>Szpitalu Klinicznym z Polikliniką SPZOZ w<br>Krakowie<br><br>Koszt całkowity: 55 895 474,47 zł<br>Wsparcie z KPO: 51 797 886,09 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Bielański",
+    "description": "Wzmocnienie zasobów<br>infrastrukturalnych i sprzętowych Szpitala<br>Bielańskiego w celu poprawy jakości i<br>dostępności do świadczeń onkologicznych<br><br>Koszt całkowity: 58 481 921,17 zł<br>Wsparcie z KPO: 50 077 724,50 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Pabianickie Centrum Medyczne Sp. z o.o.",
+    "description": "Zwiększenie dostępności świadczeń<br>medycznych na rzecz pacjentów<br>onkologicznych w Pabianickim Centrum<br>Medycznym Sp. z o.o.<br><br>Koszt całkowity: 26 085 616,59 zł<br>Wsparcie z KPO: 23 178 839,38 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Powiatowy w Radomsku",
+    "description": "Rozwój wysokospecjalistycznej<br>infrastruktury medycznej w Szpitalu<br>Powiatowym w Radomsku<br><br>Koszt całkowity: 40 921 947,71 zł<br>Wsparcie z KPO: 35 581 529,33 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny im. błogosławionego księdza Jerzego Popiełuszki we Włocławku",
+    "description": "Podniesienie jakości usług zdrowotnych<br>oraz zwiększenie dostępu do usług<br>medycznych w Wojewódzkim Szpitalu<br>Specjalistycznym im. błogosławionego<br>księdza Jerzego Popiełuszki we Włocławku<br>– zakup sprzętu medycznego dla potrzeb<br>udzielania świadczeń onkologicznych<br><br>Koszt całkowity: 51 702 232,66 zł<br>Wsparcie z KPO: 47 790 083,46 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Czerniakowski",
+    "description": "Modernizacja pomieszczeń Oddziału<br>Chirurgii Ogólnej i Chirurgii Onkologicznej<br>oraz Otolaryngologicznego wraz z<br>wyposażeniem w celu poprawy jakości i<br>dostępności do diagnostyki i opieki<br>onkologicznej.<br><br>Koszt całkowity: 64 631 195,97 zł<br>Wsparcie z KPO: 56 713 576,11 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Lublinie",
+    "description": "Rozwój zdolności leczenia onkologicznego<br>w SP ZOZ MSWiA w Lublinie poprzez<br>utworzenie nowych oddziałów wraz z<br>modernizacją bazy sprzętowej<br><br>Koszt całkowity: 52 397 801,51 zł<br>Wsparcie z KPO: 47 141 081,03 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. św. Jana Pawła II",
+    "description": "Rozwój infrastruktury i technologii<br>wspierających jakość opieki onkologicznej<br>w Samodzielnym Publicznym<br>Specjalistycznym Szpitalu Zachodnim im.<br>św. Jana Pawła II w Grodzisku<br>Mazowieckim<br><br>Koszt całkowity: 68 490 932,84 zł<br>Wsparcie z KPO: 60 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny im. Edmunda Biernackiego",
+    "description": "Zakup urządzeń i wyrobów medycznych<br>niezbędnych do realizacji świadczeń w<br>zakresie diagnostyki i leczenia<br>onkologicznego na poziomie SOLO I w<br>Szpitalu Specjalistycznym im. Edmunda<br>Biernackiego w Mielcu<br><br>Koszt całkowity: 47 871 814,50 zł<br>Wsparcie z KPO: 44 443 812,44 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "SP ZOZ Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego",
+    "description": "Wsparcie rozwoju Krajowej Sieci<br>Onkologicznej poprzez doposażenie SP<br>ZOZ Wojewódzkiego Szpitala Zespolonego<br>im. Jędrzeja Śniadeckiego w Białymstoku<br><br>Koszt całkowity: 33 330 682,17 zł<br>Wsparcie z KPO: 30 951 161,08 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny im. J. Śniadeckiego",
+    "description": "„Szybka diagnostyka, poprawa<br>efektywności, dostępności i jakości<br>udzielanych świadczeń onkologicznych<br>poprzez wymianę i zakup sprzętu oraz<br>aparatury medycznej w Szpitalu<br>Specjalistycznym im. J. Śniadeckiego w<br>Nowym Sączu”<br><br>Koszt całkowity: 38 859 165,58 zł<br>Wsparcie z KPO: 34 744 005,35 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny im. J.K. Łukowicza",
+    "description": "Poprawa efektywności funkcjonowania,<br>dostępności i jakości udzielanych<br>świadczeń w zakresie onkologii przez<br>Szpital Specjalistyczny im. J. K. Łukowicza<br>w Chojnicach<br><br>Koszt całkowity: 68 340 664,42 zł<br>Wsparcie z KPO: 59 880 738,62 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Praski p.w. Przemienienia Pańskiego",
+    "description": "Poprawa dostępności i jakości opieki<br>onkologicznej poprzez zakup wyrobów i<br>urządzeń medycznych oraz modernizację<br>infrastruktury Szpitala Praskiego pw.<br>Przemienienia Pańskiego Sp. z o.o.<br><br>Koszt całkowity: 67 910 152,61 zł<br>Wsparcie z KPO: 59 999 065,25 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Śląski Szpital Urologiczny GRUPA MAZOVIA | Urologia Katowice",
+    "description": "Zwiększenie dostępności do<br>wysokospecjalistycznych świadczeń<br>urologii zabiegowej w tym onkologicznej<br>wraz ze skróceniem czasu oczekiwania na<br>diagnozę i zabieg, poprzez rozbudowę i<br>modernizację szpitalnego oddziału<br>urologicznego, obejmującą również<br>uruchomienie nowoczesnych sal<br>zabiegowych o podwyższonym<br>standardzie i rozbudowę pracowni<br>diagnostyki obrazowej w NZOZ Śląskim<br>Szpitalu Urologicznym w Katowicach<br><br>Koszt całkowity: 70 089 282,75 zł<br>Wsparcie z KPO: 59 800 458,82 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Choszcznie",
+    "description": "Modernizacja pomieszczeń oraz wymiana<br>i uzupełnienie infrastruktury sprzętowej w<br>celu poprawy dostępu i jakości opieki<br>onkologicznej pacjentom Samodzielnego<br>Publicznego Zakładu Opieki Zdrowotnej w<br>Choszcznie.<br><br>Koszt całkowity: 25 565 268,49 zł<br>Wsparcie z KPO: 15 133 121,89 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wojewódzki im. Prymasa Kardynała Stefana Wyszyńskiego",
+    "description": "Rozwój działalności Szpitala<br>Wojewódzkiego w Sieradzu jako ośrodka<br>SOLO I w dziedzinie diagnostyki i<br>operacyjnego leczenia onkologicznego –<br>oparty na podniesieniu jakości i<br>dostępności świadczeń oraz rozszerzeniu<br>ich zakresu.<br><br>Koszt całkowity: 49 973 000,00 zł<br>Wsparcie z KPO: 44 734 485,10 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Warszawski Szpital Południowy",
+    "description": "Doposażenie Warszawskiego Szpitala<br>Południowego sp. z o.o., jako SOLO I, w<br>celu poprawy dostępności i jakości opieki<br>onkologicznej<br><br>Koszt całkowity: 53 003 671,48 zł<br>Wsparcie z KPO: 48 992 651,90 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "7 Szpital Marynarki Wojennej",
+    "description": "Poprawa dostępności do diagnostyki i<br>leczenia onkologicznego ONKO+ w 7<br>Szpitalu Marynarki Wojennej w Gdańsku.<br><br>Koszt całkowity: 24 501 746,81 zł<br>Wsparcie z KPO: 22 152 738,03 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Urologiczno-Ginekologiczny Mazovia",
+    "description": "Poprawa dostępności, skrócenie czasu<br>diagnostyki i hospitalizacji oraz<br>przyspieszenie realizacji zabiegów dla<br>pacjentów szpitalnego oddziału<br>urologicznego NZOZ Szpitala Mazovia w<br>Warszawie (Ząbki)<br><br>Koszt całkowity: 17 165 917,18 zł<br>Wsparcie z KPO: 15 475 025,03 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej Poradnia Kardiologiczna",
+    "description": "Rozwój i modernizacja infrastruktury<br>Wielospecjalistycznego Szpitala SP ZOZ w<br>Nowej Soli, niezbędnej do realizacji<br>świadczeń w zakresie diagnostyki i<br>leczenia onkologicznego<br><br>Koszt całkowity: 33 513 277,22 zł<br>Wsparcie z KPO: 30 238 768,60 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sulechowie",
+    "description": "Utworzenie Pracowni Rezonansu<br>Magnetycznego wraz z wymianą<br>Mammografu oraz modernizacja Bloku<br>Operacyjnego, przebudowa Oddziału<br>Rehabilitacji i Zakładu Fizjoterapii w celu<br>zabezpieczenia kompleksowej opieki<br>onkologicznej w SPZOZ w Sulechowie<br><br>Koszt całkowity: 43 135 464,83 zł<br>Wsparcie z KPO: 37 801 315,55 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital w Puszczykowie im. Prof. S. T. Dąbrowskiego S.A.",
+    "description": "„Zakup nowoczesnego sprzętu dla Szpitala<br>w Puszczykowie im. prof. S.T.<br>Dąbrowskiego S.A. oraz modernizacja<br>Oddziału Urologii w celu podniesienia<br>jakości świadczonych usług w zakresie<br>onkologii\".<br><br>Koszt całkowity: 50 000 000,00 zł<br>Wsparcie z KPO: 45 622 039,68 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Zduńskowolski Szpital Powiatowy Sp. z o.o.",
+    "description": "Modernizacja infrastruktury<br>Zduńskowolskiego Szpitala Powiatowego<br>Sp. z o.o.<br><br>Koszt całkowity: 42 815 100,91 zł<br>Wsparcie z KPO: 37 214 785,04 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital w Proszowicach",
+    "description": "Zakup sprzętu medycznego oraz prace<br>dostosowawczo-modernizacyjne<br>niezbędne w podniesieniu jakości<br>świadczonych usług w diagnostyce i<br>leczeniu nowotworów w SP ZOZ w<br>Proszowicach<br><br>Koszt całkowity: 39 642 510,44 zł<br>Wsparcie z KPO: 35 687 896,24 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Podkarpacki im.Jana Pawła II w Krośnie",
+    "description": "Modernizacja potencjału Wojewódzkiego<br>Szpitala Podkarpackiego im. Jana Pawła II<br>w Krośnie warunkiem podniesienia<br>standardów i efektywności leczenia<br>onkologicznego<br><br>Koszt całkowity: 17 810 863,47 zł<br>Wsparcie z KPO: 16 331 584,94 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Pleszewskie Centrum Medyczne w Pleszewie Sp. z o.o.",
+    "description": "Poprawa dostępności oraz jakości opieki<br>onkologicznej w Pleszewskim Centrum<br><br>Koszt całkowity: 68 384 040,53 zł<br>Wsparcie z KPO: 57 654 241,63 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Nowe Techniki Medyczne Szpital Specjalistyczny im. Świętej Rodziny Sp. z o.o.",
+    "description": "Rozwój i modernizacja infrastruktury<br>oddziałów chirurgii klatki piersiowej,<br>ortopedii i traumatologii narządu ruchu<br>wraz z zapleczem bloku operacyjnego,<br>pracowni: rezonansu magnetycznego,<br>rentgenodiagnostyki ogólnej, USG,<br>endoskopii oraz centralnej sterylizatorni<br>podmiotu leczniczego Nowe Techniki<br>Medyczne Szpital Specjalistyczny Im.<br>Świętej Rodziny Sp. z o.o. w Rudnej Małej<br>600 zakwalifikowanego do I poziomu<br>Specjalistycznego Ośrodka Leczenia<br>Onkologicznego w ramach Krajowej Sieci<br>Onkologicznej i ich doposażeniem w celu<br>poprawy efektywności funkcjonowania,<br>kompleksowości, dostępności i jakości<br>udzielanych świadczeń zdrowotnych w<br>zakresie diagnostyki i leczenia<br>onkologicznego nowotworów płuc oraz<br>narządu ruchu<br><br>Koszt całkowity: 26 473 470,73 zł<br>Wsparcie z KPO: 24 310 621,17 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Urologiczny Mazovia Częstochowa | Urologia Częstochowa | Urologia Onkologiczna",
+    "description": "Zwiększenie dostępności do<br>wysokospecjalistycznych świadczeń<br>onkologicznych w dziedzinie urologii w<br>NZOZ Szpitalu Mazovia w Częstochowie<br><br>Koszt całkowity: 22 307 656,59 zł<br>Wsparcie z KPO: 20 710 343,96 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Śląski w Cieszynie",
+    "description": "Modernizacja i doposażenie ZZOZ w<br>Cieszynie w celu realizacji świadczeń<br>onkologicznych i poprawy warunków<br>socjalno-bytowych dla pacjenta<br>onkologicznego<br><br>Koszt całkowity: 67 410 742,96 zł<br>Wsparcie z KPO: 59 905 662,60 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wojewódzki im. dr. Ludwika Rydygiera",
+    "description": "Poprawa jakości i dostępności do<br>diagnostyki i leczenia schorzeń<br>nowotworowych w Szpitalu Wojewódzkim<br>im. dr. Ludwika Rydygiera w Suwałkach<br><br>Koszt całkowity: 48 050 569,32 zł<br>Wsparcie z KPO: 43 251 228,86 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Mazowieckie Centrum Leczenia Chorób Płuc i Gruźlicy",
+    "description": "Modernizacja, przebudowa i adaptacja<br>infrastruktury szpitalnej wraz z zakupem<br>wyposażenia w celu poprawy<br>efektywności, jakości i dostępności do<br>szybkiej diagnostyki i leczenia<br>onkologicznego w MCLChPiG w Otwocku<br><br>Koszt całkowity: 69 078 594,42 zł<br>Wsparcie z KPO: 58 619 041,86 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Megrez",
+    "description": "Remont pomieszczeń oraz zakup<br>wyposażenia i urządzeń medycznych<br>celem realizacji świadczeń w zakresie<br>diagnostyki i leczenia onkologicznego w<br>Wojewódzkim Szpitalu Specjalistycznym<br>Megrez Sp. z o.o.<br><br>Koszt całkowity: 42 364 016,25 zł<br>Wsparcie z KPO: 37 088 065,94 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+    "description": "Doposażenie Oddziału Urologii Ogólnej i<br>Onkologicznej, bloku operacyjnego oraz<br>jednostek współpracujących w<br>nowoczesny sprzęt medyczny<br>przeznaczony do kompleksowej<br>diagnostyki i leczenia chorób<br>onkologicznych.<br><br>Koszt całkowity: 31 234 049,20 zł<br>Wsparcie z KPO: 28 867 116,42 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+    "description": "Rozbudowa budynków wraz z zakupem<br>sprzętu i aparatury medycznej dla<br>Samodzielnego Publicznego Zespołu<br>Opieki Zdrowotnej w Kędzierzynie-Koźlu<br>na potrzeby opieki onkologicznej<br><br>Koszt całkowity: 53 259 543,14 zł<br>Wsparcie z KPO: 45 266 471,38 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Instytut Zdrowia Medicall",
+    "description": "Rozszerzenie opieki onkologicznej poprzez<br>zakup nowoczesnego sprzętu i<br>wyposażenia Bloku Operacyjnego,<br>Oddziału Chemioterapii, Oddziału<br>Chirurgii Onkologicznej, Hospicjum<br>Domowego oraz wyposażenia AOS dla<br>pacjentów onkologicznych.<br><br>Koszt całkowity: 14 088 797,61 zł<br>Wsparcie z KPO: 13 057 685,49 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny im. Marii Skłodowskiej Curie w Zgierzu",
+    "description": "Modernizacja oddziałów zabiegowych<br>onkologicznych wraz z rozbudową bloku<br>operacyjnego i zakupem sprzętu<br>medycznego w Wojewódzkim Szpitalu<br>Specjalistycznym im. Marii Skłodowskiej-<br>Curie w Zgierzu.<br><br>Koszt całkowity: 49 580 998,00 zł<br>Wsparcie z KPO: 41 240 955,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki\nZdrowotnej w Bochni „Szpital\nPowiatowy” im. bł. Marty Wieckiej",
+    "description": "Modernizacja, przebudowa wraz z<br>wyposażeniem infrastruktury Oddziału<br>Chirurgii Ogólnej z Pododdziałem Chirurgii<br>Onkologicznej, Blokiem Operacyjnym oraz<br>Apteką szpitalną na potrzeby opieki<br>onkologicznej<br><br>Koszt całkowity: 41 175 171,75 zł<br>Wsparcie z KPO: 34 310 725,33 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Głowno Grupa Zdrowie",
+    "description": "Nowoczesna Chirurgia Onkologiczna –<br>Rozwój Infrastruktury Szpitala Głowno dla<br>Pacjentów z Nowotworami<br><br>Koszt całkowity: 48 013 476,46 zł<br>Wsparcie z KPO: 41 090 665,92 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Puławach",
+    "description": "Kompleksowe usprawnienie opieki nad<br>pacjentem onkologicznym w SPZOZ w<br>Puławach<br><br>Koszt całkowity: 46 922 818,30 zł<br>Wsparcie z KPO: 41 468 517,11 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Miejski w Siemianowicach Śląskich Sp.z o.o.",
+    "description": "Modernizacja i rozwój bazy onkologicznej<br>w Szpitalu Miejskim w Siemianowicach<br>Śląskich Sp. z o.o.<br><br>Koszt całkowity: 15 848 413,14 zł<br>Wsparcie z KPO: 14 346 912,13 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Zagłębiowski Szpital Kliniczny",
+    "description": "Transformacja Oddziału Chirurgii Ogólnej i<br>Chirurgii Onkologicznej oraz Oddziału<br>Położniczo-Ginekologicznego i Ginekologii<br>Onkologicznej wraz z blokiem<br>operacyjnym i centralną sterylizacją<br>celem poprawy jakości leczenia pacjentów<br>onkologicznych Zagłębiowskiego Szpitala<br>Klinicznego w Czeladzi<br><br>Koszt całkowity: 75 096 388,37 zł<br>Wsparcie z KPO: 58 322 387,52 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Międzynarodowe Centrum Onkologii Affidea Koszalin",
+    "description": "Modernizacja pracowni akceleratorowej<br>wraz z wymianą akceleratorów liniowych<br>w jednostce Affidea Międzynarodowe<br>Centrum Onkologii w Koszalinie oraz<br>kompleksowa modernizacja systemu<br>planowania leczenia<br><br>Koszt całkowity: 37 764 056,26 zł<br>Wsparcie z KPO: 34 732 241,46 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "NU MED Grupa S.A.",
+    "description": "Modernizacja systemów medycznych i<br>infrastruktury dedykowanej do realizacji i<br>obsługi terapii i diagnostyki onkologicznej.<br><br>Koszt całkowity: 30 754 496,91 zł<br>Wsparcie z KPO: 28 262 830,21 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wojewódzki w Bielsku-Białej",
+    "description": "Poprawa jakości i dostępności do<br>wysokospecjalistycznych świadczeń z<br>zakresu onkologii urologicznej poprzez<br>zakup sprzętu i aparatury medycznej oraz<br>modernizację i przebudowę Oddziału<br>Urologii i Onkologii Urologicznej.<br><br>Koszt całkowity: 30 707 480,91 zł<br>Wsparcie z KPO: 27 259 708,64 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA w Gdańsku",
+    "description": "POPRAWA JAKOŚCI I EFEKTYWNOŚCI<br>UDZIELANYCH ŚWIADCZEŃ MEDYCZNYCH<br>ORAZ ZWIĘKSZENIE DOSTĘPNOŚCI DO<br>LECZENIA ONKOLOGICZNEGO DLA<br>PACJENTÓW W SP ZOZ MSWIA W<br>GDAŃSKU<br><br>Koszt całkowity: 35 616 663,03 zł<br>Wsparcie z KPO: 32 028 108,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Miejski nr 4 w Gliwicach sp. z o.o.",
+    "description": "Doposażenie i modernizacja Szpitala<br>Miejskiego nr 4 w Gliwicach Sp. z o.o.<br>celem polepszenia jakości procedur z<br>zakresu diagnostyki i leczenia<br>onkologicznego<br><br>Koszt całkowity: 57 203 068,66 zł<br>Wsparcie z KPO: 50 169 296,10 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "NU-MED Centrum Diagnostyki i Terapii Onkologicznej Zamość Sp. z o.o.",
+    "description": "Modernizacja Zakładu Radioterapii<br>polegająca na wymianie 2 akceleratorów<br>wysokoenergetycznych wraz z linią<br>terapeutyczną oraz tomografu<br>komputerowego<br><br>Koszt całkowity: 52 321 397,43 zł<br>Wsparcie z KPO: 47 909 397,96 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Sosnowiecki Szpital Miejski",
+    "description": "Rozwój onkologii w Sosnowieckim Szpitalu<br>Miejskim w ramach sieci SOLO w kierunku<br>diagnostyki i zabiegów na chirurgii,<br>ginekologii oraz urologii<br><br>Koszt całkowity: 31 130 139,12 zł<br>Wsparcie z KPO: 28 051 006,62 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Specjalistyczny Szpital im. Mikołaja Pirogowa",
+    "description": "Poprawa jakości oferowanych usług<br>medycznych w zakresie diagnostyki i<br>terapii onkologicznej realizowanych w<br>WSSz im. M. Pirogowa w Łodzi.<br><br>Koszt całkowity: 17 501 480,00 zł<br>Wsparcie z KPO: 4 512 600,79 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Podhalański Szpital Specjalistyczny im. Jana Pawła II w Nowym Targu",
+    "description": "Inwestycja w infrastrukturę budowlaną<br>oraz zakup urządzeń i wyrobów<br>medycznych przez Podhalański Szpital<br>Specjalistyczny im. Jana Pawła II w<br>Nowym Targu w celu poprawy<br>dostępności oraz jakości opieki<br>onkologicznej<br><br>Koszt całkowity: 48 410 194,00 zł<br>Wsparcie z KPO: 11 993 635,83 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wielospecjalistyczny w Jaworznie",
+    "description": "Utworzenie hybrydowej sali operacyjnej w<br>strukturze Bloku Operacyjnego na<br>potrzeby chirurgii onkologicznej<br><br>Koszt całkowity: 6 848 004,68 zł<br>Wsparcie z KPO: 1 752 500,04 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersytecki Szpital Kliniczny w Opolu",
+    "description": "Rozwój i modernizacja infrastruktury<br>Uniwersyteckiego Szpitala Klinicznego w<br>Opolu niezbędnej do realizacji świadczeń<br>w zakresie diagnostyki i leczenia<br>onkologicznego<br><br>Koszt całkowity: 60 342 867,37 zł<br>Wsparcie z KPO: 14 862 382,92 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Centrum Medycznego Kształcenia Podyplomowego",
+    "description": "Wzmocnienie zasobów SPSK im. prof. W.<br>Orłowskiego CMKP w celu zwiększenia<br>efektywności, dostępności i jakości opieki<br>onkologicznej<br><br>Koszt całkowity: 82 095 000,17 zł<br>Wsparcie z KPO: 60 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Tommed Centrum Medyczne",
+    "description": "Kompleksowa modernizacja i zakup<br>wyposażenia medycznego dla poprawy<br>leczenia i diagnostyki pacjentów<br>onkologicznych w Centrum Medyczne<br>Tommed Sp. z o.o. Ośrodek Diagnostyki<br>Sp. K.<br><br>Koszt całkowity: 7 980 103,17 zł<br>Wsparcie z KPO: 2 074 206,67 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny nr 2",
+    "description": "Zwiększenie dostępności do<br>onkologicznych świadczeń zdrowotnych<br>poprzez przebudowę i modernizację<br>Oddziału Chirurgii Ogólnej i Chirurgii<br>Onkologicznej ,Oddziału Położniczo-<br>Ginekologicznego (odcinek Ginekologii),<br>Oddziału Urologii i Onkologii Urologicznej<br>w ramach dostosowania infrastruktury i<br>wyposażenia wraz z zakupem systemu<br>robotycznego<br><br>Koszt całkowity: 48 500 709,83 zł<br>Wsparcie z KPO: 11 968 656,19 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Specjalistyczny im. A. Falkiewicza we Wrocławiu",
+    "description": "Rozwój i modernizacja Centrum Zdrowia<br>Kobiety i Dziecka z Ośrodkiem leczenia<br>Niepłodności, Endometriozy i Ginekologii<br>Onkologicznej szpitala im. Falkiewicza we<br>Wrocławiu celem poprawy dostępności i<br>jakości usług medycznych w zakresie<br>onkologii ginekologicznej na Dolnym<br>Śląsku<br><br>Koszt całkowity: 72 844 046,00 zł<br>Wsparcie z KPO: 16 980 550,81 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Wojewódzki Szpital Zespolony",
+    "description": "Wzmocnienie kompetencji onkologicznych<br>w Samodzielnym Publicznym<br>Wojewódzkim Szpitalu Zespolonym w<br>Szczecinie poprzez modernizację<br>infrastruktury i zakup nowoczesnej<br>aparatury medycznej, umożliwiających<br>wdrożenie zaawansowanych metod<br>diagnostyki i leczenia chorób<br>onkologicznych<br><br>Koszt całkowity: 94 007 837,21 zł<br>Wsparcie z KPO: 79 935 393,16 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Zespolony w Elblągu",
+    "description": "Modernizacja i rozwój opieki<br>onkologicznej w Wojewódzkim Szpitalu<br>Zespolonym w Elblągu<br><br>Koszt całkowity: 90 647 896,77 zł<br>Wsparcie z KPO: 79 999 353,23 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "COPERNICUS Podmiot Leczniczy Sp. z o.o. Szpital im. M. Kopernika.",
+    "description": "Uzyskanie dostępności do najwyższej<br>jakości terapii i diagnostyki onkologicznej<br>poprzez zakup wyposażenia dla<br>COPERNICUS Podmiot Leczniczy sp. z o.o.<br>w Gdańsku<br><br>Koszt całkowity: 86 503 885,00 zł<br>Wsparcie z KPO: 80 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Śląskie Centrum Urologii UROVITA",
+    "description": "Podniesienie jakości, zwiększenie<br>dostępności i kompleksowości w zakresie<br>diagnostyki, leczenia zabiegowego oraz<br>leczenia systemowego chorób<br>nowotworowych poprzez rozwój i<br>modernizację infrastruktury Śląskiego<br>Centrum Urologii UROVITA.<br><br>Koszt całkowity: 49 291 640,92 zł<br>Wsparcie z KPO: 43 745 498,03 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "SPSW im. Papieża Jana Pawła II w Zamościu",
+    "description": "Poprawa dostępności i podniesienie<br>jakości udzielanych świadczeń<br>medycznych w Oddziale Onkologii<br>Klinicznej w zakresie chorób<br>nowotworowych<br><br>Koszt całkowity: 48 966 907,52 zł<br>Wsparcie z KPO: 42 358 902,02 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersytecki Szpital Kliniczny w Poznaniu",
+    "description": "Rozwój i zwiększenie dostępności do<br>świadczeń w zakresie onkologii poprzez<br>wymianę aparatury, doposażenie<br>oddziałów i innych jednostek<br>organizacyjnych Uniwersyteckiego<br>Szpitala Klinicznego w Poznaniu<br><br>Koszt całkowity: 88 706 494,95 zł<br>Wsparcie z KPO: 80 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie",
+    "description": "Modernizacja i doposażenie infrastruktury<br>Wielospecjalistycznego Szpitala<br>Wojewódzkiego w Gorzowie Wlkp. sp. z o.<br>o. w celu poprawy dostępności i jakości<br>usług onkologicznych<br><br>Koszt całkowity: 98 554 988,04 zł<br>Wsparcie z KPO: 80 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "LUX MED Onkologia",
+    "description": "Rozwój i modernizacja LUX MED<br>Onkologia sp. z o.o., jako SOLO II, w celu<br>poprawy dostępności oraz jakości opieki<br>onkologicznej<br><br>Koszt całkowity: 74 918 120,88 zł<br>Wsparcie z KPO: 67 638 850,66 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Katowickie Centrum Onkologii",
+    "description": "Podniesienie jakości i dostępności do<br>procedur onkologicznych poprzez zakup<br>sprzętu medycznego oraz rozbudowę<br>Poradni Onkologicznej w Katowickim<br>Centrum Onkologii<br><br>Koszt całkowity: 61 660 727,19 zł<br>Wsparcie z KPO: 55 404 839,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Wojewódzki im. św. Łukasza SPZOZ",
+    "description": "Rozwój diagnostyki i chirurgii<br>onkologicznej w Szpitalu Wojewódzkim<br>im. Św. Łukasza SP ZOZ w Tarnowie<br>poprzez przebudowę i rozbudowę Szpitala<br>na potrzeby Centralnego Bloku<br>Operacyjnego wraz z zapleczem oraz<br>doposażenie pracowni diagnostycznych.<br><br>Koszt całkowity: 114 730 238,07 zł<br>Wsparcie z KPO: 79 999 999,97 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Centrum Medyczne HCP - Szpital",
+    "description": "Poprawa dostępności i jakości<br>oferowanych usług medycznych Centrum<br>Medyczne HCP Sp. z o.o. w obszarze<br>onkologii poprzez zakup niezbędnego<br>wyposażenia medycznego wraz z<br>przeprowadzaniem niezbędnych prac<br>modernizacyjnych<br><br>Koszt całkowity: 90 457 436,00 zł<br>Wsparcie z KPO: 79 902 060,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersytecki Szpital Kliniczny w Białymstoku",
+    "description": "Podniesienie jakości i poprawa<br>dostępności do usług onkologicznych<br>poprzez rozwój infrastruktury USKwB<br><br>Koszt całkowity: 87 594 481,50 zł<br>Wsparcie całkowite: 79 749 339,89 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny nr 5 im. św. Barbary",
+    "description": "Modernizacja i przebudowa wraz z<br>wyposażeniem sal operacyjnych<br>Centralnego Traktu Operacyjnego wraz z<br>zapleczem, wyposażeniem oddziałów w<br>sprzęt dla pacjentów onkologicznych wraz<br>z utworzeniem strefy relaksu dla pacjenta<br>onkologicznego w Wojewódzkim Szpitalu<br>Specjalistycznym nr 5 im. Św. Barbary w<br>Sosnowcu<br><br>Koszt całkowity: 87 966 236,76 zł<br>Wsparcie z KPO: 78 979 665,46 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka w Słupsku Sp. z o.o.",
+    "description": "Rozwój i modernizacja infrastruktury<br>Wojewódzkiego Szpitala Specjalistycznego<br>im. Janusza Korczaka w Słupsku Sp. z o.o.<br>w zakresie opieki onkologicznej<br><br>Koszt całkowity: 57 604 315,45 zł<br>Wsparcie z KPO: 52 260 160,90 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Specjalistyczny Szpital im. dr Alfreda Sokołowskiego w Wałbrzychu.",
+    "description": "Podniesienie jakości i dostępności do<br>procedur onkologicznych poprzez zakup<br>kluczowego sprzętu oraz rozbudowę<br>infrastruktury lokalowej celem poprawy<br>warunków bytowych pacjentów<br>Specjalistycznego Szpitala im. dra Alfreda<br>Sokołowskiego w Wałbrzychu<br><br>Koszt całkowity: 78 038 271,04 zł<br>Wsparcie z KPO: 70 315 427,18 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Szpital Kliniczny",
+    "description": "Samodzielny Publiczny Szpital<br>Kliniczny Nr 1 im. prof. Stanisława<br>Szyszko Śląskiego Uniwersytetu<br>Medycznego w Katowicach<br><br>Koszt całkowity: 92 241 896,59 zł<br>Wsparcie z KPO: 78 984 373,90 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersytecki Szpital Kliniczny nr 1 w Lublinie",
+    "description": "Poprawa jakości i dostępności udzielania<br>świadczeń onkologicznych poprzez<br>modernizację i doposażenie infrastruktury<br>Uniwersyteckiego Szpitala Klinicznego Nr<br>1 w Lublinie<br><br>Koszt całkowity: 92 212 718,81 zł<br>Wsparcie z KPO: 79 960 744,56 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Uniwersytecki Szpital Kliniczny nr 2 PUM",
+    "description": "Zwiększenie dostępności do<br>nowoczesnego leczenia onkologicznego w<br>USK Nr 2 PUM w Szczecinie, poprzez<br>modernizację i zakup aparatury i<br>wyposażenia<br><br>Koszt całkowity: 86 952 777,66 zł<br>Wsparcie z KPO: 80 000 000,00 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Uniwersytecki nr 1 im. dr Antoniego Jurasza",
+    "description": "Wzrost efektywności, dostępności i<br>jakości onkologicznych usług medycznych<br>poprzez zakup i wymianę specjalistycznej<br>aparatury medycznej w Szpitalu<br>Uniwersyteckim nr 1 im. dr. A. Jurasza w<br>Bydgoszczy<br><br>Koszt całkowity: 85 488 555,00 zł<br>Wsparcie z KPO: 78 962 076,67 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "WOJEWÓDZKI SZPITAL ZESPOLONY IM. MARCINA KACPRZAKA W PŁOCKU",
+    "description": "Rozwój i modernizacja infrastruktury<br>onkologicznej Wojewódzkiego Szpitala<br>Zespolonego w Płocku<br><br>Koszt całkowity: 36 846 983,21 zł<br>Wsparcie z KPO: 33 729 137,33 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Szpital Kliniczny",
+    "description": "Doposażenie USK-1 w Szczecinie w<br>zakresie wysokospecjalistycznych metod<br>leczenia onkologicznego wraz z adaptacją<br>i przebudową pomieszczeń<br><br>Koszt całkowity: 89 590 413,10 zł<br>Wsparcie z KPO: 42 113 989,98 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Wielospecjalistyczny im. dr. Jana Jonstona w Lesznie",
+    "description": "Rozwój nowoczesnej opieki<br>wysokospecjalistycznej, onkologicznej<br>poprzez modernizację infrastruktury<br>Wojewódzkiego Szpitala<br>Wielospecjalistycznego im. dr. Jana<br>Jonstona w Lesznie<br><br>Koszt całkowity: 85 508 983,66 zł<br>Wsparcie z KPO: 40 435 670,77 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny we Wrocławiu",
+    "description": "Poprawa efektywności, dostępności i<br>jakości opieki medycznej poprzez rozwój i<br>modernizację infrastruktury onkologicznej<br>w Wojewódzkim Szpitalu<br>Specjalistycznym we Wrocławiu<br><br>Koszt całkowity: 86 473 027,00 zł<br>Wsparcie z KPO: 39 391 085,86 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Uniwersytecki nr 2 im. dr. Jana Biziela w Bydgoszczy",
+    "description": "WSPARCIE JEDNOSTEK SZPITALA<br>UNIWERSYTECKIEGO NR 2 IM. DR. JANA<br>BIZIELA W BYDGOSZCZY UDZIELAJĄCYCH<br>ŚWIADCZEŃ ZDROWOTNYCH W RAMACH<br>OPIEKI ONKOLOGICZNEJ<br><br>Koszt całkowity: 54 096 520,80 zł<br>Wsparcie z KPO: 26 259 225,71 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wojewódzki Szpital Specjalistyczny w Olsztynie",
+    "description": "Modernizacja Zakładu Patomorfologii oraz<br>zakup sprzętu niezbędnego do realizacji<br>świadczeń w zakresie diagnostyki i<br>leczenia onkologicznego w Wojewódzkim<br>Szpitalu Specjalistycznym w Olsztynie.<br><br>Koszt całkowity: 43 202 918,03 zł<br>Wsparcie z KPO: 20 573 297,73 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Scanmed Szpital św. Rafała",
+    "description": "Rozwój i modernizacja infrastruktury<br>Specjalistycznego Ośrodka Leczenia<br>Onkologicznego w Krakowie<br><br>Koszt całkowity: 26 151 133,53 zł<br>Wsparcie z KPO: 24 004 717,88 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Wielospecjalistyczny Szpital -\nSamodzielny Publiczny Zespół Opieki\nZdrowotnej w Zgorzelcu",
+    "description": "Zwiększenie dostępności do świadczeń z<br>zakresu diagnostyki i leczenia<br>onkologicznego w Wielospecjalistycznym<br>Szpitalu – Samodzielnym Publicznym<br>Zespole Opieki Zdrowotnej w Zgorzelcu.<br><br>Koszt całkowity: 88 582 007,23 zł<br>Wsparcie z KPO: 79 926 151,76 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Bonifraterskie Centrum Medyczne\nsp. z o.o.",
+    "description": "Poprawa dostępu oraz jakości opieki<br>onkologicznej poprzez rozwój i<br>modernizację infrastruktury Szpitala<br>Zakonu Bonifratrów pw. Aniołów Stróżów<br>w Katowicach.<br><br>Koszt całkowity: 35 603 017,94 zł<br>Wsparcie z KPO: 8 489 201,61 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Szpital Euromedic Spółka Akcyjna",
+    "description": "Zakup sprzętu medycznego dla Szpitala<br>EuroMedic S.A. na potrzeby wzrostu<br>jakości i efektywności opieki onkologicznej.<br><br>Koszt całkowity: 29 859 534,88 zł<br>Wsparcie z KPO: 27 344 295,72 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  },
+  {
+    "name": "Samodzielny Publiczny Zakład Opieki\nZdrowotnej Ministerstwa Spraw\nWewnętrznych i Administracji w\nKrakowie",
+    "description": "Podniesienie jakości i dostępności<br>świadczeń onkologicznych poprzez<br>rozbudowę SP ZOZ MSWiA w Krakowie<br>budynku diagnostyczno-zabiegowego.<br><br>Koszt całkowity: 88 056 855,82 zł <br>Wsparcie z KPO: 59 923 053,29 zł",
+    "styleUrl": "#icon-1624-DB4436"
+  }
+]
