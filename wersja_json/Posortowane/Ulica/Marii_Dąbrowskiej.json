@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Oddział Żłobka Miejskiego w Siemianowicach Śląskich",
+    "address": "Śląskie Siemianowice Śląskie Siemianowice Śląskie 41-103 Marii Dąbrowskiej",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Siemianowice Śląskie<br>Miejscowość: Siemianowice Śląskie<br>Kod pocztowy: 41-103<br>Ulica: Marii Dąbrowskiej<br>Numer:<br>adres: Śląskie Siemianowice Śląskie Siemianowice Śląskie 41-103 Marii Dąbrowskiej<br>Województwo: Śląskie<br>Powiat: Siemianowice Śląskie<br>Miejscowość: Siemianowice Śląskie<br>Kod pocztowy: 41-103<br>Ulica: Marii Dąbrowskiej<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Siemianowice Śląskie\nMiejscowość: Siemianowice Śląskie\nKod pocztowy: 41-103\nUlica: Marii Dąbrowskiej\nNumer:",
+    "adres": "Śląskie Siemianowice Śląskie Siemianowice Śląskie 41-103 Marii Dąbrowskiej",
+    "Województwo": "Śląskie",
+    "Powiat": "Siemianowice Śląskie",
+    "Miejscowość": "Siemianowice Śląskie",
+    "Kod pocztowy": "41-103",
+    "Ulica": "Marii Dąbrowskiej",
+    "Numer": null
+  },
+  {
+    "name": "Autobusy wodorowe i elektryczne dla Konina-Zielonego Miasta Energii",
+    "address": "Marii Dąbrowskiej 8 62-500 Konin",
+    "description": "Ulica: Marii Dąbrowskiej<br>Numer: 8<br>Kod pocztowy: 62-500<br>Miejscowość: Konin",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marii Dąbrowskiej",
+    "Numer": "8",
+    "Kod pocztowy": "62-500",
+    "Miejscowość": "Konin"
+  }
+]

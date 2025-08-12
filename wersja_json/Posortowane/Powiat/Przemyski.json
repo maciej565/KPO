@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Samorządowy w Żurawicy",
+    "address": "Podkarpackie Przemyski Żurawica 37-710 Gen. Stanisława Maczka 1",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Żurawica<br>Kod pocztowy: 37-710<br>Ulica: Gen. Stanisława Maczka<br>Numer: 1<br>adres: Podkarpackie Przemyski Żurawica 37-710 Gen. Stanisława Maczka 1<br>Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Żurawica<br>Kod pocztowy: 37-710<br>Ulica: Gen. Stanisława Maczka<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Przemyski\nMiejscowość: Żurawica\nKod pocztowy: 37-710\nUlica: Gen. Stanisława Maczka\nNumer: 1",
+    "adres": "Podkarpackie Przemyski Żurawica 37-710 Gen. Stanisława Maczka 1",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Przemyski",
+    "Miejscowość": "Żurawica",
+    "Kod pocztowy": "37-710",
+    "Ulica": "Gen. Stanisława Maczka",
+    "Numer": "1"
+  },
+  {
+    "name": "Samorządowy Żłobek w Medyce",
+    "address": "Podkarpackie Przemyski Medyka 37-732 Medyka 479A",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Medyka<br>Kod pocztowy: 37-732<br>Ulica: Medyka<br>Numer: 479A<br>adres: Podkarpackie Przemyski Medyka 37-732 Medyka 479A<br>Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Medyka<br>Kod pocztowy: 37-732<br>Ulica: Medyka<br>Numer: 479A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Przemyski\nMiejscowość: Medyka\nKod pocztowy: 37-732\nUlica: Medyka\nNumer: 479A",
+    "adres": "Podkarpackie Przemyski Medyka 37-732 Medyka 479A",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Przemyski",
+    "Miejscowość": "Medyka",
+    "Kod pocztowy": "37-732",
+    "Ulica": "Medyka",
+    "Numer": "479A"
+  },
+  {
+    "name": "Miejski Żłobek w Dubiecku",
+    "address": "Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Dubiecko<br>Kod pocztowy: 37-750<br>Ulica: Przemyska<br>Numer: 10A<br>adres: Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A<br>Województwo: Podkarpackie<br>Powiat: Przemyski<br>Miejscowość: Dubiecko<br>Kod pocztowy: 37-750<br>Ulica: Przemyska<br>Numer: 10A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Przemyski\nMiejscowość: Dubiecko\nKod pocztowy: 37-750\nUlica: Przemyska\nNumer: 10A",
+    "adres": "Podkarpackie Przemyski Dubiecko 37-750 Przemyska 10A",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Przemyski",
+    "Miejscowość": "Dubiecko",
+    "Kod pocztowy": "37-750",
+    "Ulica": "Przemyska",
+    "Numer": "10A"
+  }
+]

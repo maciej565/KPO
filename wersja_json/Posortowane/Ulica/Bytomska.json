@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Oddział Żłobka Miejskiego w Katowicach",
+    "address": "Śląskie Katowice Katowice 40-149 Bytomska 8A",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Katowice<br>Miejscowość: Katowice<br>Kod pocztowy: 40-149<br>Ulica: Bytomska<br>Numer: 8A<br>adres: Śląskie Katowice Katowice 40-149 Bytomska 8A<br>Województwo: Śląskie<br>Powiat: Katowice<br>Miejscowość: Katowice<br>Kod pocztowy: 40-149<br>Ulica: Bytomska<br>Numer: 8A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Katowice\nMiejscowość: Katowice\nKod pocztowy: 40-149\nUlica: Bytomska\nNumer: 8A",
+    "adres": "Śląskie Katowice Katowice 40-149 Bytomska 8A",
+    "Województwo": "Śląskie",
+    "Powiat": "Katowice",
+    "Miejscowość": "Katowice",
+    "Kod pocztowy": "40-149",
+    "Ulica": "Bytomska",
+    "Numer": "8A"
+  },
+  {
+    "name": "Ence Pence",
+    "address": "Śląskie Piekary Śląskie Piekary Śląskie 41-940 Bytomska 113",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Piekary Śląskie<br>Miejscowość: Piekary Śląskie<br>Kod pocztowy: 41-940<br>Ulica: Bytomska<br>Numer: 113<br>adres: Śląskie Piekary Śląskie Piekary Śląskie 41-940 Bytomska 113<br>Województwo: Śląskie<br>Powiat: Piekary Śląskie<br>Miejscowość: Piekary Śląskie<br>Kod pocztowy: 41-940<br>Ulica: Bytomska<br>Numer: 113",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Piekary Śląskie\nMiejscowość: Piekary Śląskie\nKod pocztowy: 41-940\nUlica: Bytomska\nNumer: 113",
+    "adres": "Śląskie Piekary Śląskie Piekary Śląskie 41-940 Bytomska 113",
+    "Województwo": "Śląskie",
+    "Powiat": "Piekary Śląskie",
+    "Miejscowość": "Piekary Śląskie",
+    "Kod pocztowy": "41-940",
+    "Ulica": "Bytomska",
+    "Numer": "113"
+  }
+]

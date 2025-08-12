@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek Miejski \"Leśna Polana\" w Stargardzie",
+    "address": "Zachodniopomorskie Stargardzki Stargard 73-110 os. Osiedle Zachód A4",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Stargard<br>Kod pocztowy: 73-110<br>Ulica: os. Osiedle Zachód<br>Numer: A4<br>adres: Zachodniopomorskie Stargardzki Stargard 73-110 os. Osiedle Zachód A4<br>Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Stargard<br>Kod pocztowy: 73-110<br>Ulica: os. Osiedle Zachód<br>Numer: A4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Stargardzki\nMiejscowość: Stargard\nKod pocztowy: 73-110\nUlica: os. Osiedle Zachód\nNumer: A4",
+    "adres": "Zachodniopomorskie Stargardzki Stargard 73-110 os. Osiedle Zachód A4",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Stargardzki",
+    "Miejscowość": "Stargard",
+    "Kod pocztowy": "73-110",
+    "Ulica": "os. Osiedle Zachód",
+    "Numer": "A4"
+  },
+  {
+    "name": "Żłobek Dąbrusiowa Przygoda w Starej Dąbrowie",
+    "address": "Zachodniopomorskie Stargardzki Parlino 73-112 Parlino 17",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Parlino<br>Kod pocztowy: 73-112<br>Ulica: Parlino<br>Numer: 17<br>adres: Zachodniopomorskie Stargardzki Parlino 73-112 Parlino 17<br>Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Parlino<br>Kod pocztowy: 73-112<br>Ulica: Parlino<br>Numer: 17",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Stargardzki\nMiejscowość: Parlino\nKod pocztowy: 73-112\nUlica: Parlino\nNumer: 17",
+    "adres": "Zachodniopomorskie Stargardzki Parlino 73-112 Parlino 17",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Stargardzki",
+    "Miejscowość": "Parlino",
+    "Kod pocztowy": "73-112",
+    "Ulica": "Parlino",
+    "Numer": "17"
+  },
+  {
+    "name": "Żłobek Publiczny w Ińsku",
+    "address": "Zachodniopomorskie Stargardzki Ińsko 73-140 Poprzeczna 1",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Ińsko<br>Kod pocztowy: 73-140<br>Ulica: Poprzeczna<br>Numer: 1<br>adres: Zachodniopomorskie Stargardzki Ińsko 73-140 Poprzeczna 1<br>Województwo: Zachodniopomorskie<br>Powiat: Stargardzki<br>Miejscowość: Ińsko<br>Kod pocztowy: 73-140<br>Ulica: Poprzeczna<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Stargardzki\nMiejscowość: Ińsko\nKod pocztowy: 73-140\nUlica: Poprzeczna\nNumer: 1",
+    "adres": "Zachodniopomorskie Stargardzki Ińsko 73-140 Poprzeczna 1",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Stargardzki",
+    "Miejscowość": "Ińsko",
+    "Kod pocztowy": "73-140",
+    "Ulica": "Poprzeczna",
+    "Numer": "1"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Klub Dziecięcy \"Mali Odkrywcy\"",
+    "address": "Kujawsko-Pomorskie Chełmiński Unisław 86-260 Lipowa 31",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Chełmiński<br>Miejscowość: Unisław<br>Kod pocztowy: 86-260<br>Ulica: Lipowa<br>Numer: 31<br>adres: Kujawsko-Pomorskie Chełmiński Unisław 86-260 Lipowa 31<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Chełmiński<br>Miejscowość: Unisław<br>Kod pocztowy: 86-260<br>Ulica: Lipowa<br>Numer: 31",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Chełmiński\nMiejscowość: Unisław\nKod pocztowy: 86-260\nUlica: Lipowa\nNumer: 31",
+    "adres": "Kujawsko-Pomorskie Chełmiński Unisław 86-260 Lipowa 31",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Chełmiński",
+    "Miejscowość": "Unisław",
+    "Kod pocztowy": "86-260",
+    "Ulica": "Lipowa",
+    "Numer": "31"
+  },
+  {
+    "name": "Bajkowa Kraina",
+    "address": "Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Chmielnik<br>Kod pocztowy: 26-020<br>Ulica: Lipowa<br>Numer: 31<br>adres: Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31<br>Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Chmielnik<br>Kod pocztowy: 26-020<br>Ulica: Lipowa<br>Numer: 31",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Kielecki\nMiejscowość: Chmielnik\nKod pocztowy: 26-020\nUlica: Lipowa\nNumer: 31",
+    "adres": "Świętokrzyskie Kielecki Chmielnik 26-020 Lipowa 31",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Kielecki",
+    "Miejscowość": "Chmielnik",
+    "Kod pocztowy": "26-020",
+    "Ulica": "Lipowa",
+    "Numer": "31"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z systemem ładowania dla Miasta i Gminy Uzdrowiskowej Muszyna",
+    "address": "Rynek 31 33-370 Muszyna",
+    "description": "Ulica: Rynek<br>Numer: 31<br>Kod pocztowy: 33-370<br>Miejscowość: Muszyna",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "31",
+    "Kod pocztowy": "33-370",
+    "Miejscowość": "Muszyna"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do obsługi linii pozamiejskich Miasta i Gminy Uzdrowiskowej Muszyna",
+    "address": "Rynek 31 33-370 Muszyna",
+    "description": "Ulica: Rynek<br>Numer: 31<br>Kod pocztowy: 33-370<br>Miejscowość: Muszyna",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "31",
+    "Kod pocztowy": "33-370",
+    "Miejscowość": "Muszyna"
+  }
+]

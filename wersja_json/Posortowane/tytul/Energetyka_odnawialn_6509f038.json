@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Energetyka odnawialna (słoneczna)",
+    "address": "kujawsko-pomorskie  Brześć Kujawski, Stary Brześć 14",
+    "description": "Województwo: kujawsko-pomorskie <br>Adres: Brześć Kujawski, Stary Brześć 14<br>OOW: Minister Rolnictwa i Rozwoju Wsi<br>Dofinansowanie:   11,926,024.00 zł <br>Strona www: <br>Uruchomienie: do 30.06.2025",
+    "styleUrl": "#icon-1700-673AB7",
+    "Województwo": "kujawsko-pomorskie ",
+    "Adres": "Brześć Kujawski, Stary Brześć 14",
+    "OOW": "Minister Rolnictwa i Rozwoju Wsi",
+    "Dofinansowanie": "  11,926,024.00 zł ",
+    "Strona www": null,
+    "Uruchomienie": "do 30.06.2025"
+  },
+  {
+    "name": "Energetyka odnawialna (słoneczna)",
+    "address": "śląskie  Żywiec, ul. KEN 3",
+    "description": "Województwo: śląskie <br>Adres: Żywiec, ul. KEN 3<br>OOW: Powiat Żywiecki<br>Dofinansowanie:   11,688,960.00 zł <br>Strona www: https://bcu.zsme.zywiec.pl<br>Uruchomienie: Uruchomione",
+    "styleUrl": "#icon-1700-673AB7",
+    "Województwo": "śląskie ",
+    "Adres": "Żywiec, ul. KEN 3",
+    "OOW": "Powiat Żywiecki",
+    "Dofinansowanie": "  11,688,960.00 zł ",
+    "Strona www": "https://bcu.zsme.zywiec.pl",
+    "Uruchomienie": "Uruchomione"
+  },
+  {
+    "name": "Energetyka odnawialna (słoneczna)",
+    "address": "mazowieckie Radom, ul. Limanowskiego 26/30",
+    "description": "Województwo: mazowieckie<br>Adres: Radom, ul. Limanowskiego 26/30<br>OOW: Gmina Miasta Radomia<br>Dofinansowanie: 11,871,806.84 zł<br>Strona www: <br>Uruchomienie: ",
+    "styleUrl": "#icon-1700-673AB7",
+    "Województwo": "mazowieckie",
+    "Adres": "Radom, ul. Limanowskiego 26/30",
+    "OOW": "Gmina Miasta Radomia",
+    "Dofinansowanie": "11,871,806.84 zł",
+    "Strona www": null,
+    "Uruchomienie": null
+  }
+]

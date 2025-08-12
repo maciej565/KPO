@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Żłobek Miejski",
+    "address": "Podlaskie Białystok Białystok 15-324 Kawaleryjska 38",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Białystok<br>Miejscowość: Białystok<br>Kod pocztowy: 15-324<br>Ulica: Kawaleryjska<br>Numer: 38<br>adres: Podlaskie Białystok Białystok 15-324 Kawaleryjska 38<br>Województwo: Podlaskie<br>Powiat: Białystok<br>Miejscowość: Białystok<br>Kod pocztowy: 15-324<br>Ulica: Kawaleryjska<br>Numer: 38",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Białystok\nMiejscowość: Białystok\nKod pocztowy: 15-324\nUlica: Kawaleryjska\nNumer: 38",
+    "adres": "Podlaskie Białystok Białystok 15-324 Kawaleryjska 38",
+    "Województwo": "Podlaskie",
+    "Powiat": "Białystok",
+    "Miejscowość": "Białystok",
+    "Kod pocztowy": "15-324",
+    "Ulica": "Kawaleryjska",
+    "Numer": "38"
+  },
+  {
+    "name": "Zakup 30 szt. autobusów elektrycznych oraz stacji ładowania na potrzeby komunikacji miejskiej w Białymstoku",
+    "address": "Słonimska 1 15-950 Białystok",
+    "description": "Ulica: Słonimska<br>Numer: 1<br>Kod pocztowy: 15-950<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Słonimska",
+    "Numer": "1",
+    "Kod pocztowy": "15-950",
+    "Miejscowość": "Białystok"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu publicznego w woj. podlaskim poprzez zakup 6 szt. autobusów elektrycznych – Etap II",
+    "address": "Bohaterów Monte Cassino 8 15-873 Białystok",
+    "description": "Ulica: Bohaterów Monte Cassino<br>Numer: 8<br>Kod pocztowy: 15-873<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bohaterów Monte Cassino",
+    "Numer": "8",
+    "Kod pocztowy": "15-873",
+    "Miejscowość": "Białystok"
+  },
+  {
+    "name": "Rozwój zrównoważonego transportu publicznego w woj. podlaskim poprzez zakup 8 szt. autobusów elektrycznych – Etap I",
+    "address": "Bohaterów Monte Cassino 8 15-873 Białystok",
+    "description": "Ulica: Bohaterów Monte Cassino<br>Numer: 8<br>Kod pocztowy: 15-873<br>Miejscowość: Białystok",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bohaterów Monte Cassino",
+    "Numer": "8",
+    "Kod pocztowy": "15-873",
+    "Miejscowość": "Białystok"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Żłobek w Żołyni",
+    "address": "Podkarpackie Łańcucki Żołynia 37-110 Adama Mickiewicza 59",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Łańcucki<br>Miejscowość: Żołynia<br>Kod pocztowy: 37-110<br>Ulica: Adama Mickiewicza<br>Numer: 59<br>adres: Podkarpackie Łańcucki Żołynia 37-110 Adama Mickiewicza 59<br>Województwo: Podkarpackie<br>Powiat: Łańcucki<br>Miejscowość: Żołynia<br>Kod pocztowy: 37-110<br>Ulica: Adama Mickiewicza<br>Numer: 59",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Łańcucki\nMiejscowość: Żołynia\nKod pocztowy: 37-110\nUlica: Adama Mickiewicza\nNumer: 59",
+    "adres": "Podkarpackie Łańcucki Żołynia 37-110 Adama Mickiewicza 59",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Łańcucki",
+    "Miejscowość": "Żołynia",
+    "Kod pocztowy": "37-110",
+    "Ulica": "Adama Mickiewicza",
+    "Numer": "59"
+  },
+  {
+    "name": "Żłobek \"Gwiazdeczka\" w Zdżarach",
+    "address": "Podkarpackie Ropczycko-Sędziszowski Zdżary 39-104 Zdżary 59",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Ropczycko-Sędziszowski<br>Miejscowość: Zdżary<br>Kod pocztowy: 39-104<br>Ulica: Zdżary<br>Numer: 59<br>adres: Podkarpackie Ropczycko-Sędziszowski Zdżary 39-104 Zdżary 59<br>Województwo: Podkarpackie<br>Powiat: Ropczycko-Sędziszowski<br>Miejscowość: Zdżary<br>Kod pocztowy: 39-104<br>Ulica: Zdżary<br>Numer: 59",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Ropczycko-Sędziszowski\nMiejscowość: Zdżary\nKod pocztowy: 39-104\nUlica: Zdżary\nNumer: 59",
+    "adres": "Podkarpackie Ropczycko-Sędziszowski Zdżary 39-104 Zdżary 59",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Ropczycko-Sędziszowski",
+    "Miejscowość": "Zdżary",
+    "Kod pocztowy": "39-104",
+    "Ulica": "Zdżary",
+    "Numer": "59"
+  },
+  {
+    "name": "Dostawa 30 sztuk fabrycznie nowych, ekologicznych, niskopodłogowych autobusów miejskich o napędzie elektrycznym dla PKM Katowice Sp. z o.o.",
+    "address": "Adama Mickiewicza 59 40-085 Katowice",
+    "description": "Ulica: Adama Mickiewicza<br>Numer: 59<br>Kod pocztowy: 40-085<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Adama Mickiewicza",
+    "Numer": "59",
+    "Kod pocztowy": "40-085",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Gminy Nysa i Gminy Otmuchów poprzez zakup 15 autobusów niskoemisyjnych",
+    "address": "Marszałka Józefa Piłsudskiego 59 48-303 Nysa",
+    "description": "Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 59<br>Kod pocztowy: 48-303<br>Miejscowość: Nysa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Numer": "59",
+    "Kod pocztowy": "48-303",
+    "Miejscowość": "Nysa"
+  }
+]

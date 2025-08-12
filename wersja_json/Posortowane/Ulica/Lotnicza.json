@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek w Dąbrowie",
+    "address": "Pomorskie Kartuski Banino 80-297 Lotnicza",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Banino<br>Kod pocztowy: 80-297<br>Ulica: Lotnicza<br>Numer:<br>adres: Pomorskie Kartuski Banino 80-297 Lotnicza<br>Województwo: Pomorskie<br>Powiat: Kartuski<br>Miejscowość: Banino<br>Kod pocztowy: 80-297<br>Ulica: Lotnicza<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Kartuski\nMiejscowość: Banino\nKod pocztowy: 80-297\nUlica: Lotnicza\nNumer:",
+    "adres": "Pomorskie Kartuski Banino 80-297 Lotnicza",
+    "Województwo": "Pomorskie",
+    "Powiat": "Kartuski",
+    "Miejscowość": "Banino",
+    "Kod pocztowy": "80-297",
+    "Ulica": "Lotnicza",
+    "Numer": null
+  },
+  {
+    "name": "Zakup elektrycznych autobusów wraz z dedykowanym systemem ładowania w celu obniżenia wykorzystania paliw emisyjnych w publicznym transporcie zbiorowym Ostrowa Wielkopolskiego",
+    "address": "Lotnicza 30 63-400 Ostrów Wielkopolski",
+    "description": "Ulica: Lotnicza<br>Numer: 30<br>Kod pocztowy: 63-400<br>Miejscowość: Ostrów Wielkopolski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Lotnicza",
+    "Numer": "30",
+    "Kod pocztowy": "63-400",
+    "Miejscowość": "Ostrów Wielkopolski"
+  }
+]

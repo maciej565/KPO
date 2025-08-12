@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Żłobek Miejski w Ostrowi Mazowieckiej",
+    "address": "Mazowieckie Ostrowski Ostrów Mazowiecka 07-300 gen. Stefana Grota-Roweckiego 8",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Ostrowski<br>Miejscowość: Ostrów Mazowiecka<br>Kod pocztowy: 07-300<br>Ulica: gen. Stefana Grota-Roweckiego<br>Numer: 8<br>adres: Mazowieckie Ostrowski Ostrów Mazowiecka 07-300 gen. Stefana Grota-Roweckiego 8<br>Województwo: Mazowieckie<br>Powiat: Ostrowski<br>Miejscowość: Ostrów Mazowiecka<br>Kod pocztowy: 07-300<br>Ulica: gen. Stefana Grota-Roweckiego<br>Numer: 8",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Ostrowski\nMiejscowość: Ostrów Mazowiecka\nKod pocztowy: 07-300\nUlica: gen. Stefana Grota-Roweckiego\nNumer: 8",
+    "adres": "Mazowieckie Ostrowski Ostrów Mazowiecka 07-300 gen. Stefana Grota-Roweckiego 8",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Ostrowski",
+    "Miejscowość": "Ostrów Mazowiecka",
+    "Kod pocztowy": "07-300",
+    "Ulica": "gen. Stefana Grota-Roweckiego",
+    "Numer": "8"
+  },
+  {
+    "name": "Poprawa efektywności energetycznej budynków oświatowych powiatu ostrowskiego",
+    "address": "3-go Maja 07-300 Ostrów Mazowiecka Mazowieckie 21,688,347.10 zł",
+    "description": "Nazwa podmiotu: Powiat Ostrowski<br>Ulica: 3-go Maja<br>Nr budynku: 68<br>Kod pocztowy: 07-300<br>Miejscowość: Ostrów Mazowiecka<br>Województwo: Mazowieckie<br>Dofinansowanie: 21,688,347.10 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Powiat Ostrowski",
+    "Ulica": "3-go Maja",
+    "Nr budynku": "68",
+    "Kod pocztowy": "07-300",
+    "Miejscowość": "Ostrów Mazowiecka",
+    "Województwo": "Mazowieckie",
+    "Dofinansowanie": "21,688,347.10 zł"
+  }
+]

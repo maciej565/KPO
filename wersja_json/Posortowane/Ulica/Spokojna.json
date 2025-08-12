@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Żłobek Miejski w Myśliborzu",
+    "address": "Zachodniopomorskie Myśliborski Myślibórz (miasto) 74-300 Spokojna 15",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Myśliborski<br>Miejscowość: Myślibórz (miasto)<br>Kod pocztowy: 74-300<br>Ulica: Spokojna<br>Numer: 15<br>adres: Zachodniopomorskie Myśliborski Myślibórz (miasto) 74-300 Spokojna 15<br>Województwo: Zachodniopomorskie<br>Powiat: Myśliborski<br>Miejscowość: Myślibórz (miasto)<br>Kod pocztowy: 74-300<br>Ulica: Spokojna<br>Numer: 15",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Myśliborski\nMiejscowość: Myślibórz (miasto)\nKod pocztowy: 74-300\nUlica: Spokojna\nNumer: 15",
+    "adres": "Zachodniopomorskie Myśliborski Myślibórz (miasto) 74-300 Spokojna 15",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Myśliborski",
+    "Miejscowość": "Myślibórz (miasto)",
+    "Kod pocztowy": "74-300",
+    "Ulica": "Spokojna",
+    "Numer": "15"
+  },
+  {
+    "name": "Termomodernizacja Szkoły Podstawowej im. Stanisława Staszica w Krzczonowie",
+    "address": "Spokojna 23-110 Krzczonów LUBELSKIE 3,518,565.00 zł",
+    "description": "Nazwa podmiotu: Gmina Krzczonów<br>Ulica: Spokojna<br>Nr budynku: 7<br>Kod pocztowy: 23-110<br>Miejscowość: Krzczonów<br>Województwo: LUBELSKIE<br>Dofinansowanie: 3,518,565.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Krzczonów",
+    "Ulica": "Spokojna",
+    "Nr budynku": "7",
+    "Kod pocztowy": "23-110",
+    "Miejscowość": "Krzczonów",
+    "Województwo": "LUBELSKIE",
+    "Dofinansowanie": "3,518,565.00 zł"
+  }
+]

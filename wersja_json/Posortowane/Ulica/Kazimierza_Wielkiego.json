@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Żłobek Miejski w Oleśnicy",
+    "address": "Dolnośląskie Oleśnicki Oleśnica 56-400 Kazimierza Wielkiego 4",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Oleśnicki<br>Miejscowość: Oleśnica<br>Kod pocztowy: 56-400<br>Ulica: Kazimierza Wielkiego<br>Numer: 4<br>adres: Dolnośląskie Oleśnicki Oleśnica 56-400 Kazimierza Wielkiego 4<br>Województwo: Dolnośląskie<br>Powiat: Oleśnicki<br>Miejscowość: Oleśnica<br>Kod pocztowy: 56-400<br>Ulica: Kazimierza Wielkiego<br>Numer: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Oleśnicki\nMiejscowość: Oleśnica\nKod pocztowy: 56-400\nUlica: Kazimierza Wielkiego\nNumer: 4",
+    "adres": "Dolnośląskie Oleśnicki Oleśnica 56-400 Kazimierza Wielkiego 4",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Oleśnicki",
+    "Miejscowość": "Oleśnica",
+    "Kod pocztowy": "56-400",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "4"
+  },
+  {
+    "name": "Żłobek nr 10",
+    "address": "Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Kędzierzyn-Koźle<br>Kod pocztowy: 47-232<br>Ulica: Kazimierza Wielkiego<br>Numer: 6<br>adres: Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6<br>Województwo: Opolskie<br>Powiat: Kędzierzyńsko-Kozielski<br>Miejscowość: Kędzierzyn-Koźle<br>Kod pocztowy: 47-232<br>Ulica: Kazimierza Wielkiego<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Kędzierzyńsko-Kozielski\nMiejscowość: Kędzierzyn-Koźle\nKod pocztowy: 47-232\nUlica: Kazimierza Wielkiego\nNumer: 6",
+    "adres": "Opolskie Kędzierzyńsko-Kozielski Kędzierzyn-Koźle 47-232 Kazimierza Wielkiego 6",
+    "Województwo": "Opolskie",
+    "Powiat": "Kędzierzyńsko-Kozielski",
+    "Miejscowość": "Kędzierzyn-Koźle",
+    "Kod pocztowy": "47-232",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "6"
+  },
+  {
+    "name": "Klub Dziecięcy w Stopnicy",
+    "address": "Świętokrzyskie Buski Stopnica 28-130 Kazimierza Wielkiego 23",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Buski<br>Miejscowość: Stopnica<br>Kod pocztowy: 28-130<br>Ulica: Kazimierza Wielkiego<br>Numer: 23<br>adres: Świętokrzyskie Buski Stopnica 28-130 Kazimierza Wielkiego 23<br>Województwo: Świętokrzyskie<br>Powiat: Buski<br>Miejscowość: Stopnica<br>Kod pocztowy: 28-130<br>Ulica: Kazimierza Wielkiego<br>Numer: 23",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Buski\nMiejscowość: Stopnica\nKod pocztowy: 28-130\nUlica: Kazimierza Wielkiego\nNumer: 23",
+    "adres": "Świętokrzyskie Buski Stopnica 28-130 Kazimierza Wielkiego 23",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Buski",
+    "Miejscowość": "Stopnica",
+    "Kod pocztowy": "28-130",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "23"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą towarzyszącą w gminie Bochnia",
+    "address": "Kazimierza Wielkiego 26 32-700 Bochnia",
+    "description": "Ulica: Kazimierza Wielkiego<br>Numer: 26<br>Kod pocztowy: 32-700<br>Miejscowość: Bochnia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Kazimierza Wielkiego",
+    "Numer": "26",
+    "Kod pocztowy": "32-700",
+    "Miejscowość": "Bochnia"
+  }
+]

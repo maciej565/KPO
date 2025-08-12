@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Żłobek w Jegłowej",
+    "address": "Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Jegłowa<br>Kod pocztowy: 57-130<br>Ulica: Janusza Korczaka<br>Numer: 6A<br>adres: Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A<br>Województwo: Dolnośląskie<br>Powiat: Strzeliński<br>Miejscowość: Jegłowa<br>Kod pocztowy: 57-130<br>Ulica: Janusza Korczaka<br>Numer: 6A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Strzeliński\nMiejscowość: Jegłowa\nKod pocztowy: 57-130\nUlica: Janusza Korczaka\nNumer: 6A",
+    "adres": "Dolnośląskie Strzeliński Jegłowa 57-130 Janusza Korczaka 6A",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Strzeliński",
+    "Miejscowość": "Jegłowa",
+    "Kod pocztowy": "57-130",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "6A"
+  },
+  {
+    "name": "Klub Dziecięcy \"Strzemięcin\"",
+    "address": "Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Grudziądz<br>Miejscowość: Grudziądz<br>Kod pocztowy: 86-300<br>Ulica: Janusza Korczaka<br>Numer: 21<br>adres: Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Grudziądz<br>Miejscowość: Grudziądz<br>Kod pocztowy: 86-300<br>Ulica: Janusza Korczaka<br>Numer: 21",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Grudziądz\nMiejscowość: Grudziądz\nKod pocztowy: 86-300\nUlica: Janusza Korczaka\nNumer: 21",
+    "adres": "Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Grudziądz",
+    "Miejscowość": "Grudziądz",
+    "Kod pocztowy": "86-300",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "21"
+  },
+  {
+    "name": "Żłobek Nr 2 im. Króla Maciusia Pierwszego w Mogilnie",
+    "address": "Kujawsko-Pomorskie Mogileński Mogilno 88-300 Janusza Korczaka 1",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Mogileński<br>Miejscowość: Mogilno<br>Kod pocztowy: 88-300<br>Ulica: Janusza Korczaka<br>Numer: 1<br>adres: Kujawsko-Pomorskie Mogileński Mogilno 88-300 Janusza Korczaka 1<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Mogileński<br>Miejscowość: Mogilno<br>Kod pocztowy: 88-300<br>Ulica: Janusza Korczaka<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Mogileński\nMiejscowość: Mogilno\nKod pocztowy: 88-300\nUlica: Janusza Korczaka\nNumer: 1",
+    "adres": "Kujawsko-Pomorskie Mogileński Mogilno 88-300 Janusza Korczaka 1",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Mogileński",
+    "Miejscowość": "Mogilno",
+    "Kod pocztowy": "88-300",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "1"
+  },
+  {
+    "name": "Żłobek nr 2 w Lubsku",
+    "address": "Lubuskie Żarski Lubsko 68-300 Janusza Korczaka 2a",
+    "description": "opis: Województwo: Lubuskie<br>Powiat: Żarski<br>Miejscowość: Lubsko<br>Kod pocztowy: 68-300<br>Ulica: Janusza Korczaka<br>Numer: 2a<br>adres: Lubuskie Żarski Lubsko 68-300 Janusza Korczaka 2a<br>Województwo: Lubuskie<br>Powiat: Żarski<br>Miejscowość: Lubsko<br>Kod pocztowy: 68-300<br>Ulica: Janusza Korczaka<br>Numer: 2a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubuskie\nPowiat: Żarski\nMiejscowość: Lubsko\nKod pocztowy: 68-300\nUlica: Janusza Korczaka\nNumer: 2a",
+    "adres": "Lubuskie Żarski Lubsko 68-300 Janusza Korczaka 2a",
+    "Województwo": "Lubuskie",
+    "Powiat": "Żarski",
+    "Miejscowość": "Lubsko",
+    "Kod pocztowy": "68-300",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "2a"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Żłobek Publiczny Nr 1",
+    "address": "Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Bydgoski<br>Miejscowość: Osielsko<br>Kod pocztowy: 86-031<br>Ulica: Bałtycka<br>Numer: 21A<br>adres: Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Bydgoski<br>Miejscowość: Osielsko<br>Kod pocztowy: 86-031<br>Ulica: Bałtycka<br>Numer: 21A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Bydgoski\nMiejscowość: Osielsko\nKod pocztowy: 86-031\nUlica: Bałtycka\nNumer: 21A",
+    "adres": "Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Bydgoski",
+    "Miejscowość": "Osielsko",
+    "Kod pocztowy": "86-031",
+    "Ulica": "Bałtycka",
+    "Numer": "21A"
+  },
+  {
+    "name": "Żłobek Gminny \"MALUCH\"",
+    "address": "Warmińsko-Mazurskie Piski Biała Piska 12-230 Sikorskiego 21A",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Piski<br>Miejscowość: Biała Piska<br>Kod pocztowy: 12-230<br>Ulica: Sikorskiego<br>Numer: 21A<br>adres: Warmińsko-Mazurskie Piski Biała Piska 12-230 Sikorskiego 21A<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Piski<br>Miejscowość: Biała Piska<br>Kod pocztowy: 12-230<br>Ulica: Sikorskiego<br>Numer: 21A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Piski\nMiejscowość: Biała Piska\nKod pocztowy: 12-230\nUlica: Sikorskiego\nNumer: 21A",
+    "adres": "Warmińsko-Mazurskie Piski Biała Piska 12-230 Sikorskiego 21A",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Piski",
+    "Miejscowość": "Biała Piska",
+    "Kod pocztowy": "12-230",
+    "Ulica": "Sikorskiego",
+    "Numer": "21A"
+  },
+  {
+    "name": "Hydrogen GZM",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Zielony Transport GZM",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  },
+  {
+    "name": "Zielony Transport GZM - Etap II",
+    "address": "Barbary 21A 40-053 Katowice",
+    "description": "Ulica: Barbary<br>Numer: 21A<br>Kod pocztowy: 40-053<br>Miejscowość: Katowice",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Barbary",
+    "Numer": "21A",
+    "Kod pocztowy": "40-053",
+    "Miejscowość": "Katowice"
+  }
+]

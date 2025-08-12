@@ -1,0 +1,44 @@
+[
+  {
+    "name": "OAZA MALUSZKA II",
+    "address": "Kujawsko-Pomorskie Toruń Toruń 87-100 Targowa 16b",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Toruń<br>Miejscowość: Toruń<br>Kod pocztowy: 87-100<br>Ulica: Targowa<br>Numer: 16b<br>adres: Kujawsko-Pomorskie Toruń Toruń 87-100 Targowa 16b<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Toruń<br>Miejscowość: Toruń<br>Kod pocztowy: 87-100<br>Ulica: Targowa<br>Numer: 16b",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Toruń\nMiejscowość: Toruń\nKod pocztowy: 87-100\nUlica: Targowa\nNumer: 16b",
+    "adres": "Kujawsko-Pomorskie Toruń Toruń 87-100 Targowa 16b",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Toruń",
+    "Miejscowość": "Toruń",
+    "Kod pocztowy": "87-100",
+    "Ulica": "Targowa",
+    "Numer": "16b"
+  },
+  {
+    "name": "Miejski Żłobek w Czarnym Dunajcu",
+    "address": "Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Czarny Dunajec<br>Kod pocztowy: 34-470<br>Ulica: Targowa<br>Numer: 1C<br>adres: Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Czarny Dunajec<br>Kod pocztowy: 34-470<br>Ulica: Targowa<br>Numer: 1C",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Czarny Dunajec\nKod pocztowy: 34-470\nUlica: Targowa\nNumer: 1C",
+    "adres": "Małopolskie Nowotarski Czarny Dunajec 34-470 Targowa 1C",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Czarny Dunajec",
+    "Kod pocztowy": "34-470",
+    "Ulica": "Targowa",
+    "Numer": "1C"
+  },
+  {
+    "name": "Gminny Żłobek w Starczy",
+    "address": "Śląskie Częstochowski Starcza 42-261 Targowa 1",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Częstochowski<br>Miejscowość: Starcza<br>Kod pocztowy: 42-261<br>Ulica: Targowa<br>Numer: 1<br>adres: Śląskie Częstochowski Starcza 42-261 Targowa 1<br>Województwo: Śląskie<br>Powiat: Częstochowski<br>Miejscowość: Starcza<br>Kod pocztowy: 42-261<br>Ulica: Targowa<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Częstochowski\nMiejscowość: Starcza\nKod pocztowy: 42-261\nUlica: Targowa\nNumer: 1",
+    "adres": "Śląskie Częstochowski Starcza 42-261 Targowa 1",
+    "Województwo": "Śląskie",
+    "Powiat": "Częstochowski",
+    "Miejscowość": "Starcza",
+    "Kod pocztowy": "42-261",
+    "Ulica": "Targowa",
+    "Numer": "1"
+  }
+]

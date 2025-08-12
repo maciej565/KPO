@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Żłobek Koniczynka filia Wiczlino",
+    "address": "Pomorskie Gdynia Gdynia 81-577 Wiesławy Kwiatkowskiej 23",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Gdynia<br>Miejscowość: Gdynia<br>Kod pocztowy: 81-577<br>Ulica: Wiesławy Kwiatkowskiej<br>Numer: 23<br>adres: Pomorskie Gdynia Gdynia 81-577 Wiesławy Kwiatkowskiej 23<br>Województwo: Pomorskie<br>Powiat: Gdynia<br>Miejscowość: Gdynia<br>Kod pocztowy: 81-577<br>Ulica: Wiesławy Kwiatkowskiej<br>Numer: 23",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Gdynia\nMiejscowość: Gdynia\nKod pocztowy: 81-577\nUlica: Wiesławy Kwiatkowskiej\nNumer: 23",
+    "adres": "Pomorskie Gdynia Gdynia 81-577 Wiesławy Kwiatkowskiej 23",
+    "Województwo": "Pomorskie",
+    "Powiat": "Gdynia",
+    "Miejscowość": "Gdynia",
+    "Kod pocztowy": "81-577",
+    "Ulica": "Wiesławy Kwiatkowskiej",
+    "Numer": "23"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 8 autobusów elektrycznych przegubowych wraz z budową niezbędnej infrastruktury ładowania na bazie PKA sp. z o.o.",
+    "address": "Platynowa 19 81-154 Gdynia",
+    "description": "Ulica: Platynowa<br>Numer: 19<br>Kod pocztowy: 81-154<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Platynowa",
+    "Numer": "19",
+    "Kod pocztowy": "81-154",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 3 autobusów elektrycznych wraz z budową niezbędnej infrastruktury ładowania",
+    "address": "Rdestowa 51A 81-244 Gdynia",
+    "description": "Ulica: Rdestowa<br>Numer: 51A<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rdestowa",
+    "Numer": "51A",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój elektrycznego transportu publicznego w Gdyni poprzez zakup 9 trolejbusów 12-metrowych na potrzeby Przedsiębiorstwa Komunikacji Trolejbusowej sp. z o.o.",
+    "address": "Zakręt do Oksywia 1 81-244 Gdynia",
+    "description": "Ulica: Zakręt do Oksywia<br>Numer: 1<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Zakręt do Oksywia",
+    "Numer": "1",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Gdyni poprzez zakup taboru trolejbusowego z alternatywnym napędem bateryjnym",
+    "address": "Zakręt do Oksywia 1 81-244 Gdynia",
+    "description": "Ulica: Zakręt do Oksywia<br>Numer: 1<br>Kod pocztowy: 81-244<br>Miejscowość: Gdynia",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Zakręt do Oksywia",
+    "Numer": "1",
+    "Kod pocztowy": "81-244",
+    "Miejscowość": "Gdynia"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Miejski Żłobek \"Chatka Dinusia\"",
+    "address": "Lubuskie Żagański Szprotawa 67-300 Krasińskiego 7",
+    "description": "opis: Województwo: Lubuskie<br>Powiat: Żagański<br>Miejscowość: Szprotawa<br>Kod pocztowy: 67-300<br>Ulica: Krasińskiego<br>Numer: 7<br>adres: Lubuskie Żagański Szprotawa 67-300 Krasińskiego 7<br>Województwo: Lubuskie<br>Powiat: Żagański<br>Miejscowość: Szprotawa<br>Kod pocztowy: 67-300<br>Ulica: Krasińskiego<br>Numer: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubuskie\nPowiat: Żagański\nMiejscowość: Szprotawa\nKod pocztowy: 67-300\nUlica: Krasińskiego\nNumer: 7",
+    "adres": "Lubuskie Żagański Szprotawa 67-300 Krasińskiego 7",
+    "Województwo": "Lubuskie",
+    "Powiat": "Żagański",
+    "Miejscowość": "Szprotawa",
+    "Kod pocztowy": "67-300",
+    "Ulica": "Krasińskiego",
+    "Numer": "7"
+  },
+  {
+    "name": "Termomodernizacja budynku Domu Kultury w Szprotawie",
+    "address": "LUBUSKIE Szprotawa 67-300 Rynek",
+    "description": "Podmiot: Gmina Szprotawa<br>Miejsce realizacji – województwo: LUBUSKIE<br>Miejscowość: Szprotawa<br>Kod pocztowy: 67-300<br>Ulica: Rynek<br>Numer budynku: 45",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Szprotawa",
+    "Miejsce realizacji – województwo": "LUBUSKIE",
+    "Miejscowość": "Szprotawa",
+    "Kod pocztowy": "67-300",
+    "Ulica": "Rynek",
+    "Numer budynku": "45"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z systemem ładowania dla Gminy Szprotawa",
+    "address": "Rynek 45 67-300 Szprotawa",
+    "description": "Ulica: Rynek<br>Numer: 45<br>Kod pocztowy: 67-300<br>Miejscowość: Szprotawa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Rynek",
+    "Numer": "45",
+    "Kod pocztowy": "67-300",
+    "Miejscowość": "Szprotawa"
+  }
+]

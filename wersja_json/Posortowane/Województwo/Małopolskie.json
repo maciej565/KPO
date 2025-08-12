@@ -1,0 +1,76 @@
+[
+  {
+    "name": "gorlicki",
+    "address": "gorlicki MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 413<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "413.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "krakowski",
+    "address": "krakowski MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 719<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "719.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "limanowski",
+    "address": "limanowski MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 808<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "808.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "nowosądecki",
+    "address": "nowosądecki MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 906<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "906.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "suski",
+    "address": "suski MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 249<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "249.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "tatrzański",
+    "address": "tatrzański MAŁOPOLSKIE",
+    "description": "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu: 486<br>Województwo: MAŁOPOLSKIE",
+    "styleUrl": "#icon-1895-3949AB",
+    "Dodatkowe gospodarstwa domowe z szerokopasmowym dostępem do Internetu": "486.0",
+    "Województwo": "MAŁOPOLSKIE"
+  },
+  {
+    "name": "Termomodernizacja budynku Szkoły Podstawowej w Gdowie oraz budynku Szkoły Podstawowej w Zręczycach",
+    "address": "Rynek 32-420 Gdów MAŁOPOLSKIE 4,506,558.28 zł",
+    "description": "Nazwa podmiotu: Gmina Gdów<br>Ulica: Rynek<br>Nr budynku: 26<br>Kod pocztowy: 32-420<br>Miejscowość: Gdów<br>Województwo: MAŁOPOLSKIE<br>Dofinansowanie: 4,506,558.28 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Gdów",
+    "Ulica": "Rynek",
+    "Nr budynku": "26",
+    "Kod pocztowy": "32-420",
+    "Miejscowość": "Gdów",
+    "Województwo": "MAŁOPOLSKIE",
+    "Dofinansowanie": "4,506,558.28 zł"
+  },
+  {
+    "name": "Poprawa efektywności energetycznej obiektów edukacyjnych w Gminie Pałecznica",
+    "address": "św. Jakuba 32-109 Pałecznica MAŁOPOLSKIE 7,189,532.53 zł",
+    "description": "Nazwa podmiotu: Gmina Pałecznica<br>Ulica: św. Jakuba<br>Nr budynku: 11<br>Kod pocztowy: 32-109<br>Miejscowość: Pałecznica<br>Województwo: MAŁOPOLSKIE<br>Dofinansowanie: 7,189,532.53 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Pałecznica",
+    "Ulica": "św. Jakuba",
+    "Nr budynku": "11",
+    "Kod pocztowy": "32-109",
+    "Miejscowość": "Pałecznica",
+    "Województwo": "MAŁOPOLSKIE",
+    "Dofinansowanie": "7,189,532.53 zł"
+  }
+]

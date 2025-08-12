@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek w Nowej Rudzie",
+    "address": "Dolnośląskie Kłodzki Nowa Ruda 57-400 Aleksandra Fredry 45",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Kłodzki<br>Miejscowość: Nowa Ruda<br>Kod pocztowy: 57-400<br>Ulica: Aleksandra Fredry<br>Numer: 45<br>adres: Dolnośląskie Kłodzki Nowa Ruda 57-400 Aleksandra Fredry 45<br>Województwo: Dolnośląskie<br>Powiat: Kłodzki<br>Miejscowość: Nowa Ruda<br>Kod pocztowy: 57-400<br>Ulica: Aleksandra Fredry<br>Numer: 45",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Kłodzki\nMiejscowość: Nowa Ruda\nKod pocztowy: 57-400\nUlica: Aleksandra Fredry\nNumer: 45",
+    "adres": "Dolnośląskie Kłodzki Nowa Ruda 57-400 Aleksandra Fredry 45",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Kłodzki",
+    "Miejscowość": "Nowa Ruda",
+    "Kod pocztowy": "57-400",
+    "Ulica": "Aleksandra Fredry",
+    "Numer": "45"
+  },
+  {
+    "name": "Realizacja procesu elektryfikacji komunikacji miejskiej na terenie Miasta Krosna – zakup autobusów elektrycznych przez Miejską Komunikację Samochodową Sp. z o.o. w Krośnie",
+    "address": "Aleksandra Fredry 1A 38-400 Krosno",
+    "description": "Ulica: Aleksandra Fredry<br>Numer: 1A<br>Kod pocztowy: 38-400<br>Miejscowość: Krosno",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleksandra Fredry",
+    "Numer": "1A",
+    "Kod pocztowy": "38-400",
+    "Miejscowość": "Krosno"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Termomodernizacja budynku Centrum Kultury w Gdowie",
+    "address": "MAŁOPOLSKIE Gdów 32-420 Rynek",
+    "description": "Podmiot: Gmina Gdów<br>Miejsce realizacji – województwo: MAŁOPOLSKIE<br>Miejscowość: Gdów<br>Kod pocztowy: 32-420<br>Ulica: Rynek<br>Numer budynku: 26",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Gdów",
+    "Miejsce realizacji – województwo": "MAŁOPOLSKIE",
+    "Miejscowość": "Gdów",
+    "Kod pocztowy": "32-420",
+    "Ulica": "Rynek",
+    "Numer budynku": "26"
+  },
+  {
+    "name": "Termomodernizacja budynku Szkoły Podstawowej w Gdowie oraz budynku Szkoły Podstawowej w Zręczycach",
+    "address": "Rynek 32-420 Gdów MAŁOPOLSKIE 4,506,558.28 zł",
+    "description": "Nazwa podmiotu: Gmina Gdów<br>Ulica: Rynek<br>Nr budynku: 26<br>Kod pocztowy: 32-420<br>Miejscowość: Gdów<br>Województwo: MAŁOPOLSKIE<br>Dofinansowanie: 4,506,558.28 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Gdów",
+    "Ulica": "Rynek",
+    "Nr budynku": "26",
+    "Kod pocztowy": "32-420",
+    "Miejscowość": "Gdów",
+    "Województwo": "MAŁOPOLSKIE",
+    "Dofinansowanie": "4,506,558.28 zł"
+  }
+]

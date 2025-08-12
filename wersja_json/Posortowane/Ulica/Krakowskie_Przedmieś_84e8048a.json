@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Gminny Żłobek w Tarnogórze w Gminie Izbica",
+    "address": "Lubelskie Krasnostawski Tarnogóra 22-375 Krakowskie Przedmieście 74",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Krasnostawski<br>Miejscowość: Tarnogóra<br>Kod pocztowy: 22-375<br>Ulica: Krakowskie Przedmieście<br>Numer: 74<br>adres: Lubelskie Krasnostawski Tarnogóra 22-375 Krakowskie Przedmieście 74<br>Województwo: Lubelskie<br>Powiat: Krasnostawski<br>Miejscowość: Tarnogóra<br>Kod pocztowy: 22-375<br>Ulica: Krakowskie Przedmieście<br>Numer: 74",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Krasnostawski\nMiejscowość: Tarnogóra\nKod pocztowy: 22-375\nUlica: Krakowskie Przedmieście\nNumer: 74",
+    "adres": "Lubelskie Krasnostawski Tarnogóra 22-375 Krakowskie Przedmieście 74",
+    "Województwo": "Lubelskie",
+    "Powiat": "Krasnostawski",
+    "Miejscowość": "Tarnogóra",
+    "Kod pocztowy": "22-375",
+    "Ulica": "Krakowskie Przedmieście",
+    "Numer": "74"
+  },
+  {
+    "name": "Termomodernizacja budynku Centrum Kultury, Promocji i Rekreacji w Zielonkach – filia w Korzkwi",
+    "address": "MAŁOPOLSKIE Zielonki 32-087 Krakowskie Przedmieście",
+    "description": "Podmiot: Gmina Zielonki<br>Miejsce realizacji – województwo: MAŁOPOLSKIE<br>Miejscowość: Zielonki<br>Kod pocztowy: 32-087<br>Ulica: Krakowskie Przedmieście<br>Numer budynku: 116",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Zielonki",
+    "Miejsce realizacji – województwo": "MAŁOPOLSKIE",
+    "Miejscowość": "Zielonki",
+    "Kod pocztowy": "32-087",
+    "Ulica": "Krakowskie Przedmieście",
+    "Numer budynku": "116"
+  }
+]

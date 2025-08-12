@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Żłobek Miejski nr 5 w Łomży",
+    "address": "Podlaskie Łomża Łomża 18-400 Wyzwolenia 1",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Łomża<br>Miejscowość: Łomża<br>Kod pocztowy: 18-400<br>Ulica: Wyzwolenia<br>Numer: 1<br>adres: Podlaskie Łomża Łomża 18-400 Wyzwolenia 1<br>Województwo: Podlaskie<br>Powiat: Łomża<br>Miejscowość: Łomża<br>Kod pocztowy: 18-400<br>Ulica: Wyzwolenia<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Łomża\nMiejscowość: Łomża\nKod pocztowy: 18-400\nUlica: Wyzwolenia\nNumer: 1",
+    "adres": "Podlaskie Łomża Łomża 18-400 Wyzwolenia 1",
+    "Województwo": "Podlaskie",
+    "Powiat": "Łomża",
+    "Miejscowość": "Łomża",
+    "Kod pocztowy": "18-400",
+    "Ulica": "Wyzwolenia",
+    "Numer": "1"
+  },
+  {
+    "name": "Miejski Żłobek nr 4 w Łomży",
+    "address": "Podlaskie Łomża Łomża 18-400 gen. Władysława Sikorskiego 216",
+    "description": "opis: Województwo: Podlaskie<br>Powiat: Łomża<br>Miejscowość: Łomża<br>Kod pocztowy: 18-400<br>Ulica: gen. Władysława Sikorskiego<br>Numer: 216<br>adres: Podlaskie Łomża Łomża 18-400 gen. Władysława Sikorskiego 216<br>Województwo: Podlaskie<br>Powiat: Łomża<br>Miejscowość: Łomża<br>Kod pocztowy: 18-400<br>Ulica: gen. Władysława Sikorskiego<br>Numer: 216",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podlaskie\nPowiat: Łomża\nMiejscowość: Łomża\nKod pocztowy: 18-400\nUlica: gen. Władysława Sikorskiego\nNumer: 216",
+    "adres": "Podlaskie Łomża Łomża 18-400 gen. Władysława Sikorskiego 216",
+    "Województwo": "Podlaskie",
+    "Powiat": "Łomża",
+    "Miejscowość": "Łomża",
+    "Kod pocztowy": "18-400",
+    "Ulica": "gen. Władysława Sikorskiego",
+    "Numer": "216"
+  },
+  {
+    "name": "Rozwój zielonego transportu publicznego w Łomży",
+    "address": "pl. Stary Rynek 14 18-400 Łomża",
+    "description": "Ulica: pl. Stary Rynek<br>Numer: 14<br>Kod pocztowy: 18-400<br>Miejscowość: Łomża",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Stary Rynek",
+    "Numer": "14",
+    "Kod pocztowy": "18-400",
+    "Miejscowość": "Łomża"
+  },
+  {
+    "name": "Rozwój zielonego transportu publicznego w Łomży - etap II",
+    "address": "pl. Stary Rynek 14 18-400 Łomża",
+    "description": "Ulica: pl. Stary Rynek<br>Numer: 14<br>Kod pocztowy: 18-400<br>Miejscowość: Łomża",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Stary Rynek",
+    "Numer": "14",
+    "Kod pocztowy": "18-400",
+    "Miejscowość": "Łomża"
+  }
+]

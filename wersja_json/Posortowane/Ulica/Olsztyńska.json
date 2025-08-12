@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek nr 12 Żagielek",
+    "address": "Pomorskie Gdańsk Gdańsk 80-395 Olsztyńska 12",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Gdańsk<br>Miejscowość: Gdańsk<br>Kod pocztowy: 80-395<br>Ulica: Olsztyńska<br>Numer: 12<br>adres: Pomorskie Gdańsk Gdańsk 80-395 Olsztyńska 12<br>Województwo: Pomorskie<br>Powiat: Gdańsk<br>Miejscowość: Gdańsk<br>Kod pocztowy: 80-395<br>Ulica: Olsztyńska<br>Numer: 12",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Gdańsk\nMiejscowość: Gdańsk\nKod pocztowy: 80-395\nUlica: Olsztyńska\nNumer: 12",
+    "adres": "Pomorskie Gdańsk Gdańsk 80-395 Olsztyńska 12",
+    "Województwo": "Pomorskie",
+    "Powiat": "Gdańsk",
+    "Miejscowość": "Gdańsk",
+    "Kod pocztowy": "80-395",
+    "Ulica": "Olsztyńska",
+    "Numer": "12"
+  },
+  {
+    "name": "Klub dziecięcy w Wilkasach",
+    "address": "Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Wilkasy<br>Kod pocztowy: 11-500<br>Ulica: Olsztyńska<br>Numer: 29<br>adres: Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Giżycki<br>Miejscowość: Wilkasy<br>Kod pocztowy: 11-500<br>Ulica: Olsztyńska<br>Numer: 29",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Giżycki\nMiejscowość: Wilkasy\nKod pocztowy: 11-500\nUlica: Olsztyńska\nNumer: 29",
+    "adres": "Warmińsko-Mazurskie Giżycki Wilkasy 11-500 Olsztyńska 29",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Giżycki",
+    "Miejscowość": "Wilkasy",
+    "Kod pocztowy": "11-500",
+    "Ulica": "Olsztyńska",
+    "Numer": "29"
+  }
+]

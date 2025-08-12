@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Żłobek Miejski Nr 2 w Żywcu",
+    "address": "Śląskie Żywiecki Żywiec 34-300 Browar Kolonia 44",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Żywiecki<br>Miejscowość: Żywiec<br>Kod pocztowy: 34-300<br>Ulica: Browar Kolonia<br>Numer: 44<br>adres: Śląskie Żywiecki Żywiec 34-300 Browar Kolonia 44<br>Województwo: Śląskie<br>Powiat: Żywiecki<br>Miejscowość: Żywiec<br>Kod pocztowy: 34-300<br>Ulica: Browar Kolonia<br>Numer: 44",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Żywiecki\nMiejscowość: Żywiec\nKod pocztowy: 34-300\nUlica: Browar Kolonia\nNumer: 44",
+    "adres": "Śląskie Żywiecki Żywiec 34-300 Browar Kolonia 44",
+    "Województwo": "Śląskie",
+    "Powiat": "Żywiecki",
+    "Miejscowość": "Żywiec",
+    "Kod pocztowy": "34-300",
+    "Ulica": "Browar Kolonia",
+    "Numer": "44"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja zbiorowa – zakup autobusów elektrycznych wraz z zapewnieniem infrastruktury do ładowania przez MZK w Żywcu Sp. z o.o.",
+    "address": "al. Aleja Wolności 24 34-300 Żywiec",
+    "description": "Ulica: al. Aleja Wolności<br>Numer: 24<br>Kod pocztowy: 34-300<br>Miejscowość: Żywiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "al. Aleja Wolności",
+    "Numer": "24",
+    "Kod pocztowy": "34-300",
+    "Miejscowość": "Żywiec"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rozbudowa drogi krajowej nr 27 na skrzyżowaniu z drogą powiatową nr 1181F Wilkanowo – Słone",
+    "description": "Województwo: lubuskie<br>Powiat: zielonogórski<br>Gmina: Świdnica<br>Ilość: 1<br>Współrzędne: 51.92235047893343, 15.418306439629122",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "lubuskie",
+    "Powiat": "zielonogórski",
+    "Gmina": "Świdnica",
+    "Ilość": "1.0",
+    "Współrzędne": "51.92235047893343, 15.418306439629122"
+  },
+  {
+    "name": "Rozbudowa drogi krajowej nr 32 na skrzyżowaniu z drogą wojewódzką nr 304",
+    "description": "Województwo: lubuskie<br>Powiat: zielonogórski<br>Gmina: Sulechów<br>Ilość: 1<br>Współrzędne: 52.097614642188695, 15.70835316668169",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "lubuskie",
+    "Powiat": "zielonogórski",
+    "Gmina": "Sulechów",
+    "Ilość": "1.0",
+    "Współrzędne": "52.097614642188695, 15.70835316668169"
+  }
+]

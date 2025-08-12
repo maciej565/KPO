@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Publiczny Żłobek Miejski w Kozienicach",
+    "address": "Mazowieckie Kozienicki Kozienice 26-900 Marii Skłodowskiej-Curie 3",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Kozienicki<br>Miejscowość: Kozienice<br>Kod pocztowy: 26-900<br>Ulica: Marii Skłodowskiej-Curie<br>Numer: 3<br>adres: Mazowieckie Kozienicki Kozienice 26-900 Marii Skłodowskiej-Curie 3<br>Województwo: Mazowieckie<br>Powiat: Kozienicki<br>Miejscowość: Kozienice<br>Kod pocztowy: 26-900<br>Ulica: Marii Skłodowskiej-Curie<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Kozienicki\nMiejscowość: Kozienice\nKod pocztowy: 26-900\nUlica: Marii Skłodowskiej-Curie\nNumer: 3",
+    "adres": "Mazowieckie Kozienicki Kozienice 26-900 Marii Skłodowskiej-Curie 3",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Kozienicki",
+    "Miejscowość": "Kozienice",
+    "Kod pocztowy": "26-900",
+    "Ulica": "Marii Skłodowskiej-Curie",
+    "Numer": "3"
+  },
+  {
+    "name": "Termomodernizacja budynku Zespołu Szkół Nr 1 im. Legionów Polskich w Kozienicach",
+    "address": "Jana Kochanowskiego 26-900 Kozienice MAZOWIECKIE 6,607,561.40 zł",
+    "description": "Nazwa podmiotu: Powiat Kozienicki<br>Ulica: Jana Kochanowskiego<br>Nr budynku: 28<br>Kod pocztowy: 26-900<br>Miejscowość: Kozienice<br>Województwo: MAZOWIECKIE<br>Dofinansowanie: 6,607,561.40 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Powiat Kozienicki",
+    "Ulica": "Jana Kochanowskiego",
+    "Nr budynku": "28",
+    "Kod pocztowy": "26-900",
+    "Miejscowość": "Kozienice",
+    "Województwo": "MAZOWIECKIE",
+    "Dofinansowanie": "6,607,561.40 zł"
+  }
+]

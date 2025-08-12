@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Żłobek Miejski nr 2",
+    "address": "Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Wodzisławski<br>Miejscowość: Wodzisław Śląski<br>Kod pocztowy: 44-304<br>Ulica: świętego Wawrzyńca<br>Numer: 33<br>adres: Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33<br>Województwo: Śląskie<br>Powiat: Wodzisławski<br>Miejscowość: Wodzisław Śląski<br>Kod pocztowy: 44-304<br>Ulica: świętego Wawrzyńca<br>Numer: 33",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Wodzisławski\nMiejscowość: Wodzisław Śląski\nKod pocztowy: 44-304\nUlica: świętego Wawrzyńca\nNumer: 33",
+    "adres": "Śląskie Wodzisławski Wodzisław Śląski 44-304 świętego Wawrzyńca 33",
+    "Województwo": "Śląskie",
+    "Powiat": "Wodzisławski",
+    "Miejscowość": "Wodzisław Śląski",
+    "Kod pocztowy": "44-304",
+    "Ulica": "świętego Wawrzyńca",
+    "Numer": "33"
+  },
+  {
+    "name": "Zakup dwóch autobusów niskoemisyjnych na potrzeby Wodzisławskiej Komunikacji Powiatowej",
+    "address": "Bogumińska 2 44-300 Wodzisław Śląski",
+    "description": "Ulica: Bogumińska<br>Numer: 2<br>Kod pocztowy: 44-300<br>Miejscowość: Wodzisław Śląski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bogumińska",
+    "Numer": "2",
+    "Kod pocztowy": "44-300",
+    "Miejscowość": "Wodzisław Śląski"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych na potrzeby Wodzisławskiej Komunikacji Powiatowej",
+    "address": "Bogumińska 2 44-300 Wodzisław Śląski",
+    "description": "Ulica: Bogumińska<br>Numer: 2<br>Kod pocztowy: 44-300<br>Miejscowość: Wodzisław Śląski",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Bogumińska",
+    "Numer": "2",
+    "Kod pocztowy": "44-300",
+    "Miejscowość": "Wodzisław Śląski"
+  }
+]

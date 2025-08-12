@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Logistyka",
+    "address": "mazowieckie  Grodzisk Mazowiecki, ul. Żyrardowska 48",
+    "description": "Województwo: mazowieckie <br>Adres: Grodzisk Mazowiecki, ul. Żyrardowska 48<br>OOW: Powiat Grodziski<br>Dofinansowanie: 12,000,000.00 zł <br>Strona www: https://www.bcugrodzisk.edu.pl/ <br>Uruchomienie: Uruchomione",
+    "styleUrl": "#icon-1722-673AB7",
+    "Województwo": "mazowieckie ",
+    "Adres": "Grodzisk Mazowiecki, ul. Żyrardowska 48",
+    "OOW": "Powiat Grodziski",
+    "Dofinansowanie": "12,000,000.00 zł ",
+    "Strona www": "https://www.bcugrodzisk.edu.pl/ ",
+    "Uruchomienie": "Uruchomione"
+  },
+  {
+    "name": "Logistyka",
+    "address": "opolskie Grodków, ul. Krakowska 20",
+    "description": "Województwo: opolskie<br>Adres: Grodków, ul. Krakowska 20<br>OOW: Powiat Brzeski<br>Dofinansowanie: 12,000,000.00 zł <br>Strona www: https://bcugrodkow.pl/ <br>Uruchomienie: Uruchomione",
+    "styleUrl": "#icon-1722-673AB7",
+    "Województwo": "opolskie",
+    "Adres": "Grodków, ul. Krakowska 20",
+    "OOW": "Powiat Brzeski",
+    "Dofinansowanie": "12,000,000.00 zł ",
+    "Strona www": "https://bcugrodkow.pl/ ",
+    "Uruchomienie": "Uruchomione"
+  },
+  {
+    "name": "Logistyka",
+    "address": "łódzkie Tomaszów Mazowiecki,\t97-200\tśw. Antoniego\t41",
+    "description": "Województwo: łódzkie<br>Adres: Tomaszów Mazowiecki,\t97-200\tśw. Antoniego\t41<br><br>OOW: Powiat Tomaszowski<br>Dofinansowanie: 9 111 197,00 zł<br>Strona www: <br>Uruchomienie: 2025",
+    "styleUrl": "#icon-1722-673AB7",
+    "Województwo": "łódzkie",
+    "Adres": "Tomaszów Mazowiecki,\t97-200\tśw. Antoniego\t41\n",
+    "OOW": "Powiat Tomaszowski",
+    "Dofinansowanie": "9 111 197,00 zł",
+    "Strona www": null,
+    "Uruchomienie": "2025"
+  }
+]

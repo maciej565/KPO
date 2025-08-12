@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek gminny nr 2 w Żelkowie-Kolonii",
+    "address": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202<br>adres: Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202<br>Województwo: Mazowieckie<br>Powiat: Siedlecki<br>Miejscowość: Żelków-Kolonia<br>Kod pocztowy: 08-110<br>Ulica: Siedlecka<br>Numer: 202",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Siedlecki\nMiejscowość: Żelków-Kolonia\nKod pocztowy: 08-110\nUlica: Siedlecka\nNumer: 202",
+    "adres": "Mazowieckie Siedlecki Żelków-Kolonia 08-110 Siedlecka 202",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Siedlecki",
+    "Miejscowość": "Żelków-Kolonia",
+    "Kod pocztowy": "08-110",
+    "Ulica": "Siedlecka",
+    "Numer": "202"
+  },
+  {
+    "name": "Gminny Żłobek w Łazach Dębowieckich",
+    "address": "Podkarpackie Jasielski Łazy Dębowieckie 38-220 Łazy Dębowieckie 202",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Jasielski<br>Miejscowość: Łazy Dębowieckie<br>Kod pocztowy: 38-220<br>Ulica: Łazy Dębowieckie<br>Numer: 202<br>adres: Podkarpackie Jasielski Łazy Dębowieckie 38-220 Łazy Dębowieckie 202<br>Województwo: Podkarpackie<br>Powiat: Jasielski<br>Miejscowość: Łazy Dębowieckie<br>Kod pocztowy: 38-220<br>Ulica: Łazy Dębowieckie<br>Numer: 202",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Jasielski\nMiejscowość: Łazy Dębowieckie\nKod pocztowy: 38-220\nUlica: Łazy Dębowieckie\nNumer: 202",
+    "adres": "Podkarpackie Jasielski Łazy Dębowieckie 38-220 Łazy Dębowieckie 202",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Jasielski",
+    "Miejscowość": "Łazy Dębowieckie",
+    "Kod pocztowy": "38-220",
+    "Ulica": "Łazy Dębowieckie",
+    "Numer": "202"
+  }
+]

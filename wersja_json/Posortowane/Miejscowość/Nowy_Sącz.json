@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Żłobek Miejski Nr 2",
+    "address": "Małopolskie Nowy Sącz Nowy Sącz 33-300 Podhalańska 38",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowy Sącz<br>Miejscowość: Nowy Sącz<br>Kod pocztowy: 33-300<br>Ulica: Podhalańska<br>Numer: 38<br>adres: Małopolskie Nowy Sącz Nowy Sącz 33-300 Podhalańska 38<br>Województwo: Małopolskie<br>Powiat: Nowy Sącz<br>Miejscowość: Nowy Sącz<br>Kod pocztowy: 33-300<br>Ulica: Podhalańska<br>Numer: 38",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowy Sącz\nMiejscowość: Nowy Sącz\nKod pocztowy: 33-300\nUlica: Podhalańska\nNumer: 38",
+    "adres": "Małopolskie Nowy Sącz Nowy Sącz 33-300 Podhalańska 38",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowy Sącz",
+    "Miejscowość": "Nowy Sącz",
+    "Kod pocztowy": "33-300",
+    "Ulica": "Podhalańska",
+    "Numer": "38"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą ładowania do obsługi zeroemisyjnego transportu miejskiego w Nowym Sączu",
+    "address": "Stanisława Wyspiańskiego 22 33-310 Nowy Sącz",
+    "description": "Ulica: Stanisława Wyspiańskiego<br>Numer: 22<br>Kod pocztowy: 33-310<br>Miejscowość: Nowy Sącz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer": "22",
+    "Kod pocztowy": "33-310",
+    "Miejscowość": "Nowy Sącz"
+  },
+  {
+    "name": "Zakup autobusów niskoemisyjnych do obsługi linii pozamiejskich Powiatu Limanowskiego",
+    "address": "Klasztorna 28 33-300 Nowy Sącz",
+    "description": "Ulica: Klasztorna<br>Numer: 28<br>Kod pocztowy: 33-300<br>Miejscowość: Nowy Sącz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Klasztorna",
+    "Numer": "28",
+    "Kod pocztowy": "33-300",
+    "Miejscowość": "Nowy Sącz"
+  }
+]

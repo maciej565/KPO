@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Oddział Żłobka Miejskiego w Katowicach",
+    "address": "Śląskie Katowice Katowice 40-164 Ordona 3A",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Katowice<br>Miejscowość: Katowice<br>Kod pocztowy: 40-164<br>Ulica: Ordona<br>Numer: 3A<br>adres: Śląskie Katowice Katowice 40-164 Ordona 3A<br>Województwo: Śląskie<br>Powiat: Katowice<br>Miejscowość: Katowice<br>Kod pocztowy: 40-164<br>Ulica: Ordona<br>Numer: 3A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Katowice\nMiejscowość: Katowice\nKod pocztowy: 40-164\nUlica: Ordona\nNumer: 3A",
+    "adres": "Śląskie Katowice Katowice 40-164 Ordona 3A",
+    "Województwo": "Śląskie",
+    "Powiat": "Katowice",
+    "Miejscowość": "Katowice",
+    "Kod pocztowy": "40-164",
+    "Ulica": "Ordona",
+    "Numer": "3A"
+  },
+  {
+    "name": "Żłobek Dominionki",
+    "address": "Wielkopolskie Średzki Dominowo 63-012 Centralna 3A",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Średzki<br>Miejscowość: Dominowo<br>Kod pocztowy: 63-012<br>Ulica: Centralna<br>Numer: 3A<br>adres: Wielkopolskie Średzki Dominowo 63-012 Centralna 3A<br>Województwo: Wielkopolskie<br>Powiat: Średzki<br>Miejscowość: Dominowo<br>Kod pocztowy: 63-012<br>Ulica: Centralna<br>Numer: 3A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Średzki\nMiejscowość: Dominowo\nKod pocztowy: 63-012\nUlica: Centralna\nNumer: 3A",
+    "adres": "Wielkopolskie Średzki Dominowo 63-012 Centralna 3A",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Średzki",
+    "Miejscowość": "Dominowo",
+    "Kod pocztowy": "63-012",
+    "Ulica": "Centralna",
+    "Numer": "3A"
+  },
+  {
+    "name": "Klub dziecięcy w Gminie Kwilcz",
+    "address": "Wielkopolskie Międzychodzki Kwilcz 64-420 Krańcowa 3A",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Międzychodzki<br>Miejscowość: Kwilcz<br>Kod pocztowy: 64-420<br>Ulica: Krańcowa<br>Numer: 3A<br>adres: Wielkopolskie Międzychodzki Kwilcz 64-420 Krańcowa 3A<br>Województwo: Wielkopolskie<br>Powiat: Międzychodzki<br>Miejscowość: Kwilcz<br>Kod pocztowy: 64-420<br>Ulica: Krańcowa<br>Numer: 3A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Międzychodzki\nMiejscowość: Kwilcz\nKod pocztowy: 64-420\nUlica: Krańcowa\nNumer: 3A",
+    "adres": "Wielkopolskie Międzychodzki Kwilcz 64-420 Krańcowa 3A",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Międzychodzki",
+    "Miejscowość": "Kwilcz",
+    "Kod pocztowy": "64-420",
+    "Ulica": "Krańcowa",
+    "Numer": "3A"
+  },
+  {
+    "name": "ŻŁOBEK KRASNOLUDEK",
+    "address": "Zachodniopomorskie Drawski Złocieniec 78-520 Czaplinecka 3A",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Drawski<br>Miejscowość: Złocieniec<br>Kod pocztowy: 78-520<br>Ulica: Czaplinecka<br>Numer: 3A<br>adres: Zachodniopomorskie Drawski Złocieniec 78-520 Czaplinecka 3A<br>Województwo: Zachodniopomorskie<br>Powiat: Drawski<br>Miejscowość: Złocieniec<br>Kod pocztowy: 78-520<br>Ulica: Czaplinecka<br>Numer: 3A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Drawski\nMiejscowość: Złocieniec\nKod pocztowy: 78-520\nUlica: Czaplinecka\nNumer: 3A",
+    "adres": "Zachodniopomorskie Drawski Złocieniec 78-520 Czaplinecka 3A",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Drawski",
+    "Miejscowość": "Złocieniec",
+    "Kod pocztowy": "78-520",
+    "Ulica": "Czaplinecka",
+    "Numer": "3A"
+  }
+]

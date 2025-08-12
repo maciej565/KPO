@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rozbudowa drogi krajowej nr 15 w m. Kwieciszewo",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: mogileński<br>Gmina: Mogilno<br>Ilość: 1<br>Współrzędne: 52.621555360405985, 18.041820401284376",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "mogileński",
+    "Gmina": "Mogilno",
+    "Ilość": "1.0",
+    "Współrzędne": "52.621555360405985, 18.041820401284376"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK15 na odc. Wylatowo-Strzelno",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: mogileński<br>Gmina: Mogilno<br>Ilość: <br>Współrzędne: 52.6206957, 18.0511118",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "mogileński",
+    "Gmina": "Mogilno",
+    "Ilość": null,
+    "Współrzędne": "52.6206957, 18.0511118"
+  },
+  {
+    "name": "Rozbudowa układu skrzyżowań DK15 i DK25 w miejscowości Strzelno - poprawa bezpieczeństwa ruchu drogowego w ramach PBDK - Program Likwidacji Miejsc Niebezpiecznych",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: mogileński<br>Gmina: Strzelno<br>Ilość: <br>Współrzędne: 52.62778578308796, 18.171661356244183",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "mogileński",
+    "Gmina": "Strzelno",
+    "Ilość": null,
+    "Współrzędne": "52.62778578308796, 18.171661356244183"
+  }
+]

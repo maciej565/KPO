@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Klub Dziecięcy \"Strzemięcin\"",
+    "address": "Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Grudziądz<br>Miejscowość: Grudziądz<br>Kod pocztowy: 86-300<br>Ulica: Janusza Korczaka<br>Numer: 21<br>adres: Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Grudziądz<br>Miejscowość: Grudziądz<br>Kod pocztowy: 86-300<br>Ulica: Janusza Korczaka<br>Numer: 21",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Grudziądz\nMiejscowość: Grudziądz\nKod pocztowy: 86-300\nUlica: Janusza Korczaka\nNumer: 21",
+    "adres": "Kujawsko-Pomorskie Grudziądz Grudziądz 86-300 Janusza Korczaka 21",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Grudziądz",
+    "Miejscowość": "Grudziądz",
+    "Kod pocztowy": "86-300",
+    "Ulica": "Janusza Korczaka",
+    "Numer": "21"
+  },
+  {
+    "name": "Rozbudowa oraz przebudowa zabytkowego budynku byłej pastorówki wraz ze zmianą sposobu użytkowania na budynek użyteczności publicznej – filii Gminnego Ośrodka Kultury i Sportu w Małym Rudniku",
+    "address": "KUJAWSKO-POMORSKIE Grudziądz 86-300 J. Wybickiego",
+    "description": "Podmiot: Gmina Grudziądz<br>Miejsce realizacji – województwo: KUJAWSKO-POMORSKIE<br>Miejscowość: Grudziądz<br>Kod pocztowy: 86-300<br>Ulica: J. Wybickiego<br>Numer budynku: 38",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Grudziądz",
+    "Miejsce realizacji – województwo": "KUJAWSKO-POMORSKIE",
+    "Miejscowość": "Grudziądz",
+    "Kod pocztowy": "86-300",
+    "Ulica": "J. Wybickiego",
+    "Numer budynku": "38"
+  },
+  {
+    "name": "Zakup 5 autobusów elektrycznych wraz z infrastrukturą do obsługi bezemisyjnego transportu miejskiego w Grudziądzu",
+    "address": "Dworcowa 47 86-300 Grudziądz",
+    "description": "Ulica: Dworcowa<br>Numer: 47<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Dworcowa",
+    "Numer": "47",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  },
+  {
+    "name": "Zakup i dostawa 2 szt. nowych zeroemisyjnych (elektrycznych) autobusów wraz z infrastrukturą do ładowania dla publicznego transportu zbiorowego dla Powiatu Grudziądzkiego. Etap II.",
+    "address": "Małomłyńska 1 86-300 Grudziądz",
+    "description": "Ulica: Małomłyńska<br>Numer: 1<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Małomłyńska",
+    "Numer": "1",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  },
+  {
+    "name": "Zakup i dostawa 5 szt. nowych niskoemisyjnych autobusów dla publicznego transportu zbiorowego na terenie Powiatu Grudziądzkiego. Etap I.",
+    "address": "Małomłyńska 1 86-300 Grudziądz",
+    "description": "Ulica: Małomłyńska<br>Numer: 1<br>Kod pocztowy: 86-300<br>Miejscowość: Grudziądz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Małomłyńska",
+    "Numer": "1",
+    "Kod pocztowy": "86-300",
+    "Miejscowość": "Grudziądz"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Poprawa bezpieczeństwa ruchu drogowego DK25 w miejscowości Niechorz w ramach PBID",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: sępoleński<br>Gmina: Sępólno Krajeńskie<br>Ilość: 1<br>Współrzędne: 53.4378185610264, 17.60697968726311",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "sępoleński",
+    "Gmina": "Sępólno Krajeńskie",
+    "Ilość": "1.0",
+    "Współrzędne": "53.4378185610264, 17.60697968726311"
+  },
+  {
+    "name": "Poprawa bezpieczeństwa ruchu drogowego na przejściach dla pieszych z podziałem na części: Część 1. Na DK25 w m. Sępólno Krajeńskie",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: sępoleński<br>Gmina: Sępólno Krajeńskie<br>Ilość: 1<br>Współrzędne: 53.44776875221669, 17.52827136430502",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "sępoleński",
+    "Gmina": "Sępólno Krajeńskie",
+    "Ilość": "1.0",
+    "Współrzędne": "53.44776875221669, 17.52827136430502"
+  },
+  {
+    "name": "Poprawa bezpieczeństwa ruchu drogowego na przejściach dla pieszych z podziałem na części: Część 1. Na DK25 w m.  Przepałkowo",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: sępoleński<br>Gmina: Sośno<br>Ilość: 1<br>Współrzędne: 53.443140044350145, 17.662614859925302",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "sępoleński",
+    "Gmina": "Sośno",
+    "Ilość": "1.0",
+    "Współrzędne": "53.443140044350145, 17.662614859925302"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Utworzenie Żłobka Gminnego na 30 miejsc opieki nad dziećmi w wieku do 3 lat w Świeradowie-Zdroju przy ul. Piłsudskiego 5a",
+    "address": "Dolnośląskie Lubański Świeradów-Zdrój 59-850 Marszałka Józefa Piłsudskiego 5a",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Lubański<br>Miejscowość: Świeradów-Zdrój<br>Kod pocztowy: 59-850<br>Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 5a<br>adres: Dolnośląskie Lubański Świeradów-Zdrój 59-850 Marszałka Józefa Piłsudskiego 5a<br>Województwo: Dolnośląskie<br>Powiat: Lubański<br>Miejscowość: Świeradów-Zdrój<br>Kod pocztowy: 59-850<br>Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 5a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Lubański\nMiejscowość: Świeradów-Zdrój\nKod pocztowy: 59-850\nUlica: Marszałka Józefa Piłsudskiego\nNumer: 5a",
+    "adres": "Dolnośląskie Lubański Świeradów-Zdrój 59-850 Marszałka Józefa Piłsudskiego 5a",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Lubański",
+    "Miejscowość": "Świeradów-Zdrój",
+    "Kod pocztowy": "59-850",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Numer": "5a"
+  },
+  {
+    "name": "Żłobek w Żelechowie",
+    "address": "Mazowieckie Garwoliński Żelechów 08-430 Marszałka Józefa Piłsudskiego 49",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Garwoliński<br>Miejscowość: Żelechów<br>Kod pocztowy: 08-430<br>Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 49<br>adres: Mazowieckie Garwoliński Żelechów 08-430 Marszałka Józefa Piłsudskiego 49<br>Województwo: Mazowieckie<br>Powiat: Garwoliński<br>Miejscowość: Żelechów<br>Kod pocztowy: 08-430<br>Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 49",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Garwoliński\nMiejscowość: Żelechów\nKod pocztowy: 08-430\nUlica: Marszałka Józefa Piłsudskiego\nNumer: 49",
+    "adres": "Mazowieckie Garwoliński Żelechów 08-430 Marszałka Józefa Piłsudskiego 49",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Garwoliński",
+    "Miejscowość": "Żelechów",
+    "Kod pocztowy": "08-430",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Numer": "49"
+  },
+  {
+    "name": "Kompleksowa termomodernizacja obiektów szkolnych na terenie Gminy Sławno",
+    "address": "Marszałka Józefa Piłsudskiego 26-332 Sławno ŁÓDZKIE 3,964,011.20 zł",
+    "description": "Nazwa podmiotu: Gmina Sławno<br>Ulica: Marszałka Józefa Piłsudskiego<br>Nr budynku: 31<br>Kod pocztowy: 26-332<br>Miejscowość: Sławno<br>Województwo: ŁÓDZKIE<br>Dofinansowanie: 3,964,011.20 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Sławno",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Nr budynku": "31",
+    "Kod pocztowy": "26-332",
+    "Miejscowość": "Sławno",
+    "Województwo": "ŁÓDZKIE",
+    "Dofinansowanie": "3,964,011.20 zł"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Gminy Nysa i Gminy Otmuchów poprzez zakup 15 autobusów niskoemisyjnych",
+    "address": "Marszałka Józefa Piłsudskiego 59 48-303 Nysa",
+    "description": "Ulica: Marszałka Józefa Piłsudskiego<br>Numer: 59<br>Kod pocztowy: 48-303<br>Miejscowość: Nysa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Marszałka Józefa Piłsudskiego",
+    "Numer": "59",
+    "Kod pocztowy": "48-303",
+    "Miejscowość": "Nysa"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Żłobek",
+    "address": "Kujawsko-Pomorskie Lipnowski Wielgie 87-603 Szkolna 5",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Wielgie<br>Kod pocztowy: 87-603<br>Ulica: Szkolna<br>Numer: 5<br>adres: Kujawsko-Pomorskie Lipnowski Wielgie 87-603 Szkolna 5<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Wielgie<br>Kod pocztowy: 87-603<br>Ulica: Szkolna<br>Numer: 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Lipnowski\nMiejscowość: Wielgie\nKod pocztowy: 87-603\nUlica: Szkolna\nNumer: 5",
+    "adres": "Kujawsko-Pomorskie Lipnowski Wielgie 87-603 Szkolna 5",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Lipnowski",
+    "Miejscowość": "Wielgie",
+    "Kod pocztowy": "87-603",
+    "Ulica": "Szkolna",
+    "Numer": "5"
+  },
+  {
+    "name": "Klub Dziecięcy w Tłuchowie",
+    "address": "Kujawsko-Pomorskie Lipnowski Tłuchowo 87-605 Szkolna 3",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Tłuchowo<br>Kod pocztowy: 87-605<br>Ulica: Szkolna<br>Numer: 3<br>adres: Kujawsko-Pomorskie Lipnowski Tłuchowo 87-605 Szkolna 3<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Tłuchowo<br>Kod pocztowy: 87-605<br>Ulica: Szkolna<br>Numer: 3",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Lipnowski\nMiejscowość: Tłuchowo\nKod pocztowy: 87-605\nUlica: Szkolna\nNumer: 3",
+    "adres": "Kujawsko-Pomorskie Lipnowski Tłuchowo 87-605 Szkolna 3",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Lipnowski",
+    "Miejscowość": "Tłuchowo",
+    "Kod pocztowy": "87-605",
+    "Ulica": "Szkolna",
+    "Numer": "3"
+  },
+  {
+    "name": "Poziomka",
+    "address": "Kujawsko-Pomorskie Lipnowski Kikół 87-620 Zboińskiego 1",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Kikół<br>Kod pocztowy: 87-620<br>Ulica: Zboińskiego<br>Numer: 1<br>adres: Kujawsko-Pomorskie Lipnowski Kikół 87-620 Zboińskiego 1<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Kikół<br>Kod pocztowy: 87-620<br>Ulica: Zboińskiego<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Lipnowski\nMiejscowość: Kikół\nKod pocztowy: 87-620\nUlica: Zboińskiego\nNumer: 1",
+    "adres": "Kujawsko-Pomorskie Lipnowski Kikół 87-620 Zboińskiego 1",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Lipnowski",
+    "Miejscowość": "Kikół",
+    "Kod pocztowy": "87-620",
+    "Ulica": "Zboińskiego",
+    "Numer": "1"
+  },
+  {
+    "name": "Gminny Żłobek w Wólce",
+    "address": "Kujawsko-Pomorskie Lipnowski Skępe 87-630 Skępe 133B",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Skępe<br>Kod pocztowy: 87-630<br>Ulica: Skępe<br>Numer: 133B<br>adres: Kujawsko-Pomorskie Lipnowski Skępe 87-630 Skępe 133B<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Lipnowski<br>Miejscowość: Skępe<br>Kod pocztowy: 87-630<br>Ulica: Skępe<br>Numer: 133B",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Lipnowski\nMiejscowość: Skępe\nKod pocztowy: 87-630\nUlica: Skępe\nNumer: 133B",
+    "adres": "Kujawsko-Pomorskie Lipnowski Skępe 87-630 Skępe 133B",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Lipnowski",
+    "Miejscowość": "Skępe",
+    "Kod pocztowy": "87-630",
+    "Ulica": "Skępe",
+    "Numer": "133B"
+  }
+]

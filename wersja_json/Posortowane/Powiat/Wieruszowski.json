@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Klub dziecięcy w Lututowie",
+    "address": "Łódzkie Wieruszowski Lututów 98-360 Wieruszowska 18",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Lututów<br>Kod pocztowy: 98-360<br>Ulica: Wieruszowska<br>Numer: 18<br>adres: Łódzkie Wieruszowski Lututów 98-360 Wieruszowska 18<br>Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Lututów<br>Kod pocztowy: 98-360<br>Ulica: Wieruszowska<br>Numer: 18",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Wieruszowski\nMiejscowość: Lututów\nKod pocztowy: 98-360\nUlica: Wieruszowska\nNumer: 18",
+    "adres": "Łódzkie Wieruszowski Lututów 98-360 Wieruszowska 18",
+    "Województwo": "Łódzkie",
+    "Powiat": "Wieruszowski",
+    "Miejscowość": "Lututów",
+    "Kod pocztowy": "98-360",
+    "Ulica": "Wieruszowska",
+    "Numer": "18"
+  },
+  {
+    "name": "Gminny Klub Malucha",
+    "address": "Łódzkie Wieruszowski Tyble 98-420 Tyble 50A",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Tyble<br>Kod pocztowy: 98-420<br>Ulica: Tyble<br>Numer: 50A<br>adres: Łódzkie Wieruszowski Tyble 98-420 Tyble 50A<br>Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Tyble<br>Kod pocztowy: 98-420<br>Ulica: Tyble<br>Numer: 50A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Wieruszowski\nMiejscowość: Tyble\nKod pocztowy: 98-420\nUlica: Tyble\nNumer: 50A",
+    "adres": "Łódzkie Wieruszowski Tyble 98-420 Tyble 50A",
+    "Województwo": "Łódzkie",
+    "Powiat": "Wieruszowski",
+    "Miejscowość": "Tyble",
+    "Kod pocztowy": "98-420",
+    "Ulica": "Tyble",
+    "Numer": "50A"
+  },
+  {
+    "name": "Żłobek w Bolesławcu",
+    "address": "Łódzkie Wieruszowski Bolesławiec 98-430 Szkolna",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Bolesławiec<br>Kod pocztowy: 98-430<br>Ulica: Szkolna<br>Numer:<br>adres: Łódzkie Wieruszowski Bolesławiec 98-430 Szkolna<br>Województwo: Łódzkie<br>Powiat: Wieruszowski<br>Miejscowość: Bolesławiec<br>Kod pocztowy: 98-430<br>Ulica: Szkolna<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Wieruszowski\nMiejscowość: Bolesławiec\nKod pocztowy: 98-430\nUlica: Szkolna\nNumer:",
+    "adres": "Łódzkie Wieruszowski Bolesławiec 98-430 Szkolna",
+    "Województwo": "Łódzkie",
+    "Powiat": "Wieruszowski",
+    "Miejscowość": "Bolesławiec",
+    "Kod pocztowy": "98-430",
+    "Ulica": "Szkolna",
+    "Numer": null
+  }
+]

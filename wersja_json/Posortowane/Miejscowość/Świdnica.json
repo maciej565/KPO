@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Żłobek KRASNOLUDKI",
+    "address": "Dolnośląskie Świdnicki Świdnica 58-100 Kolejowa 15",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Świdnicki<br>Miejscowość: Świdnica<br>Kod pocztowy: 58-100<br>Ulica: Kolejowa<br>Numer: 15<br>adres: Dolnośląskie Świdnicki Świdnica 58-100 Kolejowa 15<br>Województwo: Dolnośląskie<br>Powiat: Świdnicki<br>Miejscowość: Świdnica<br>Kod pocztowy: 58-100<br>Ulica: Kolejowa<br>Numer: 15",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Świdnicki\nMiejscowość: Świdnica\nKod pocztowy: 58-100\nUlica: Kolejowa\nNumer: 15",
+    "adres": "Dolnośląskie Świdnicki Świdnica 58-100 Kolejowa 15",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Świdnicki",
+    "Miejscowość": "Świdnica",
+    "Kod pocztowy": "58-100",
+    "Ulica": "Kolejowa",
+    "Numer": "15"
+  },
+  {
+    "name": "Gminny Żłobek w Świdnicy",
+    "address": "Lubuskie Zielonogórski Świdnica 66-008 Ogrodowa 36b",
+    "description": "opis: Województwo: Lubuskie<br>Powiat: Zielonogórski<br>Miejscowość: Świdnica<br>Kod pocztowy: 66-008<br>Ulica: Ogrodowa<br>Numer: 36b<br>adres: Lubuskie Zielonogórski Świdnica 66-008 Ogrodowa 36b<br>Województwo: Lubuskie<br>Powiat: Zielonogórski<br>Miejscowość: Świdnica<br>Kod pocztowy: 66-008<br>Ulica: Ogrodowa<br>Numer: 36b",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubuskie\nPowiat: Zielonogórski\nMiejscowość: Świdnica\nKod pocztowy: 66-008\nUlica: Ogrodowa\nNumer: 36b",
+    "adres": "Lubuskie Zielonogórski Świdnica 66-008 Ogrodowa 36b",
+    "Województwo": "Lubuskie",
+    "Powiat": "Zielonogórski",
+    "Miejscowość": "Świdnica",
+    "Kod pocztowy": "66-008",
+    "Ulica": "Ogrodowa",
+    "Numer": "36b"
+  },
+  {
+    "name": "Zakup 12 autobusów elektrycznych wraz z budową towarzyszącej infrastruktury ładowania pojazdów przez Gminę Miasto Świdnica na potrzeby świdnickiej komunikacji miejskiej",
+    "address": "Armii Krajowej 49 58-100 Świdnica",
+    "description": "Ulica: Armii Krajowej<br>Numer: 49<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Armii Krajowej",
+    "Numer": "49",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  },
+  {
+    "name": "Zakup 3 autobusów elektrycznych typu PN wraz z dwustanowiskową ładowarką elektryczną typu plug in na potrzeby świdnickiej komunikacji miejskiej",
+    "address": "Inżynierska 6 58-100 Świdnica",
+    "description": "Ulica: Inżynierska<br>Numer: 6<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Inżynierska",
+    "Numer": "6",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych i budowa infrastruktury ładowania przez MPK „Świdnica” Sp. z o.o.",
+    "address": "Inżynierska 6 58-100 Świdnica",
+    "description": "Ulica: Inżynierska<br>Numer: 6<br>Kod pocztowy: 58-100<br>Miejscowość: Świdnica",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Inżynierska",
+    "Numer": "6",
+    "Kod pocztowy": "58-100",
+    "Miejscowość": "Świdnica"
+  }
+]

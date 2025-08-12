@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Publiczny Żłobek w Walcach",
+    "address": "Opolskie Krapkowicki Walce 47-344 Mickiewicza 18",
+    "description": "opis: Województwo: Opolskie<br>Powiat: Krapkowicki<br>Miejscowość: Walce<br>Kod pocztowy: 47-344<br>Ulica: Mickiewicza<br>Numer: 18<br>adres: Opolskie Krapkowicki Walce 47-344 Mickiewicza 18<br>Województwo: Opolskie<br>Powiat: Krapkowicki<br>Miejscowość: Walce<br>Kod pocztowy: 47-344<br>Ulica: Mickiewicza<br>Numer: 18",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Opolskie\nPowiat: Krapkowicki\nMiejscowość: Walce\nKod pocztowy: 47-344\nUlica: Mickiewicza\nNumer: 18",
+    "adres": "Opolskie Krapkowicki Walce 47-344 Mickiewicza 18",
+    "Województwo": "Opolskie",
+    "Powiat": "Krapkowicki",
+    "Miejscowość": "Walce",
+    "Kod pocztowy": "47-344",
+    "Ulica": "Mickiewicza",
+    "Numer": "18"
+  },
+  {
+    "name": "Zakup zeroemisyjnego taboru autobusowego dla Gminy Walce",
+    "address": "Mickiewicza 18 47-344 Walce",
+    "description": "Ulica: Mickiewicza<br>Numer: 18<br>Kod pocztowy: 47-344<br>Miejscowość: Walce",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Mickiewicza",
+    "Numer": "18",
+    "Kod pocztowy": "47-344",
+    "Miejscowość": "Walce"
+  }
+]

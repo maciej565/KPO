@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Besko",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Besko<br>Ilość: 6<br>Współrzędne: 49.58691712526903, 21.954431155928464",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Besko",
+    "Ilość": "6.0",
+    "Współrzędne": "49.58691712526903, 21.954431155928464"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Zarszyn",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Zarszyn<br>Ilość: 4<br>Współrzędne: 49.58451435666833, 22.012599413460755",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Zarszyn",
+    "Ilość": "4.0",
+    "Współrzędne": "49.58451435666833, 22.012599413460755"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Długie",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Zarszyn<br>Ilość: 4<br>Współrzędne: 49.57695599582821, 22.049765542584556",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Zarszyn",
+    "Ilość": "4.0",
+    "Współrzędne": "49.57695599582821, 22.049765542584556"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Nowosielce",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Zarszyn<br>Ilość: 3<br>Współrzędne: 49.568446926774634, 22.07689213125403",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Zarszyn",
+    "Ilość": "3.0",
+    "Współrzędne": "49.568446926774634, 22.07689213125403"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Pisarowce",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Sanok<br>Ilość: 4<br>Współrzędne: 49.55740878645092, 22.097787158915178",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Sanok",
+    "Ilość": "4.0",
+    "Współrzędne": "49.55740878645092, 22.097787158915178"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Sanok",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Sanok<br>Ilość: 24<br>Współrzędne: 49.559000123293195, 22.188351859711762",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Sanok",
+    "Ilość": "24.0",
+    "Współrzędne": "49.559000123293195, 22.188351859711762"
+  },
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK28 w województwie podkarpackim w m. Tyrawa Wołoska",
+    "description": "Województwo: podkarpackie <br>Powiat: sanocki<br>Gmina: Tyrawa Wołoska<br>Ilość: 2<br>Współrzędne: 49.5767859456971, 22.369610529350116",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "podkarpackie ",
+    "Powiat": "sanocki",
+    "Gmina": "Tyrawa Wołoska",
+    "Ilość": "2.0",
+    "Współrzędne": "49.5767859456971, 22.369610529350116"
+  }
+]

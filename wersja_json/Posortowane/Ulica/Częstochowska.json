@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Klub Dziecięcy \"Dziecięcy Raj w Strzelcach Wielkich\"",
+    "address": "Łódzkie Pajęczański Strzelce Wielkie 98-337 Częstochowska 8a",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Pajęczański<br>Miejscowość: Strzelce Wielkie<br>Kod pocztowy: 98-337<br>Ulica: Częstochowska<br>Numer: 8a<br>adres: Łódzkie Pajęczański Strzelce Wielkie 98-337 Częstochowska 8a<br>Województwo: Łódzkie<br>Powiat: Pajęczański<br>Miejscowość: Strzelce Wielkie<br>Kod pocztowy: 98-337<br>Ulica: Częstochowska<br>Numer: 8a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Pajęczański\nMiejscowość: Strzelce Wielkie\nKod pocztowy: 98-337\nUlica: Częstochowska\nNumer: 8a",
+    "adres": "Łódzkie Pajęczański Strzelce Wielkie 98-337 Częstochowska 8a",
+    "Województwo": "Łódzkie",
+    "Powiat": "Pajęczański",
+    "Miejscowość": "Strzelce Wielkie",
+    "Kod pocztowy": "98-337",
+    "Ulica": "Częstochowska",
+    "Numer": "8a"
+  },
+  {
+    "name": "Termomodernizacja budynków edukacyjnych w Gminie Janów",
+    "address": "Częstochowska 42-253 Janów ŚLĄSKIE 4,671,380.00 zł",
+    "description": "Nazwa podmiotu: GMINA JANÓW<br>Ulica: Częstochowska<br>Nr budynku: 1<br>Kod pocztowy: 42-253<br>Miejscowość: Janów<br>Województwo: ŚLĄSKIE<br>Dofinansowanie: 4,671,380.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "GMINA JANÓW",
+    "Ulica": "Częstochowska",
+    "Nr budynku": "1",
+    "Kod pocztowy": "42-253",
+    "Miejscowość": "Janów",
+    "Województwo": "ŚLĄSKIE",
+    "Dofinansowanie": "4,671,380.00 zł"
+  },
+  {
+    "name": "Termomodernizacja budynków edukacyjnych w Gminie Lipie",
+    "address": "Częstochowska 42-165 Lipie ŚLĄSKIE 967,217.35 zł",
+    "description": "Nazwa podmiotu: Gmina Lipie<br>Ulica: Częstochowska<br>Nr budynku: 29<br>Kod pocztowy: 42-165<br>Miejscowość: Lipie<br>Województwo: ŚLĄSKIE<br>Dofinansowanie: 967,217.35 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Lipie",
+    "Ulica": "Częstochowska",
+    "Nr budynku": "29",
+    "Kod pocztowy": "42-165",
+    "Miejscowość": "Lipie",
+    "Województwo": "ŚLĄSKIE",
+    "Dofinansowanie": "967,217.35 zł"
+  }
+]

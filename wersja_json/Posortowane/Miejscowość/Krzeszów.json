@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Żłobek w Krzeszowie",
+    "address": "Dolnośląskie Kamiennogórski Krzeszów 58-405 Betlejemska 1B",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Kamiennogórski<br>Miejscowość: Krzeszów<br>Kod pocztowy: 58-405<br>Ulica: Betlejemska<br>Numer: 1B<br>adres: Dolnośląskie Kamiennogórski Krzeszów 58-405 Betlejemska 1B<br>Województwo: Dolnośląskie<br>Powiat: Kamiennogórski<br>Miejscowość: Krzeszów<br>Kod pocztowy: 58-405<br>Ulica: Betlejemska<br>Numer: 1B",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Kamiennogórski\nMiejscowość: Krzeszów\nKod pocztowy: 58-405\nUlica: Betlejemska\nNumer: 1B",
+    "adres": "Dolnośląskie Kamiennogórski Krzeszów 58-405 Betlejemska 1B",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Kamiennogórski",
+    "Miejscowość": "Krzeszów",
+    "Kod pocztowy": "58-405",
+    "Ulica": "Betlejemska",
+    "Numer": "1B"
+  },
+  {
+    "name": "Żłobek w Krzeszowie",
+    "address": "Podkarpackie Niżański Krzeszów 37-418 Rynek 7",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Niżański<br>Miejscowość: Krzeszów<br>Kod pocztowy: 37-418<br>Ulica: Rynek<br>Numer: 7<br>adres: Podkarpackie Niżański Krzeszów 37-418 Rynek 7<br>Województwo: Podkarpackie<br>Powiat: Niżański<br>Miejscowość: Krzeszów<br>Kod pocztowy: 37-418<br>Ulica: Rynek<br>Numer: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Niżański\nMiejscowość: Krzeszów\nKod pocztowy: 37-418\nUlica: Rynek\nNumer: 7",
+    "adres": "Podkarpackie Niżański Krzeszów 37-418 Rynek 7",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Niżański",
+    "Miejscowość": "Krzeszów",
+    "Kod pocztowy": "37-418",
+    "Ulica": "Rynek",
+    "Numer": "7"
+  },
+  {
+    "name": "Głęboka termomodernizacja budynku Gminnego Ośrodka Kultury w Krzeszowie",
+    "address": "PODKARPACKIE Krzeszów 37-418 Rynek",
+    "description": "Podmiot: Gmina Krzeszów<br>Miejsce realizacji – województwo: PODKARPACKIE<br>Miejscowość: Krzeszów<br>Kod pocztowy: 37-418<br>Ulica: Rynek<br>Numer budynku: 2",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Krzeszów",
+    "Miejsce realizacji – województwo": "PODKARPACKIE",
+    "Miejscowość": "Krzeszów",
+    "Kod pocztowy": "37-418",
+    "Ulica": "Rynek",
+    "Numer budynku": "2"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Żłobek Miejski Nr 4 w Stalowej Woli",
+    "address": "Podkarpackie Stalowowolski Stalowa Wola 37-450 Leśna",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Stalowowolski<br>Miejscowość: Stalowa Wola<br>Kod pocztowy: 37-450<br>Ulica: Leśna<br>Numer:<br>adres: Podkarpackie Stalowowolski Stalowa Wola 37-450 Leśna<br>Województwo: Podkarpackie<br>Powiat: Stalowowolski<br>Miejscowość: Stalowa Wola<br>Kod pocztowy: 37-450<br>Ulica: Leśna<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Stalowowolski\nMiejscowość: Stalowa Wola\nKod pocztowy: 37-450\nUlica: Leśna\nNumer:",
+    "adres": "Podkarpackie Stalowowolski Stalowa Wola 37-450 Leśna",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Stalowowolski",
+    "Miejscowość": "Stalowa Wola",
+    "Kod pocztowy": "37-450",
+    "Ulica": "Leśna",
+    "Numer": null
+  },
+  {
+    "name": "Modernizacja energetyczna budynku lokalnej aktywności społecznej „Ballada”, przeznaczonego na działalność Miejskiego Domu Kultury w Stalowej Woli",
+    "address": "PODKARPACKIE Stalowa Wola 37-450 Wolności",
+    "description": "Podmiot: Gmina Stalowa Wola<br>Miejsce realizacji – województwo: PODKARPACKIE<br>Miejscowość: Stalowa Wola<br>Kod pocztowy: 37-450<br>Ulica: Wolności<br>Numer budynku: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Stalowa Wola",
+    "Miejsce realizacji – województwo": "PODKARPACKIE",
+    "Miejscowość": "Stalowa Wola",
+    "Kod pocztowy": "37-450",
+    "Ulica": "Wolności",
+    "Numer budynku": "7"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Stalowej Woli",
+    "address": "Wolności 7 37-450 Stalowa Wola",
+    "description": "Ulica: Wolności<br>Numer: 7<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wolności",
+    "Numer": "7",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego w Stalowej Woli - etap II",
+    "address": "Wolności 7 37-450 Stalowa Wola",
+    "description": "Ulica: Wolności<br>Numer: 7<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wolności",
+    "Numer": "7",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi pozamiejskich linii komunikacyjnych",
+    "address": "Podleśna 15 37-450 Stalowa Wola",
+    "description": "Ulica: Podleśna<br>Numer: 15<br>Kod pocztowy: 37-450<br>Miejscowość: Stalowa Wola",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Podleśna",
+    "Numer": "15",
+    "Kod pocztowy": "37-450",
+    "Miejscowość": "Stalowa Wola"
+  }
+]

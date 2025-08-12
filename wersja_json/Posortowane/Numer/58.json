@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Żłobek „Wesołe Smyki”",
+    "address": "Łódzkie Opoczyński Drzewica 26-340 Stawowa 58",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Opoczyński<br>Miejscowość: Drzewica<br>Kod pocztowy: 26-340<br>Ulica: Stawowa<br>Numer: 58<br>adres: Łódzkie Opoczyński Drzewica 26-340 Stawowa 58<br>Województwo: Łódzkie<br>Powiat: Opoczyński<br>Miejscowość: Drzewica<br>Kod pocztowy: 26-340<br>Ulica: Stawowa<br>Numer: 58",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Opoczyński\nMiejscowość: Drzewica\nKod pocztowy: 26-340\nUlica: Stawowa\nNumer: 58",
+    "adres": "Łódzkie Opoczyński Drzewica 26-340 Stawowa 58",
+    "Województwo": "Łódzkie",
+    "Powiat": "Opoczyński",
+    "Miejscowość": "Drzewica",
+    "Kod pocztowy": "26-340",
+    "Ulica": "Stawowa",
+    "Numer": "58"
+  },
+  {
+    "name": "Żłobek Puchatek",
+    "address": "Pomorskie Sopot Sopot 81-843 Armii Krajowej 58",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Sopot<br>Miejscowość: Sopot<br>Kod pocztowy: 81-843<br>Ulica: Armii Krajowej<br>Numer: 58<br>adres: Pomorskie Sopot Sopot 81-843 Armii Krajowej 58<br>Województwo: Pomorskie<br>Powiat: Sopot<br>Miejscowość: Sopot<br>Kod pocztowy: 81-843<br>Ulica: Armii Krajowej<br>Numer: 58",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Sopot\nMiejscowość: Sopot\nKod pocztowy: 81-843\nUlica: Armii Krajowej\nNumer: 58",
+    "adres": "Pomorskie Sopot Sopot 81-843 Armii Krajowej 58",
+    "Województwo": "Pomorskie",
+    "Powiat": "Sopot",
+    "Miejscowość": "Sopot",
+    "Kod pocztowy": "81-843",
+    "Ulica": "Armii Krajowej",
+    "Numer": "58"
+  },
+  {
+    "name": "Niepubliczny Żłobek PETIT AMI 2",
+    "address": "Śląskie Częstochowa Częstochowa 42-218 gen. Leopolda Okulickiego 58",
+    "description": "opis: Województwo: Śląskie<br>Powiat: Częstochowa<br>Miejscowość: Częstochowa<br>Kod pocztowy: 42-218<br>Ulica: gen. Leopolda Okulickiego<br>Numer: 58<br>adres: Śląskie Częstochowa Częstochowa 42-218 gen. Leopolda Okulickiego 58<br>Województwo: Śląskie<br>Powiat: Częstochowa<br>Miejscowość: Częstochowa<br>Kod pocztowy: 42-218<br>Ulica: gen. Leopolda Okulickiego<br>Numer: 58",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Śląskie\nPowiat: Częstochowa\nMiejscowość: Częstochowa\nKod pocztowy: 42-218\nUlica: gen. Leopolda Okulickiego\nNumer: 58",
+    "adres": "Śląskie Częstochowa Częstochowa 42-218 gen. Leopolda Okulickiego 58",
+    "Województwo": "Śląskie",
+    "Powiat": "Częstochowa",
+    "Miejscowość": "Częstochowa",
+    "Kod pocztowy": "42-218",
+    "Ulica": "gen. Leopolda Okulickiego",
+    "Numer": "58"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych i budowa infrastruktury ładowania w Jeleniej Górze",
+    "address": "pl. Plac Ratuszowy 58 58-500 Jelenia Góra",
+    "description": "Ulica: pl. Plac Ratuszowy<br>Numer: 58<br>Kod pocztowy: 58-500<br>Miejscowość: Jelenia Góra",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "pl. Plac Ratuszowy",
+    "Numer": "58",
+    "Kod pocztowy": "58-500",
+    "Miejscowość": "Jelenia Góra"
+  },
+  {
+    "name": "Ograniczenie emisji zanieczyszczeń przez transport miejski w Warszawie poprzez wymianę autobusów spalinowych na autobusy o napędzie elektrycznym",
+    "address": "Włościańska 58 01-710 Warszawa",
+    "description": "Ulica: Włościańska<br>Numer: 58<br>Kod pocztowy: 01-710<br>Miejscowość: Warszawa",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Włościańska",
+    "Numer": "58",
+    "Kod pocztowy": "01-710",
+    "Miejscowość": "Warszawa"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Klub Dziecięcy Wojska Polskiego",
+    "address": "Zachodniopomorskie Szczecin Szczecin 70-484 Aleja Wojska Polskiego 96",
+    "description": "opis: Województwo: Zachodniopomorskie<br>Powiat: Szczecin<br>Miejscowość: Szczecin<br>Kod pocztowy: 70-484<br>Ulica: Aleja Wojska Polskiego<br>Numer: 96<br>adres: Zachodniopomorskie Szczecin Szczecin 70-484 Aleja Wojska Polskiego 96<br>Województwo: Zachodniopomorskie<br>Powiat: Szczecin<br>Miejscowość: Szczecin<br>Kod pocztowy: 70-484<br>Ulica: Aleja Wojska Polskiego<br>Numer: 96",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Zachodniopomorskie\nPowiat: Szczecin\nMiejscowość: Szczecin\nKod pocztowy: 70-484\nUlica: Aleja Wojska Polskiego\nNumer: 96",
+    "adres": "Zachodniopomorskie Szczecin Szczecin 70-484 Aleja Wojska Polskiego 96",
+    "Województwo": "Zachodniopomorskie",
+    "Powiat": "Szczecin",
+    "Miejscowość": "Szczecin",
+    "Kod pocztowy": "70-484",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "96"
+  },
+  {
+    "name": "Zintegrowane działania na rzecz rozwoju zeroemisyjnego transportu publicznego w mieście Żory",
+    "address": "Aleja Wojska Polskiego 25 44-240 Żory",
+    "description": "Ulica: Aleja Wojska Polskiego<br>Numer: 25<br>Kod pocztowy: 44-240<br>Miejscowość: Żory",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "25",
+    "Kod pocztowy": "44-240",
+    "Miejscowość": "Żory"
+  },
+  {
+    "name": "Poprawa mobilności na terenie Powiatu Człuchowskiego poprzez zakup autobusów niskoemisyjnych",
+    "address": "Aleja Wojska Polskiego 1 77-300 Człuchów",
+    "description": "Ulica: Aleja Wojska Polskiego<br>Numer: 1<br>Kod pocztowy: 77-300<br>Miejscowość: Człuchów",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Aleja Wojska Polskiego",
+    "Numer": "1",
+    "Kod pocztowy": "77-300",
+    "Miejscowość": "Człuchów"
+  }
+]

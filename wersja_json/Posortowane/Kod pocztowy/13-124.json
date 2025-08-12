@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Żłobek Tuliś",
+    "address": "Warmińsko-Mazurskie Nidzicki Kozłowo 13-124 Szkolna 6",
+    "description": "opis: Województwo: Warmińsko-Mazurskie<br>Powiat: Nidzicki<br>Miejscowość: Kozłowo<br>Kod pocztowy: 13-124<br>Ulica: Szkolna<br>Numer: 6<br>adres: Warmińsko-Mazurskie Nidzicki Kozłowo 13-124 Szkolna 6<br>Województwo: Warmińsko-Mazurskie<br>Powiat: Nidzicki<br>Miejscowość: Kozłowo<br>Kod pocztowy: 13-124<br>Ulica: Szkolna<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Warmińsko-Mazurskie\nPowiat: Nidzicki\nMiejscowość: Kozłowo\nKod pocztowy: 13-124\nUlica: Szkolna\nNumer: 6",
+    "adres": "Warmińsko-Mazurskie Nidzicki Kozłowo 13-124 Szkolna 6",
+    "Województwo": "Warmińsko-Mazurskie",
+    "Powiat": "Nidzicki",
+    "Miejscowość": "Kozłowo",
+    "Kod pocztowy": "13-124",
+    "Ulica": "Szkolna",
+    "Numer": "6"
+  },
+  {
+    "name": "Termomodernizacja Szkoły Podstawowej w Szkotowie, Rogożu i Zaborowie",
+    "address": "Mazurska 13-124 Kozłowo WARMIŃSKO-MAZURSKIE 4,558,652.00 zł",
+    "description": "Nazwa podmiotu: Gmina Kozłowo<br>Ulica: Mazurska<br>Nr budynku: 3<br>Kod pocztowy: 13-124<br>Miejscowość: Kozłowo<br>Województwo: WARMIŃSKO-MAZURSKIE<br>Dofinansowanie: 4,558,652.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Kozłowo",
+    "Ulica": "Mazurska",
+    "Nr budynku": "3",
+    "Kod pocztowy": "13-124",
+    "Miejscowość": "Kozłowo",
+    "Województwo": "WARMIŃSKO-MAZURSKIE",
+    "Dofinansowanie": "4,558,652.00 zł"
+  }
+]

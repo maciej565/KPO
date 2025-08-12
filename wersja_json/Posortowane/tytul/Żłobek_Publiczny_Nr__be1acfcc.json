@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Żłobek Publiczny Nr 1",
+    "address": "Dolnośląskie Bolesławiecki Bolesławiec 59-700 Zygmunta Augusta 16b",
+    "description": "opis: Województwo: Dolnośląskie<br>Powiat: Bolesławiecki<br>Miejscowość: Bolesławiec<br>Kod pocztowy: 59-700<br>Ulica: Zygmunta Augusta<br>Numer: 16b<br>adres: Dolnośląskie Bolesławiecki Bolesławiec 59-700 Zygmunta Augusta 16b<br>Województwo: Dolnośląskie<br>Powiat: Bolesławiecki<br>Miejscowość: Bolesławiec<br>Kod pocztowy: 59-700<br>Ulica: Zygmunta Augusta<br>Numer: 16b",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Dolnośląskie\nPowiat: Bolesławiecki\nMiejscowość: Bolesławiec\nKod pocztowy: 59-700\nUlica: Zygmunta Augusta\nNumer: 16b",
+    "adres": "Dolnośląskie Bolesławiecki Bolesławiec 59-700 Zygmunta Augusta 16b",
+    "Województwo": "Dolnośląskie",
+    "Powiat": "Bolesławiecki",
+    "Miejscowość": "Bolesławiec",
+    "Kod pocztowy": "59-700",
+    "Ulica": "Zygmunta Augusta",
+    "Numer": "16b"
+  },
+  {
+    "name": "Żłobek Publiczny Nr 1",
+    "address": "Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Bydgoski<br>Miejscowość: Osielsko<br>Kod pocztowy: 86-031<br>Ulica: Bałtycka<br>Numer: 21A<br>adres: Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Bydgoski<br>Miejscowość: Osielsko<br>Kod pocztowy: 86-031<br>Ulica: Bałtycka<br>Numer: 21A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Bydgoski\nMiejscowość: Osielsko\nKod pocztowy: 86-031\nUlica: Bałtycka\nNumer: 21A",
+    "adres": "Kujawsko-Pomorskie Bydgoski Osielsko 86-031 Bałtycka 21A",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Bydgoski",
+    "Miejscowość": "Osielsko",
+    "Kod pocztowy": "86-031",
+    "Ulica": "Bałtycka",
+    "Numer": "21A"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gminny Klub Dziecięcy \"Brzdąc\" w Janowie Podlaskim",
+    "address": "Lubelskie Bialski Janów Podlaski 21-505 Marii Konopnickiej 5A",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Janów Podlaski<br>Kod pocztowy: 21-505<br>Ulica: Marii Konopnickiej<br>Numer: 5A<br>adres: Lubelskie Bialski Janów Podlaski 21-505 Marii Konopnickiej 5A<br>Województwo: Lubelskie<br>Powiat: Bialski<br>Miejscowość: Janów Podlaski<br>Kod pocztowy: 21-505<br>Ulica: Marii Konopnickiej<br>Numer: 5A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Bialski\nMiejscowość: Janów Podlaski\nKod pocztowy: 21-505\nUlica: Marii Konopnickiej\nNumer: 5A",
+    "adres": "Lubelskie Bialski Janów Podlaski 21-505 Marii Konopnickiej 5A",
+    "Województwo": "Lubelskie",
+    "Powiat": "Bialski",
+    "Miejscowość": "Janów Podlaski",
+    "Kod pocztowy": "21-505",
+    "Ulica": "Marii Konopnickiej",
+    "Numer": "5A"
+  },
+  {
+    "name": "Żłobek w Goszczanowie",
+    "address": "Łódzkie Sieradzki Goszczanów 98-215 Kaliska 5A",
+    "description": "opis: Województwo: Łódzkie<br>Powiat: Sieradzki<br>Miejscowość: Goszczanów<br>Kod pocztowy: 98-215<br>Ulica: Kaliska<br>Numer: 5A<br>adres: Łódzkie Sieradzki Goszczanów 98-215 Kaliska 5A<br>Województwo: Łódzkie<br>Powiat: Sieradzki<br>Miejscowość: Goszczanów<br>Kod pocztowy: 98-215<br>Ulica: Kaliska<br>Numer: 5A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Łódzkie\nPowiat: Sieradzki\nMiejscowość: Goszczanów\nKod pocztowy: 98-215\nUlica: Kaliska\nNumer: 5A",
+    "adres": "Łódzkie Sieradzki Goszczanów 98-215 Kaliska 5A",
+    "Województwo": "Łódzkie",
+    "Powiat": "Sieradzki",
+    "Miejscowość": "Goszczanów",
+    "Kod pocztowy": "98-215",
+    "Ulica": "Kaliska",
+    "Numer": "5A"
+  },
+  {
+    "name": "Żłobek Samorządowy w Łącku",
+    "address": "Mazowieckie Płocki Łąck 09-520 Kolejowa 5A",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Płocki<br>Miejscowość: Łąck<br>Kod pocztowy: 09-520<br>Ulica: Kolejowa<br>Numer: 5A<br>adres: Mazowieckie Płocki Łąck 09-520 Kolejowa 5A<br>Województwo: Mazowieckie<br>Powiat: Płocki<br>Miejscowość: Łąck<br>Kod pocztowy: 09-520<br>Ulica: Kolejowa<br>Numer: 5A",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Płocki\nMiejscowość: Łąck\nKod pocztowy: 09-520\nUlica: Kolejowa\nNumer: 5A",
+    "adres": "Mazowieckie Płocki Łąck 09-520 Kolejowa 5A",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Płocki",
+    "Miejscowość": "Łąck",
+    "Kod pocztowy": "09-520",
+    "Ulica": "Kolejowa",
+    "Numer": "5A"
+  }
+]

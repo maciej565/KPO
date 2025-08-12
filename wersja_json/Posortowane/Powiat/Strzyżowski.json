@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Żłobek w Strzyżowie",
+    "address": "Podkarpackie Strzyżowski Strzyżów 38-100 Strzyżów",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Strzyżów<br>Kod pocztowy: 38-100<br>Ulica: Strzyżów<br>Numer:<br>adres: Podkarpackie Strzyżowski Strzyżów 38-100 Strzyżów<br>Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Strzyżów<br>Kod pocztowy: 38-100<br>Ulica: Strzyżów<br>Numer: ",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Strzyżowski\nMiejscowość: Strzyżów\nKod pocztowy: 38-100\nUlica: Strzyżów\nNumer:",
+    "adres": "Podkarpackie Strzyżowski Strzyżów 38-100 Strzyżów",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Strzyżowski",
+    "Miejscowość": "Strzyżów",
+    "Kod pocztowy": "38-100",
+    "Ulica": "Strzyżów",
+    "Numer": null
+  },
+  {
+    "name": "Żłobek Samorządowy w Niebylcu",
+    "address": "Podkarpackie Strzyżowski Niebylec 38-114 Niebylec 217",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Niebylec<br>Kod pocztowy: 38-114<br>Ulica: Niebylec<br>Numer: 217<br>adres: Podkarpackie Strzyżowski Niebylec 38-114 Niebylec 217<br>Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Niebylec<br>Kod pocztowy: 38-114<br>Ulica: Niebylec<br>Numer: 217",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Strzyżowski\nMiejscowość: Niebylec\nKod pocztowy: 38-114\nUlica: Niebylec\nNumer: 217",
+    "adres": "Podkarpackie Strzyżowski Niebylec 38-114 Niebylec 217",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Strzyżowski",
+    "Miejscowość": "Niebylec",
+    "Kod pocztowy": "38-114",
+    "Ulica": "Niebylec",
+    "Numer": "217"
+  },
+  {
+    "name": "Publiczny Żłobek w Czudcu Oddział Babica",
+    "address": "Podkarpackie Strzyżowski Babica 38-120 Babica 102",
+    "description": "opis: Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Babica<br>Kod pocztowy: 38-120<br>Ulica: Babica<br>Numer: 102<br>adres: Podkarpackie Strzyżowski Babica 38-120 Babica 102<br>Województwo: Podkarpackie<br>Powiat: Strzyżowski<br>Miejscowość: Babica<br>Kod pocztowy: 38-120<br>Ulica: Babica<br>Numer: 102",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Podkarpackie\nPowiat: Strzyżowski\nMiejscowość: Babica\nKod pocztowy: 38-120\nUlica: Babica\nNumer: 102",
+    "adres": "Podkarpackie Strzyżowski Babica 38-120 Babica 102",
+    "Województwo": "Podkarpackie",
+    "Powiat": "Strzyżowski",
+    "Miejscowość": "Babica",
+    "Kod pocztowy": "38-120",
+    "Ulica": "Babica",
+    "Numer": "102"
+  }
+]

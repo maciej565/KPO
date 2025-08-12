@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Termomodernizacja budynku Regionalnego Ośrodka Kultury i Sportu w Krzczonowie",
+    "address": "LUBELSKIE Krzczonów 23-110",
+    "description": "Podmiot: Gmina Krzczonów<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Krzczonów<br>Kod pocztowy: 23-110<br>Ulica: <br>Numer budynku: 7",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Krzczonów",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Krzczonów",
+    "Kod pocztowy": "23-110",
+    "Ulica": null,
+    "Numer budynku": "7"
+  },
+  {
+    "name": "Termomodernizacja Szkoły Podstawowej im. Stanisława Staszica w Krzczonowie",
+    "address": "Spokojna 23-110 Krzczonów LUBELSKIE 3,518,565.00 zł",
+    "description": "Nazwa podmiotu: Gmina Krzczonów<br>Ulica: Spokojna<br>Nr budynku: 7<br>Kod pocztowy: 23-110<br>Miejscowość: Krzczonów<br>Województwo: LUBELSKIE<br>Dofinansowanie: 3,518,565.00 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Krzczonów",
+    "Ulica": "Spokojna",
+    "Nr budynku": "7",
+    "Kod pocztowy": "23-110",
+    "Miejscowość": "Krzczonów",
+    "Województwo": "LUBELSKIE",
+    "Dofinansowanie": "3,518,565.00 zł"
+  }
+]

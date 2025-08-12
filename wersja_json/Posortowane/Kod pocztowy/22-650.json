@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Żłobek Klasa Bobasa",
+    "address": "Lubelskie Tomaszowski Łaszczów 22-650 Chopina 11a",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Tomaszowski<br>Miejscowość: Łaszczów<br>Kod pocztowy: 22-650<br>Ulica: Chopina<br>Numer: 11a<br>adres: Lubelskie Tomaszowski Łaszczów 22-650 Chopina 11a<br>Województwo: Lubelskie<br>Powiat: Tomaszowski<br>Miejscowość: Łaszczów<br>Kod pocztowy: 22-650<br>Ulica: Chopina<br>Numer: 11a",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Tomaszowski\nMiejscowość: Łaszczów\nKod pocztowy: 22-650\nUlica: Chopina\nNumer: 11a",
+    "adres": "Lubelskie Tomaszowski Łaszczów 22-650 Chopina 11a",
+    "Województwo": "Lubelskie",
+    "Powiat": "Tomaszowski",
+    "Miejscowość": "Łaszczów",
+    "Kod pocztowy": "22-650",
+    "Ulica": "Chopina",
+    "Numer": "11a"
+  },
+  {
+    "name": "Modernizacja energetyczna budynku byłego kina w Łaszczowie",
+    "address": "LUBELSKIE Łaszczów 22-650 Chopina",
+    "description": "Podmiot: Gmina Łaszczów<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Łaszczów<br>Kod pocztowy: 22-650<br>Ulica: Chopina<br>Numer budynku: 14",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Łaszczów",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Łaszczów",
+    "Kod pocztowy": "22-650",
+    "Ulica": "Chopina",
+    "Numer budynku": "14"
+  },
+  {
+    "name": "Poprawa efektywności energetycznej Zespołu Szkolno-Przedszkolnego w Łaszczowie",
+    "address": "Chopina 22-650 Łaszczów LUBELSKIE 5,771,937.91 zł",
+    "description": "Nazwa podmiotu: Gmina Łaszczów<br>Ulica: Chopina<br>Nr budynku: 14<br>Kod pocztowy: 22-650<br>Miejscowość: Łaszczów<br>Województwo: LUBELSKIE<br>Dofinansowanie: 5,771,937.91 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Łaszczów",
+    "Ulica": "Chopina",
+    "Nr budynku": "14",
+    "Kod pocztowy": "22-650",
+    "Miejscowość": "Łaszczów",
+    "Województwo": "LUBELSKIE",
+    "Dofinansowanie": "5,771,937.91 zł"
+  }
+]

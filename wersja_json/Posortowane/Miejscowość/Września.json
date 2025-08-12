@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Klub Malucha we Wrześni",
+    "address": "Wielkopolskie Wrzesiński Września 62-300 Zielonogórska 2606/6 i 5",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Wrzesiński<br>Miejscowość: Września<br>Kod pocztowy: 62-300<br>Ulica: Zielonogórska<br>Numer: 2606/6 i 5<br>adres: Wielkopolskie Wrzesiński Września 62-300 Zielonogórska 2606/6 i 5<br>Województwo: Wielkopolskie<br>Powiat: Wrzesiński<br>Miejscowość: Września<br>Kod pocztowy: 62-300<br>Ulica: Zielonogórska<br>Numer: 2606/6 i 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Wrzesiński\nMiejscowość: Września\nKod pocztowy: 62-300\nUlica: Zielonogórska\nNumer: 2606/6 i 5",
+    "adres": "Wielkopolskie Wrzesiński Września 62-300 Zielonogórska 2606/6 i 5",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Wrzesiński",
+    "Miejscowość": "Września",
+    "Kod pocztowy": "62-300",
+    "Ulica": "Zielonogórska",
+    "Numer": "2606/6 i 5"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby realizacji usług z zakresu zbiorowego transportu publicznego na terenie Miasta i Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby zbiorowego transportu publicznego na terenie Miasta i Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  },
+  {
+    "name": "Zakup autobusu o napędzie elektrycznym wraz z budową infrastruktury towarzyszącej na potrzeby realizacji usług z zakresu zbiorowego transportu publicznego na terenie Gminy Września",
+    "address": "Ratuszowa 1 62-300 Września",
+    "description": "Ulica: Ratuszowa<br>Numer: 1<br>Kod pocztowy: 62-300<br>Miejscowość: Września",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Ratuszowa",
+    "Numer": "1",
+    "Kod pocztowy": "62-300",
+    "Miejscowość": "Września"
+  }
+]

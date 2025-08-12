@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Żłobek przy ul. Celulozowej",
+    "address": "Kujawsko-Pomorskie Włocławek Włocławek 87-800 Celulozowa 1",
+    "description": "opis: Województwo: Kujawsko-Pomorskie<br>Powiat: Włocławek<br>Miejscowość: Włocławek<br>Kod pocztowy: 87-800<br>Ulica: Celulozowa<br>Numer: 1<br>adres: Kujawsko-Pomorskie Włocławek Włocławek 87-800 Celulozowa 1<br>Województwo: Kujawsko-Pomorskie<br>Powiat: Włocławek<br>Miejscowość: Włocławek<br>Kod pocztowy: 87-800<br>Ulica: Celulozowa<br>Numer: 1",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Kujawsko-Pomorskie\nPowiat: Włocławek\nMiejscowość: Włocławek\nKod pocztowy: 87-800\nUlica: Celulozowa\nNumer: 1",
+    "adres": "Kujawsko-Pomorskie Włocławek Włocławek 87-800 Celulozowa 1",
+    "Województwo": "Kujawsko-Pomorskie",
+    "Powiat": "Włocławek",
+    "Miejscowość": "Włocławek",
+    "Kod pocztowy": "87-800",
+    "Ulica": "Celulozowa",
+    "Numer": "1"
+  },
+  {
+    "name": "Rozwój zeroemisyjnego transportu publicznego we Włocławku poprzez zakup zeroemisyjnego transportu wraz z niezbędną infrastrukturą - etap II",
+    "address": "Pl. Zielony Rynek 11/13 87-800 Włocławek",
+    "description": "Ulica: Pl. Zielony Rynek<br>Numer: 11/13<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Pl. Zielony Rynek",
+    "Numer": "11/13",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wraz z elementami infrastruktury technicznej i wyposażenia służących do obsługi linii pozamiejskich na terenie powiatu włocławskiego.",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wraz z elementami infrastruktury technicznej i wyposażenia służących i niezbędnych do ładowania baterii do obsługi linii pozamiejskich na terenie powiatu włocławskiego",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  },
+  {
+    "name": "Zakup niskoemisyjnych autobusów do obsługi linii pozamiejskich na terenie powiatu włocławskiego",
+    "address": "Cyganka 28 87-800 Włocławek",
+    "description": "Ulica: Cyganka<br>Numer: 28<br>Kod pocztowy: 87-800<br>Miejscowość: Włocławek",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Cyganka",
+    "Numer": "28",
+    "Kod pocztowy": "87-800",
+    "Miejscowość": "Włocławek"
+  }
+]

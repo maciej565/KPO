@@ -1,0 +1,58 @@
+[
+  {
+    "name": "żłobek",
+    "address": "Małopolskie Suski Stryszawa 34-205 Stryszawa 278F",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Stryszawa<br>Kod pocztowy: 34-205<br>Ulica: Stryszawa<br>Numer: 278F<br>adres: Małopolskie Suski Stryszawa 34-205 Stryszawa 278F<br>Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Stryszawa<br>Kod pocztowy: 34-205<br>Ulica: Stryszawa<br>Numer: 278F",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Suski\nMiejscowość: Stryszawa\nKod pocztowy: 34-205\nUlica: Stryszawa\nNumer: 278F",
+    "adres": "Małopolskie Suski Stryszawa 34-205 Stryszawa 278F",
+    "Województwo": "Małopolskie",
+    "Powiat": "Suski",
+    "Miejscowość": "Stryszawa",
+    "Kod pocztowy": "34-205",
+    "Ulica": "Stryszawa",
+    "Numer": "278F"
+  },
+  {
+    "name": "Gminny Żłobek w Zembrzyce",
+    "address": "Małopolskie Suski Zembrzyce 34-210 Zembrzyce 261",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Zembrzyce<br>Kod pocztowy: 34-210<br>Ulica: Zembrzyce<br>Numer: 261<br>adres: Małopolskie Suski Zembrzyce 34-210 Zembrzyce 261<br>Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Zembrzyce<br>Kod pocztowy: 34-210<br>Ulica: Zembrzyce<br>Numer: 261",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Suski\nMiejscowość: Zembrzyce\nKod pocztowy: 34-210\nUlica: Zembrzyce\nNumer: 261",
+    "adres": "Małopolskie Suski Zembrzyce 34-210 Zembrzyce 261",
+    "Województwo": "Małopolskie",
+    "Powiat": "Suski",
+    "Miejscowość": "Zembrzyce",
+    "Kod pocztowy": "34-210",
+    "Ulica": "Zembrzyce",
+    "Numer": "261"
+  },
+  {
+    "name": "Gminny Żłobek Budzów",
+    "address": "Małopolskie Suski Budzów 34-211 Budzów 443",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Budzów<br>Kod pocztowy: 34-211<br>Ulica: Budzów<br>Numer: 443<br>adres: Małopolskie Suski Budzów 34-211 Budzów 443<br>Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Budzów<br>Kod pocztowy: 34-211<br>Ulica: Budzów<br>Numer: 443",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Suski\nMiejscowość: Budzów\nKod pocztowy: 34-211\nUlica: Budzów\nNumer: 443",
+    "adres": "Małopolskie Suski Budzów 34-211 Budzów 443",
+    "Województwo": "Małopolskie",
+    "Powiat": "Suski",
+    "Miejscowość": "Budzów",
+    "Kod pocztowy": "34-211",
+    "Ulica": "Budzów",
+    "Numer": "443"
+  },
+  {
+    "name": "Gminny Żłobek w Jordanowie",
+    "address": "Małopolskie Suski Jordanów 34-240 Konopnickiej 6",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Jordanów<br>Kod pocztowy: 34-240<br>Ulica: Konopnickiej<br>Numer: 6<br>adres: Małopolskie Suski Jordanów 34-240 Konopnickiej 6<br>Województwo: Małopolskie<br>Powiat: Suski<br>Miejscowość: Jordanów<br>Kod pocztowy: 34-240<br>Ulica: Konopnickiej<br>Numer: 6",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Suski\nMiejscowość: Jordanów\nKod pocztowy: 34-240\nUlica: Konopnickiej\nNumer: 6",
+    "adres": "Małopolskie Suski Jordanów 34-240 Konopnickiej 6",
+    "Województwo": "Małopolskie",
+    "Powiat": "Suski",
+    "Miejscowość": "Jordanów",
+    "Kod pocztowy": "34-240",
+    "Ulica": "Konopnickiej",
+    "Numer": "6"
+  }
+]

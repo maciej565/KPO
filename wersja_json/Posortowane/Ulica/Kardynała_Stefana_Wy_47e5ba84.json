@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Żłobek w Pierzchnicy",
+    "address": "Świętokrzyskie Kielecki Pierzchnica 26-015 Kardynała Stefana Wyszyńskiego 5",
+    "description": "opis: Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Pierzchnica<br>Kod pocztowy: 26-015<br>Ulica: Kardynała Stefana Wyszyńskiego<br>Numer: 5<br>adres: Świętokrzyskie Kielecki Pierzchnica 26-015 Kardynała Stefana Wyszyńskiego 5<br>Województwo: Świętokrzyskie<br>Powiat: Kielecki<br>Miejscowość: Pierzchnica<br>Kod pocztowy: 26-015<br>Ulica: Kardynała Stefana Wyszyńskiego<br>Numer: 5",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Świętokrzyskie\nPowiat: Kielecki\nMiejscowość: Pierzchnica\nKod pocztowy: 26-015\nUlica: Kardynała Stefana Wyszyńskiego\nNumer: 5",
+    "adres": "Świętokrzyskie Kielecki Pierzchnica 26-015 Kardynała Stefana Wyszyńskiego 5",
+    "Województwo": "Świętokrzyskie",
+    "Powiat": "Kielecki",
+    "Miejscowość": "Pierzchnica",
+    "Kod pocztowy": "26-015",
+    "Ulica": "Kardynała Stefana Wyszyńskiego",
+    "Numer": "5"
+  },
+  {
+    "name": "Poprawa efektywności energetycznej budynku Szkoły Podstawowej w Luboszu",
+    "address": "Kardynała Stefana Wyszyńskiego 64-420 Kwilcz WIELKOPOLSKIE 947,915.83 zł",
+    "description": "Nazwa podmiotu: Gmina Kwilcz<br>Ulica: Kardynała Stefana Wyszyńskiego<br>Nr budynku: 23<br>Kod pocztowy: 64-420<br>Miejscowość: Kwilcz<br>Województwo: WIELKOPOLSKIE<br>Dofinansowanie: 947,915.83 zł",
+    "styleUrl": "#icon-1726-9C27B0",
+    "Nazwa podmiotu": "Gmina Kwilcz",
+    "Ulica": "Kardynała Stefana Wyszyńskiego",
+    "Nr budynku": "23",
+    "Kod pocztowy": "64-420",
+    "Miejscowość": "Kwilcz",
+    "Województwo": "WIELKOPOLSKIE",
+    "Dofinansowanie": "947,915.83 zł"
+  }
+]

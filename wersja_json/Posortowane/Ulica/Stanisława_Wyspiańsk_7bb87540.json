@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Termomodernizacja budynku biblioteki przy ul. Gen. Maczka 3 w Świdniku",
+    "address": "LUBELSKIE Świdnik 21-040 Stanisława Wyspiańskiego",
+    "description": "Podmiot: Gmina Miejska Świdnik<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Świdnik<br>Kod pocztowy: 21-040<br>Ulica: Stanisława Wyspiańskiego<br>Numer budynku: 27",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Miejska Świdnik",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Świdnik",
+    "Kod pocztowy": "21-040",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer budynku": "27"
+  },
+  {
+    "name": "Zakup zeroemisyjnych autobusów wodorowych dla Gminy Miejskiej Świdnik",
+    "address": "Stanisława Wyspiańskiego 27 21-040 Świdnik",
+    "description": "Ulica: Stanisława Wyspiańskiego<br>Numer: 27<br>Kod pocztowy: 21-040<br>Miejscowość: Świdnik",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer": "27",
+    "Kod pocztowy": "21-040",
+    "Miejscowość": "Świdnik"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych wraz z infrastrukturą ładowania do obsługi zeroemisyjnego transportu miejskiego w Nowym Sączu",
+    "address": "Stanisława Wyspiańskiego 22 33-310 Nowy Sącz",
+    "description": "Ulica: Stanisława Wyspiańskiego<br>Numer: 22<br>Kod pocztowy: 33-310<br>Miejscowość: Nowy Sącz",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Stanisława Wyspiańskiego",
+    "Numer": "22",
+    "Kod pocztowy": "33-310",
+    "Miejscowość": "Nowy Sącz"
+  }
+]

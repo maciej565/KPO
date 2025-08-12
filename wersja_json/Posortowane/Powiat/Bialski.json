@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Budowa oświetlenia drogowego i urządzeń brd na przejściach dla pieszych na DK 2 w m. Małaszewicze Duże",
+    "description": "Województwo: lubelskie<br>Powiat: bialski<br>Gmina: Terespol<br>Ilość: 1<br>Współrzędne: 52.04038602954442, 23.516190579777117",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "lubelskie",
+    "Powiat": "bialski",
+    "Gmina": "Terespol",
+    "Ilość": "1.0",
+    "Współrzędne": "52.04038602954442, 23.516190579777117"
+  },
+  {
+    "name": "Budowa oświetlenia drogowego i urządzeń brd na przejściach dla pieszych na DK 2 w m. Woroniec",
+    "description": "Województwo: lubelskie<br>Powiat: bialski<br>Gmina: Biała Podlaska<br>Ilość: 1<br>Współrzędne: 52.03668765007548, 22.933000976223866",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "lubelskie",
+    "Powiat": "bialski",
+    "Gmina": "Biała Podlaska",
+    "Ilość": "1.0",
+    "Współrzędne": "52.03668765007548, 22.933000976223866"
+  },
+  {
+    "name": "Budowa oświetlenia drogowego i urządzeń brd na przejściach dla pieszych na DK 2 w m. Wólka Dobryńska",
+    "description": "Województwo: lubelskie<br>Powiat: bialski<br>Gmina: Zalesie<br>Ilość: 1<br>Współrzędne: 52.037122899794554, 23.469796596823254",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "lubelskie",
+    "Powiat": "bialski",
+    "Gmina": "Zalesie",
+    "Ilość": "1.0",
+    "Współrzędne": "52.037122899794554, 23.469796596823254"
+  }
+]

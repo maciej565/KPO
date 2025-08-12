@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Publiczny Żłobek w Lipnicy Murowanej",
+    "address": "Małopolskie Bocheński Lipnica Murowana 32-724 Lipnica Murowana 51",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Bocheński<br>Miejscowość: Lipnica Murowana<br>Kod pocztowy: 32-724<br>Ulica: Lipnica Murowana<br>Numer: 51<br>adres: Małopolskie Bocheński Lipnica Murowana 32-724 Lipnica Murowana 51<br>Województwo: Małopolskie<br>Powiat: Bocheński<br>Miejscowość: Lipnica Murowana<br>Kod pocztowy: 32-724<br>Ulica: Lipnica Murowana<br>Numer: 51",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Bocheński\nMiejscowość: Lipnica Murowana\nKod pocztowy: 32-724\nUlica: Lipnica Murowana\nNumer: 51",
+    "adres": "Małopolskie Bocheński Lipnica Murowana 32-724 Lipnica Murowana 51",
+    "Województwo": "Małopolskie",
+    "Powiat": "Bocheński",
+    "Miejscowość": "Lipnica Murowana",
+    "Kod pocztowy": "32-724",
+    "Ulica": "Lipnica Murowana",
+    "Numer": "51"
+  },
+  {
+    "name": "Gminny Żłobek w Zaskalu",
+    "address": "Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51",
+    "description": "opis: Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Zaskale<br>Kod pocztowy: 34-424<br>Ulica: Kardynała Karola Wojtyły<br>Numer: 51<br>adres: Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51<br>Województwo: Małopolskie<br>Powiat: Nowotarski<br>Miejscowość: Zaskale<br>Kod pocztowy: 34-424<br>Ulica: Kardynała Karola Wojtyły<br>Numer: 51",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Małopolskie\nPowiat: Nowotarski\nMiejscowość: Zaskale\nKod pocztowy: 34-424\nUlica: Kardynała Karola Wojtyły\nNumer: 51",
+    "adres": "Małopolskie Nowotarski Zaskale 34-424 Kardynała Karola Wojtyły 51",
+    "Województwo": "Małopolskie",
+    "Powiat": "Nowotarski",
+    "Miejscowość": "Zaskale",
+    "Kod pocztowy": "34-424",
+    "Ulica": "Kardynała Karola Wojtyły",
+    "Numer": "51"
+  },
+  {
+    "name": "Klub dziecięcy",
+    "address": "Mazowieckie Płoński Joniec 09-131 Joniec 51",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Płoński<br>Miejscowość: Joniec<br>Kod pocztowy: 09-131<br>Ulica: Joniec<br>Numer: 51<br>adres: Mazowieckie Płoński Joniec 09-131 Joniec 51<br>Województwo: Mazowieckie<br>Powiat: Płoński<br>Miejscowość: Joniec<br>Kod pocztowy: 09-131<br>Ulica: Joniec<br>Numer: 51",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Płoński\nMiejscowość: Joniec\nKod pocztowy: 09-131\nUlica: Joniec\nNumer: 51",
+    "adres": "Mazowieckie Płoński Joniec 09-131 Joniec 51",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Płoński",
+    "Miejscowość": "Joniec",
+    "Kod pocztowy": "09-131",
+    "Ulica": "Joniec",
+    "Numer": "51"
+  },
+  {
+    "name": "Klub Malucha",
+    "address": "Pomorskie Starogardzki Osiek 83-221 Partyzantów Kociewskich 51",
+    "description": "opis: Województwo: Pomorskie<br>Powiat: Starogardzki<br>Miejscowość: Osiek<br>Kod pocztowy: 83-221<br>Ulica: Partyzantów Kociewskich<br>Numer: 51<br>adres: Pomorskie Starogardzki Osiek 83-221 Partyzantów Kociewskich 51<br>Województwo: Pomorskie<br>Powiat: Starogardzki<br>Miejscowość: Osiek<br>Kod pocztowy: 83-221<br>Ulica: Partyzantów Kociewskich<br>Numer: 51",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Pomorskie\nPowiat: Starogardzki\nMiejscowość: Osiek\nKod pocztowy: 83-221\nUlica: Partyzantów Kociewskich\nNumer: 51",
+    "adres": "Pomorskie Starogardzki Osiek 83-221 Partyzantów Kociewskich 51",
+    "Województwo": "Pomorskie",
+    "Powiat": "Starogardzki",
+    "Miejscowość": "Osiek",
+    "Kod pocztowy": "83-221",
+    "Ulica": "Partyzantów Kociewskich",
+    "Numer": "51"
+  }
+]

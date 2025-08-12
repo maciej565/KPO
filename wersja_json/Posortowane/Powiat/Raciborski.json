@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Poprawa brd na przejściach dla pieszych na DK45 w m. Racibórz",
+    "description": "Województwo: śląskie<br>Powiat: raciborski<br>Gmina: Racibórz<br>Ilość: 1<br>Współrzędne: 50.08840925761873, 18.19774291911852",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "raciborski",
+    "Gmina": "Racibórz",
+    "Ilość": "1.0",
+    "Współrzędne": "50.08840925761873, 18.19774291911852"
+  },
+  {
+    "name": "Poprawa bezpieczeństwa ruchu drogowego w województwie śląskim na DK45 na odcinku Roszków - Tworków",
+    "description": "Województwo: śląskie<br>Powiat: raciborski<br>Gmina: Krzyżanowice<br>Ilość: <br>Współrzędne: 49.98316463593113, 18.26761376345613",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "śląskie",
+    "Powiat": "raciborski",
+    "Gmina": "Krzyżanowice",
+    "Ilość": null,
+    "Współrzędne": "49.98316463593113, 18.26761376345613"
+  }
+]

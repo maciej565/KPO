@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Przebudowa DK 55 polegająca na budowie chodnika w m. Dusocin od km 84+469 do km 84+900",
+    "description": "Województwo: kujawsko-pomorskie<br>Powiat: grudziądzki<br>Gmina: Grudziądz<br>Ilość: 1<br>Współrzędne: 53.565027155250796, 18.857666427204112",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": "kujawsko-pomorskie",
+    "Powiat": "grudziądzki",
+    "Gmina": "Grudziądz",
+    "Ilość": "1.0",
+    "Współrzędne": "53.565027155250796, 18.857666427204112"
+  },
+  {
+    "name": "Rozbudowa drogi krajowej nr 55 na odcinku Grudziądz – Mokre w ramach PBDK – Program Likwidacji Miejsc Niebezpiecznych",
+    "description": "Województwo:  kujawsko-pomorskie<br>Powiat: grudziądzki<br>Gmina: Grudziądz<br>Ilość: 1<br>Współrzędne: 53.51167822485725, 18.806122918107995",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": " kujawsko-pomorskie",
+    "Powiat": "grudziądzki",
+    "Gmina": "Grudziądz",
+    "Ilość": "1.0",
+    "Współrzędne": "53.51167822485725, 18.806122918107995"
+  },
+  {
+    "name": "Rozbudowa drogi krajowej nr 55 na odcinku Grudziądz – Klęczkowo polegająca na budowie ciągu pieszo-rowerowego w ramach PBDK – Program Likwidacji Miejsc Niebezpiecznych",
+    "description": "Województwo:  kujawsko-pomorskie<br>Powiat: grudziądzki<br>Gmina: Grudziądz<br>Ilość: 1<br>Współrzędne: 53.3955785140756, 18.690177282897796",
+    "styleUrl": "#icon-1769-0F9D58",
+    "Województwo": " kujawsko-pomorskie",
+    "Powiat": "grudziądzki",
+    "Gmina": "Grudziądz",
+    "Ilość": "1.0",
+    "Współrzędne": "53.3955785140756, 18.690177282897796"
+  }
+]

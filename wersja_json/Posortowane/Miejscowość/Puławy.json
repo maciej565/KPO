@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Termomodernizacja budynku świetlicy wiejskiej w miejscowości Borowa",
+    "address": "LUBELSKIE Puławy 24-100 Dęblińska",
+    "description": "Podmiot: Gmina Puławy<br>Miejsce realizacji – województwo: LUBELSKIE<br>Miejscowość: Puławy<br>Kod pocztowy: 24-100<br>Ulica: Dęblińska<br>Numer budynku: 4",
+    "styleUrl": "#icon-1899-DB4436",
+    "Podmiot": "Gmina Puławy",
+    "Miejsce realizacji – województwo": "LUBELSKIE",
+    "Miejscowość": "Puławy",
+    "Kod pocztowy": "24-100",
+    "Ulica": "Dęblińska",
+    "Numer budynku": "4"
+  },
+  {
+    "name": "Poprawa efektywności i jakości transportu publicznego w Puławach poprzez zakup nowoczesnego zeroemisyjnego taboru autobusowego wraz z budową niezbędnej infrastruktury ładowania",
+    "address": "Dęblińska 2A 24-100 Puławy",
+    "description": "Ulica: Dęblińska<br>Numer: 2A<br>Kod pocztowy: 24-100<br>Miejscowość: Puławy",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Dęblińska",
+    "Numer": "2A",
+    "Kod pocztowy": "24-100",
+    "Miejscowość": "Puławy"
+  }
+]

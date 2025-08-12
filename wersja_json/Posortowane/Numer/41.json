@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Samorządowy Żłobek \"Maluszek\" w Przysusze",
+    "address": "Mazowieckie Przysuski Przysucha 26-400 Skowyry 41",
+    "description": "opis: Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Przysucha<br>Kod pocztowy: 26-400<br>Ulica: Skowyry<br>Numer: 41<br>adres: Mazowieckie Przysuski Przysucha 26-400 Skowyry 41<br>Województwo: Mazowieckie<br>Powiat: Przysuski<br>Miejscowość: Przysucha<br>Kod pocztowy: 26-400<br>Ulica: Skowyry<br>Numer: 41",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Mazowieckie\nPowiat: Przysuski\nMiejscowość: Przysucha\nKod pocztowy: 26-400\nUlica: Skowyry\nNumer: 41",
+    "adres": "Mazowieckie Przysuski Przysucha 26-400 Skowyry 41",
+    "Województwo": "Mazowieckie",
+    "Powiat": "Przysuski",
+    "Miejscowość": "Przysucha",
+    "Kod pocztowy": "26-400",
+    "Ulica": "Skowyry",
+    "Numer": "41"
+  },
+  {
+    "name": "Gminny Żłobek w Mórkowie",
+    "address": "Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41",
+    "description": "opis: Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Mórkowo<br>Kod pocztowy: 64-111<br>Ulica: Mórkowo<br>Numer: 41<br>adres: Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41<br>Województwo: Wielkopolskie<br>Powiat: Leszczyński<br>Miejscowość: Mórkowo<br>Kod pocztowy: 64-111<br>Ulica: Mórkowo<br>Numer: 41",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Wielkopolskie\nPowiat: Leszczyński\nMiejscowość: Mórkowo\nKod pocztowy: 64-111\nUlica: Mórkowo\nNumer: 41",
+    "adres": "Wielkopolskie Leszczyński Mórkowo 64-111 Mórkowo 41",
+    "Województwo": "Wielkopolskie",
+    "Powiat": "Leszczyński",
+    "Miejscowość": "Mórkowo",
+    "Kod pocztowy": "64-111",
+    "Ulica": "Mórkowo",
+    "Numer": "41"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna w Gminie Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna w Gminie Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  },
+  {
+    "name": "Zeroemisyjna komunikacja publiczna – kontynuacja procesu elektryfikacji taboru komunikacji miejskiej na terenie Gminy Miejskiej Bolesławiec",
+    "address": "rynek Rynek 41 59-700 Bolesławiec",
+    "description": "Ulica: rynek Rynek<br>Numer: 41<br>Kod pocztowy: 59-700<br>Miejscowość: Bolesławiec",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "rynek Rynek",
+    "Numer": "41",
+    "Kod pocztowy": "59-700",
+    "Miejscowość": "Bolesławiec"
+  }
+]

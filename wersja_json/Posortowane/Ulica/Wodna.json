@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Żłobek Samorządowy w Urzędowie",
+    "address": "Lubelskie Kraśnicki Urzędów 23-250 Wodna 34",
+    "description": "opis: Województwo: Lubelskie<br>Powiat: Kraśnicki<br>Miejscowość: Urzędów<br>Kod pocztowy: 23-250<br>Ulica: Wodna<br>Numer: 34<br>adres: Lubelskie Kraśnicki Urzędów 23-250 Wodna 34<br>Województwo: Lubelskie<br>Powiat: Kraśnicki<br>Miejscowość: Urzędów<br>Kod pocztowy: 23-250<br>Ulica: Wodna<br>Numer: 34",
+    "styleUrl": "#icon-1899-DB4436",
+    "opis": "Województwo: Lubelskie\nPowiat: Kraśnicki\nMiejscowość: Urzędów\nKod pocztowy: 23-250\nUlica: Wodna\nNumer: 34",
+    "adres": "Lubelskie Kraśnicki Urzędów 23-250 Wodna 34",
+    "Województwo": "Lubelskie",
+    "Powiat": "Kraśnicki",
+    "Miejscowość": "Urzędów",
+    "Kod pocztowy": "23-250",
+    "Ulica": "Wodna",
+    "Numer": "34"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych zasilanych wodorem",
+    "address": "Wodna 2 30-556 Kraków",
+    "description": "Ulica: Wodna<br>Numer: 2<br>Kod pocztowy: 30-556<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wodna",
+    "Numer": "2",
+    "Kod pocztowy": "30-556",
+    "Miejscowość": "Kraków"
+  },
+  {
+    "name": "Zakup autobusów elektrycznych ze stacjami ładowania",
+    "address": "Wodna 2 30-556 Kraków",
+    "description": "Ulica: Wodna<br>Numer: 2<br>Kod pocztowy: 30-556<br>Miejscowość: Kraków",
+    "styleUrl": "#icon-1532-E65100",
+    "Ulica": "Wodna",
+    "Numer": "2",
+    "Kod pocztowy": "30-556",
+    "Miejscowość": "Kraków"
+  }
+]
